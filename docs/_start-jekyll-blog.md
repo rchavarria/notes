@@ -32,4 +32,72 @@ del todo, pero quizá quede muy oscuro
 
 ## Levantar el blog con el tema elegido
 
+Muy bien, vamos a utilizar el tema *Airspace*.
+
+Lo primero que hay que hacer es clonar el repositorio con el código fuente del tema:
+
+```
+git clone https://github.com/ndrewtl/airspace-jekyll
+```
+
+El comando crea un directorio llamado `airspace-jekyll`. Desde ese directorio, levantaremos el blog
+a través de un comando `docker-compose`. Pero antes, necesitamos el fichero para dicha
+herramienta.
+
+El fichero de configuración de `docker-compose` es un fichero `.yml` donde se pueden configurar
+prácticamente todos los parámetros para crear un contenedor. El fichero utilizado es similar
+a éste (para ver la última versión, echar un vistazo a este
+[repo](https://github.com/rchavarria/web-server-jose/blob/master/docker-compose-master.yml). El
+fichero se llamará `docker-compose.yml` para simplificar el proceso:
+
+```
+version: '3'
+
+services:
+  # a container to serve the blog
+  blog:
+    image: jekyll/jekyll   # build from latest jekyll
+    container_name: blog
+    ports:
+      - 4000:4000          # expose this port
+    volumes:
+      - .:/srv/jekyll      # share local source files with the container
+      - ./vendor/bundle:/usr/local/bundle     # cache ruby gems
+      
+    entrypoint:
+      - jekyll
+      - serve
+```
+
+Con él, se indica a `docker-compose` que cree un contenedor (o `service`) llamado `blog`,
+a partir de la imagen `jekyll/jekyll` (imagen con la última versión de Jekyll), que exponga
+el puerto `4000` y que mapee un par de directorios del sistema host al sistema ^*dockerizado*
+(`volumes`). Como último paso, se debe ejecutar el comando (o `entrypoint`) `jekyll serve`.
+
+Otros comandos que se pueden ejecutar serían:
+
+- `bundle install`: para instalar las gemas de ruby necesarias para ejecutar el blog. Aunque
+este paso ya se hace automáticamente, puede servir para ir depurando y averiguar si tenemos
+algún problema con alguna gema en particular
+- `jekyll build`: para construir el blog, generar los ficheros estáticos, pero no servirlos
+todavía. Igual que el comando anterior, ya se ejecuta automáticamente con `jekyll serve` pero
+puede servir para depurar.
+
+En definitiva, para tener el blog corriendo en local, basta con teclear:
+
+```
+cd airspace-jekyll
+sudo docker-compose docker-compose.yml
+```
+
+####################################################
+######  Voy por aqui, ejecuta el comando    ########
+####################################################
+
 ## ¿Qué mas?
+
+## Referencias
+
+- [Jekyll + Docker + Github Pages](http://cowsandcode.com/2018/jekyll-docker-github-pages/):
+de aquí surgió la idea original de este proyecto. No he seguido los pasos uno por uno, he
+tenido que improvisar e investigar por mi cuenta, pero eso no le quita mérito al post.
