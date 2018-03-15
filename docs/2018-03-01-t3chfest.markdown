@@ -43,41 +43,37 @@ La idea parece interesante, pero parece que las empresas solo se preocupan de ve
 
 ### [So, you think the technology is neutral?](https://t3chfest.uc3m.es/2018/programa/crees-que-la-tecnologia-es-neutra/), by [esus M González Barahona](https://twitter.com/jgbarah)
 
-Very, very interesting talk about technology, not the technical side, but the human and the social side of it. It's a pity it's in Spanish, the speaker provides more questions than answers. The talk is full of *food for thought*.
+Charla muy, muy interesante sobre tecnología. No el lado técnico, si no el humano y social. El ponente expuso más preguntas que respuestas, la charla está llena de ideas sobre las que pensar.
 
-Technology enables (affords, make it possible, give power,...), but also, technology constraints (limits you,...)
+La tecnología permite/habilita... pero también limita
 
-Tech decissions today constraint what we'll be able to do in the future, even more than politics.
+Las decisiones técnicas de hoy limitan lo que seremos capaces de hacer y crear en el futuro, incluso más que las decisiones políticas
 
-Technology is made by humans, if we don't like, we should be able to change it. 
+La tecnología está hecha por humanos, si no nos gusta, deberíamos ser capaces de cambiarla
 
-But that's usually not involved in social discussions, social debates. We don't usually ask ourselves (as a society) what technology enables or constraints.
+Pero eso no suele estar presente en discusiones sociales. Normalmente, no nos preguntamos a nosotros mismos como sociedad lo que la tecnología nos permite y lo que nos limita
 
-There are three kind of communication services:
+Hay 3 clases de servicios de comunicación: centralizado, federado y punto a punto (peer to peer, p2p)
 
-1. Centralized
-2. Federated
-3. Peer to peer
+¿Cuál es más fácil de controllar? ¿Cuál hace más fácil la innovación?
 
-What is the easiest to control? What enables innovation best?
+¿Quién es capaz de actualizar el software de tu coche? ¿Estaría bien que fuera el dueño quien lo actualizara? Ahora, cambia *coche* por nevera, teléfono, cafetera,... ¿Cuántas empresas saben dónde te encuentras tú ahora mismo?
 
-Who's able to update your car's software? Would it be ok if the owner could update it? Replace car with refrigerator, phone, coffee machine,... How many companies know where you are right now?
+El ponente mencionó el eterno debate entre seguridad y libertad/privacidad
 
-The speaker mentioned the well known battle: security Vs freedom
+¿Quién es responsable de lo que podemos o no podemos ver/hacer en internet?
 
-Who's responsible about what you can and can't see on the Internet?
+El problema no es si una empresa (Facebook, Twitter, Google,...) censuran ciertos contenidos. El problema es que una empresa, una empresa privada pueda censurar, que sea legal que una empresa censure, que esté socialmente aceptado que una empresa pueda censurar. ¿Una posible solución? Más poder de computación y almacenamiento, más barato, menos consumo de energía, más movilidad. Más conectvidad, más velocidad de conexión, más barato. Mejores tecnologías federadas, mejores comunicaciones p2p.
 
-Problem is not if a company (say Facebook, Twitter, Google) censors some content. Problem is that a company, a private company can censor, that it's legal for a company to censor, that it's socially accepted a company can censor. Possible solution? more computer power and storage, cheaper cpu and storage, less energy consumption, more mobility. More connectivity, faster, cheaper. Better federated technologies, better p2p communications.
+**Tendencias**
 
-**Trends**
+Código y Ley: históricamente, la ley ha sido quien limita la sociedad. Hoy en día, es la tecnología la que nos limita. Normalmente, hoy la ley va por detrás de la tecnología
 
-Code and law: historcally, law is who constraint society. nowadays, technology constraints us. Most of the time, law is behind technology
+Guerra contra el ordenador de propósito general: especialización, casi todos los dispositivos electrónicos funcionan con software, pero tú no eres capaz de decidir qué tipo de software los hace funcionar (coche, cafetera, lavadora, móvil,...)
 
-War against general purpose computer: speciallization, almost all electronic devices work with software, but you're not able to decide what kind of software makes them work (car, coffe machine, washer,...)
+Hardware + Software: conocimiento que funciona. El código no es sólo la receta, también te cocina el plato.
 
-Hardware + Software: knowledge that works. Code is not only the recipe, it also cooks the dish.
-
-In the 80's, there were people that thought software should allow much more than it did, that way is how Open Source was born
+En los 80, hubo un grupo de gente que pensó que el software debería permitir mucho más de lo que lo hacía, y de ese grupo de personas nació el Open Source
 
 ### [Contactless magnetic mechanisms for aerospace and robotic applications](https://t3chfest.uc3m.es/2018/programa/contactless-magnetic-mechanisms-for-aerospace-and-robotic-applications/), by [Ignacio Valiente-Blanco](https://www.linkedin.com/in/ignacio-valiente-96528a2b) and [Judit Esnoz](https://www.linkedin.com/in/judit-esnoz-larraya-05388882)
 
