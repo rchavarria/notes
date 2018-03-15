@@ -1,25 +1,23 @@
 # T3chFest 2018
 
-## La conferencia en sí
+[La conferencia en sí](https://t3chfest.uc3m.es/2018/):
 
-[Conferencia T3chFest](https://t3chfest.uc3m.es/2018/):
-
-- +60 voluntarios
+- Más de 60 voluntarios
 - +1 al cuaderno incluido en el pack
 - +1 al agua por todas partes
 - +1 al espacio para el café, que era mayor que el año anterior y estaba mejor organizado
 - +1 a la música de fondo mientras se esperaba para que la charla comenzara
 - +1 al encuentro con gente de otras comunidades
 
-## Talks
+## Charlas
 
 ### Keynote, [Artificial intelligence to stop dyslexia](https://t3chfest.uc3m.es/2018/programa/inteligencia-artificial-acabar-dislexia/), by [Luz Rello](https://twitter.com/luzrello)
 
-Dyslexia is not related to any kind of intelligence. It means a very intelligent person can have dyslexia.
+La dislexia no está relacionada con ningún tipo de inteligencia. Por lo que una persona muy (o muy poco) inteligente puede tener dislexia.
 
-People with dyslexia are able to read, with the *same understanding*, texts with errors, without errors or with flipped characters. People without dyslexia read much worse when texts contain errors.
+La gente con dislexia es capaz de leer, con la misma capacidad de entendimiento, textos con errores, sin ellos o con las letras del revés. La gente sin dislexia lee mucho peor los textos que contienen errores. 
 
-It wasn't a technical talk, but lot's of studies about dyslexia have been supported by technology: eye tracking, statistics,...
+No ha sido una charla técnica, para nada, pero muchísimo sestudios sobre la dislexia se apoyan en la tecnología: seguimiento de movimiento de ojos (eye tracking), estadística,...
 
 **¿Einar es disléxico? Confunde mucho la `a` y la `e` al leer y le cuesta hacer dibujos simétricos (cuando para otras tareas parece que la abstracción espacial la tiene bastante buena).**
 
