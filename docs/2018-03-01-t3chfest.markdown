@@ -77,17 +77,17 @@ En los 80, hubo un grupo de gente que pensó que el software debería permitir m
 
 ### [Contactless magnetic mechanisms for aerospace and robotic applications](https://t3chfest.uc3m.es/2018/programa/contactless-magnetic-mechanisms-for-aerospace-and-robotic-applications/), by [Ignacio Valiente-Blanco](https://www.linkedin.com/in/ignacio-valiente-96528a2b) and [Judit Esnoz](https://www.linkedin.com/in/judit-esnoz-larraya-05388882)
 
-It was not a software related talk, but it was about engineering.
+No fue una charla relacionada con el software, pero sí lo fue con la ingeniería.
 
-Magnetic mechanisms: it replaces parts of a tradicional mechanism (gear,...) with magnetic devices: plain magnets, materials made of iron (ferrites, soft-magnetic materials,...), materials that are source of magnetic fields.
+Mecanismos magnéticos: reemplazan partes de los mechanismos tradicionales (ruedas dentadas,...) con dispositivos magnéticos: imanes, metales férricas (ferritas, materiales magnéticos débiles,...), materiales que incluso son fuente de campos magnéticos.
 
-Those devices doesn't have the same limitations as tradicional ones: there is no friction, no contact, so lubricant oil is not needed, what means less maintenance.
+Estos dispositivos no tienen las mismas limitaciones que los tradicionales: no hay fricción, no hay contacto, no generan tanto calor, el aceite para lubricar no es necesario,... todo esto se traduce en un mantenimiento mucho menor.
 
-Their best product is a [magnetic gear](https://www.youtube.com/watch?v=MP5ah6tEi04). They use magnets to transfer movement from one side to another, reducing the rpm's (revolution per minute) by 7, 50 or hundreds of times. (7 Hz to 1 Hz)
+Su mejor producto es una [reductora magnética](https://www.youtube.com/watch?v=MP5ah6tEi04). Usan imanes para transferir movimiento de una parte a otra de la reductora, reduciendo las vueltas por minuto por 7, 50 o incluso cientos de veces.
 
-Another product, [z-damper](https://www.youtube.com/watch?v=hswcmO7wiBA). It's based on a magnetic break (trains break with magnetic fields through the wheels). It slows down something in movement. It's used in airplains to reduce vibrations.
+Otro de sus productos, [z-damper, o amortiguador](https://www.youtube.com/watch?v=hswcmO7wiBA). Está basado en el mismo principio que los frenos magnéticos (hay trenes que frenan gracias a que hacen pasar unos campos magnéticos por sus ruedas en movimiento). Reduce la transmisión de vibraciones. Se puede usar en aviones para reducir las vibraciones de sonido y aislar donde van los pasajeros.
 
-Superconductors: they are electric resistance free, some of them emit magnetic field. They did a demo where a piece of metal was at very low temperature, and it floated in the air (similar to [this](https://www.youtube.com/watch?v=2EaZCaH0t78) ).
+Superconductores: son metales que no tienen resistencia eléctrica, y algunos de ellos son capaces de emitir un campo magnético. Hicieron una demo donde un trozo de metal, a muy baja temperatura, flotaba en el aire, al ser repelido por el campo magnético (muy parecido a este [vídeo](https://www.youtube.com/watch?v=2EaZCaH0t78) ).
 
 ### [Side-projects for fun and learning](https://t3chfest.uc3m.es/2018/programa/side-projects-fun-and-learning/), by [Marta Cruz](https://twitter.com/espoletavt) and [Daniel Villalobos](https://twitter.com/dvillalobos) - [slides](https://docs.google.com/presentation/d/e/2PACX-1vQGKlndXer_IGM7Y3IpRpahgbeoqngGnk4r1RWHhzEhWKuhhn4lq6T0T9sg-RC9RQ6jLGdK-PpzRS2-/pub#slide=id.g335b6d559c_0_0)
 
