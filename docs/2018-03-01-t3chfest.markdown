@@ -23,21 +23,19 @@ No ha sido una charla técnica, para nada, pero muchísimo sestudios sobre la di
 
 ### [The Future of the Conversational UIs](https://t3chfest.uc3m.es/2018/programa/the-future-the-conversational-uis/), by [Jorge del Casar](https://twitter.com/JorgeCasar)
 
-Several phases: design, implementation, test, deploy. Very similar to software development. Not sure why the speaker didn't match both *worlds*.
+Varias fases: diseño, implementación, test y desplegar. Muy similar a cualquier desarrollo de software. No estoy seguro porqué el ponente no unió ambas visiones, hubiera sido un paralelismo bastante bueno.
 
-The design phase is the more important one in conversational UIs, in contrast with traditional UIs. It's very important to think about use cases up front.
+La fase de diseño es la más importante al desarrollar una interfaz conversacional, al contrario que las UI tradicionales. Es muy importante en pensar todos los casos de uso posibles antes de avanzar.
 
-1. There must be a Persona, so users will *feel* the conversation
-2. Think out of the box: every user is different, every user will lead the conversation in different ways. Conversations are not as simple as Command-Response. There are several contexts, several meanings,...
+1. Debe de haber una *Persona*, para que los usuarios *sientan* la conversación
+2. Piensa a lo loco: cada usuario es diferente, cada usuario llevará la conversación por diferentes caminos. Las conversaciones no son simplemente Comando-Respuesta. Hay varios contextos, varios significados, malos entendidos,...
 
-There are tons of tools to create conversational UIs
+Hay muchísimas herramientas para crear interfaces conversacionales
 
-- Server side: Luis (Microsoft), IBM Watson,... All of them are cloud based, and they require a lot of time preparing and making the tool learning about your use cases.
-- SDKs, to implement your client side: ActionsSDK, MS Bot Framework,...
+- En el lado del servidor: Luis (Microsoft), IBM Watson,... Todos ellos están basados en la *nube*, y requieren de mucho tiempo de entrenamiento para hacer que la herramienta aprenda lo más posible sobre tus casos de uso
+- SDKs, para implementar el lado del cliente: ActionsSDK, MS Bot Framework,...
 
-The subject looks interesting, but it seems to be companies are trying to sell their cloud based tool, and that tool is *basically* a speech-2-text tool. Some companies are moving forward, but the core business is simple, and they're selling it as a complex business you can't do without them.
-
-The speaker said nothing about Evie :P
+La idea parece interesante, pero parece que las empresas solo se preocupan de vender sus productos en la nube, y que la herramienta es *básicamente* una herramienta de dictado (speech to text). Algunas compañías van un poco más allá, pero el negocio principal es sencillo. Lo están vendiendo como un negocio súper complicado, algo que no puedes hacer sin ellos, sin su nube.
 
 **Feedback**
 
