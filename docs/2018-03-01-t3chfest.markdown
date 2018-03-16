@@ -91,30 +91,30 @@ Superconductores: son metales que no tienen resistencia eléctrica, y algunos de
 
 ### [Side-projects for fun and learning](https://t3chfest.uc3m.es/2018/programa/side-projects-fun-and-learning/), by [Marta Cruz](https://twitter.com/espoletavt) and [Daniel Villalobos](https://twitter.com/dvillalobos) - [slides](https://docs.google.com/presentation/d/e/2PACX-1vQGKlndXer_IGM7Y3IpRpahgbeoqngGnk4r1RWHhzEhWKuhhn4lq6T0T9sg-RC9RQ6jLGdK-PpzRS2-/pub#slide=id.g335b6d559c_0_0)
 
-It's impossible to know everything, you have to choose. Try to find the sweet spot in: passion + creativity + try new things + enjoy
+Es imposible saber todo, saber de todo, tienes que elegir. Intenta encontrar el punto donde se unen: pasión + creatividad + intentar cosas nuevas + disfrutar, el llamado *sweet spot*.
 
-Use side projects to learn something new, to learn something quite different of what you use in your day to day job, to learn and experiment with other people, to get experience without a formal job
+Usa los proyectos personales para aprender algo nuevo, para aprender algo muy diferente a lo que usas en tu trabajo diario, para aprender y experimentar con otra gnete, para conseguir experiencia sin necesidad de un trabajo formal.
 
-Side project elements:
+Elementos de un proyecto personal:
 
-1. Passion
-2. Start small
-3. No pressure
-4. Make it simple
+1. Pasión
+2. Comienza poco a poco
+3. Sin presión
+4. Hazlo simple
 
-Benefits: learning, enjoy, shared knowledge,...
+Beneficios: aprendizaje, disfrute, conocimiento compartido,...
 
-Phases:
+Fases:
 
 1. Idea
-2. Debate, discussion: to improve the first idea
-3. Validate
+2. Debate, discusión: para mejorar la idea original
+3. Validar
 4. MVSP (most valuable side-project)
-5. Demo, share
+5. Demo, compartir
 
-Experiment without fear, a side project is a project where failure is wellcomed. Do it right, do it with love
+Experimenta sin miedo, un proyecto personal es un proyecto donde los fallos son bienvenidos. Hazlo bien, hazlo con amor.
 
-Speakers talked about side projects as if they should be done as part of a team, within the company. I think they just expose their experience. It could be told from a wider perspective
+Los ponentes hablaron de proyectos personales como si se debieran hacer siempre en equipo, e incluso con los compañeros de trabajo. Creo que solamente expusieron su experiencia. La verdad es que podría haber visto con una perspectiva más amplia
 
 ### [Let's understand what is reactivity](https://t3chfest.uc3m.es/2018/programa/entendamos-la-reactividad/), by [José Manuel García](https://twitter.com/semagarcia) - [slides](https://www.slideshare.net/sema_hkd/t3chfest-2018-entendamos-de-una-vez-qu-es-eso-de-la-reactividad), [code](https://github.com/semagarcia/rxjs-t3chfest-reactividad)
 
