@@ -118,30 +118,30 @@ Los ponentes hablaron de proyectos personales como si se debieran hacer siempre 
 
 ### [Let's understand what is reactivity](https://t3chfest.uc3m.es/2018/programa/entendamos-la-reactividad/), by [José Manuel García](https://twitter.com/semagarcia) - [slides](https://www.slideshare.net/sema_hkd/t3chfest-2018-entendamos-de-una-vez-qu-es-eso-de-la-reactividad), [code](https://github.com/semagarcia/rxjs-t3chfest-reactividad)
 
-What's reactivity/reactivex? It's a paradigm to work with asynchronous data streams
+¿Qué es la reactividad (ReactiveX)? Es un paradigma para trabajar con flujos de datos asíncronos
 
-Any value that changes over time is a good candidate to be *observed*. After that, you'll see *observables* anywhere, and you're right!
+Cualquier valor que cambia con el timepo es un buen candidato para ser *observado*. Después de esto, verás *observables* por todos los lados, y tendrás razón.
 
-JavaScript is asynchronous: callbacks, promises, generators, async/await
+JavaScript es asíncrono hasta la médula: callbacks, promises, generators, async/await,...
 
-Observables **are** functions. They do nothing until you invoke them, they're lazy. They do someting any time you invoke them, by subscribing to them
+Los `Observable`s **son funciones**. No hacen nada hasta que se les invoca, son perezosos. Pero también, hacen cosas cada vez que se les llama, cada vez que alguien se suscribe a ellos.
 
-`subscribe` method returns a subscription object that allows managing the subscription: unsubscribe,... Useful to avoid memory leaks (BTW, I didn't know you should unsubscribe from them to avoid memory leaks)
+El método `subscribe` devuelve un objeto `subscription` que permite gestionar algunas cosas de la suscripción: cancelarla, desuscribirse,... Es muy útil para evitar fugas de memoria (memory leaks) (Por cierto, no sabía que tenías que desuscribirte de ellos para evitar problemas de memoria)
 
-A subscription ends when:
+Una suscripción termina cuando:
 
-1. Data stream is over
-2. Client unsubscribes
+1. El flujo de datos termina
+2. El cliente se desuscribe
 
-`Subject` can play both roels: publisher and subscriber. The speaker built a state machine UI, publishing events in an observable, and observing them in another component inside the application. [Angular app showing it](https://github.com/semagarcia/rxjs-t3chfest-reactividad/tree/master/07-subject-t3chfy)
+`Subject` puede jugar dos papeles: el que publica y el que se suscribe. El ponente ha creado un interfaz (UI) a través de una máquina de estados, publicando eventos observables, y observándolos en otro componente de la aplicación: [Angular app showing it](https://github.com/semagarcia/rxjs-t3chfest-reactividad/tree/master/07-subject-t3chfy)
 
-Operator: function that receives an `Observable` as param and returns another `Observable`. They can be chained. There are operators to do almost anythin. They are the interesting part of ReactiveX
+Operador: es una función que recibe un `Observable` como parámetro y devuelve otro `Observable` (normalmente transformado). Los operadores pueden ser encadenados. Hay operadores para casi cualquier cosa. Son la parte más interesante de ReactiveX
 
 **Feedback**
 
-:) Live (and visual) examples in browser console
+:) Ejemplos (y muy visuales) en vivo y en directo en la consola del navegador
 
-:) Nice example with the lottery (slide #23)
+:) Muy buen ejemplo de un observable, la lotería (las bolas son el flujo de datos,...) (echar un vistazo a la trasparencia #23)
 
 ### [AireMad and Open Source](https://t3chfest.uc3m.es/2018/programa/airemad-open-source/), by [Ulises Gascón](https://twitter.com/kom_256) - [slides](http://slides.com/ulisesgascon/airemad-t3chfest-2018#/)
 
