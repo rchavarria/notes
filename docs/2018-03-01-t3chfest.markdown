@@ -145,33 +145,33 @@ Operador: es una función que recibe un `Observable` como parámetro y devuelve 
 
 ### [AireMad and Open Source](https://t3chfest.uc3m.es/2018/programa/airemad-open-source/), by [Ulises Gascón](https://twitter.com/kom_256) - [slides](http://slides.com/ulisesgascon/airemad-t3chfest-2018#/)
 
-To be Open Source, a software must obey 4 *laws of freedom*:
+Para que un software sea Open Source, debe cumplir 4 *leyes de libertad*, o 4 libertades:
 
-1. Free to execute the app as you want
-2. Free to study the source code
-3. Free to distribute
-4. Free to copy and share
+1. Libertad de ejecutar la aplicación como uno quiera
+2. Libertad de estudiar el código fuente
+3. Libertad de distribuir la aplicación
+4. Libertad de copiar y compartir el código
 
-Open Data should be promoted by goverments
+Los Datos Abiertos (Open Data) debería ser promovido por los gobiernos
 
-It is illegal to collect personal data in Open Data, to protect people
+Es ilegal recoger datos personales en los Datos Abiertos, para proteger a la gente. Si estás queriendo *abrir* tus datos, no deberías recoger datos personales
 
-**Found issues while developing Aire Madrid**
+**Problemas encontrados mientras se desarrollaba Aire Madrid**
 
-Measurement stations: new ones appear without notice, old ones dissapear, stations change location,...
+Estaciones de medición: aparecían nuevas sin noticia alguna, otras viejas desaparecía, las estaciones cambian de localización,...
 
-The source of data use relative concept:
+La fuente de datos usa conceptos relativos:
 
-1. Real time: one report every hour (in the best case). reports once a day, with data from previous day.
-2. Formats: there is no standard, even for the same data set. There are user guides to understand the data. Sometimes, there are errors in the specified format (are they created by hand?)
+1. Tiempo real: un informe cada hora (en el mejor de los casos), informes una vez al día, con datos del día anterior
+2. Formatos: no hay ningún estándar, ni siquiera para el mismo grupo de datos. Existen guías de usuario para entender los datos. A veces, hay errores de formato en los datos publicados (en serio? ni que se crearan los datos a mano)
 
-The developer must write lots of defensive code. [Postel's law](https://en.wikipedia.org/wiki/Robustness_principle)
+El desarrollador debe escribir mucho código defensivo. [Postel's law](https://en.wikipedia.org/wiki/Robustness_principle)
 
-There are changes without notice, or even new data without documentation
+Suele haber cambios sin ningún tipo de anuncio, incluso nuevos datos sin ningún tipo de documentación
 
-People publishing the data has their problems too: the want to do better, but they don't have the knowledge (they need developers like us), the money (no budget), boss/colleagues support,...
+La genete que publica los datos tiene sus problemas también: lo quieren hacer mejor, pero puede que no tengan el conocimiento (necesitan desarrolladores como nosotros), no tienen el dinero, no tienen el apoyo de su jefe (o más arriba en la jerarquía),...
 
-Aire Madrid evolved to AireMAD API. They maintain an API with curated data. They grew the data set adding new stations, new station types, new data: stations, pollution, noise, polen, flu,...
+Aire Madrid evolucionó a AireMAD API. Mantienen un API con datos saneados. Aumentaron los datos añadiendo nuevas estaciones (de otras fuentes de datos abiertos), nuevos tipos de estación, nuevos datos: estaciones, polución, ruido, polen, gripe,...
 
 ### [Wubba lubba dub dub!](https://t3chfest.uc3m.es/2018/programa/wubba-lubba-dub-dub/), by [Jorge Barroso](https://twitter.com/flipper83)
 
