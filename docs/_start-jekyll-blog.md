@@ -90,9 +90,27 @@ cd airspace-jekyll
 sudo docker-compose docker-compose.yml
 ```
 
-####################################################
-######  Voy por aqui, ejecuta el comando    ########
-####################################################
+Ya tenemos el blog ejecutándose, ahora llega la hora de personalizarlo a nuestro gusto e ir añadiendo
+posts
+
+## Estudiando la organización de ficheros del tema
+
+Para poder saber qué debemos personalizar, entendamos primero la organización de los ficheros
+del tema:
+
+Comenzaremos por `_config.yml`, porque es el fichero que configura todos los proyectos Jekyll. En él
+encontramos los siguientes valores a configurar:
+
+- `title` y `subtitle`
+- `url`: será la URL a través de la cual accederán a nuestra web
+- `baseurl`: parte de la URL que se añadirá a `url` para completar la ruta a nuestra web. Puede
+ser simplemente `""` para indicar que la web estará servida desde el directorio raiz
+- `cover` y `logo`: diversas imágenes
+- `markdown`: motor de parseo de Markdown
+- `descriptions` (lista de `cat` y `desc`): para enumerar cada categoría y sus descripciones
+para los posts del blog
+
+Mirando las imágenes incluidas en el tema Airspace, `img/slider-bg.jpg` parece interesante, ya que es la imagen que aparece en todas las Páginas de la web del tema.
 
 ## ¿Qué mas?
 
