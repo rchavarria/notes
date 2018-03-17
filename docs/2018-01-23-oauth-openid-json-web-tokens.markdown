@@ -230,7 +230,7 @@ Las implementaciones que hay por ahí, dejan un poco que desear (incluso la de l
 
 ## Recursos
 
-Hechar un vistazo al fichero `oauth2-json-web-tokens-openid-connect-introduction.zip` con todas las diapositivas del curso
+Hechar un vistazo al fichero `assets/oauth2-json-web-tokens-openid-connect-introduction.zip` con todas las diapositivas del curso
 
 - Curso: [Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)]
 
