@@ -222,11 +222,11 @@ No compres/vendas si no entiendes lo que estás comprando/vendiendo
 
 :( Parece que la charla no ha sido preparada lo suficiente. Al final, la ponente no ha hablado demasiado sobre cómo o por qué invertir. Ha hablado de conceptos generales de Blockchain que cualquiera puede encontrar en millones de sitios
 
-### Missed talks
+### Charlas que me hubiera gustado asistir
 
-- [The happy developer](https://t3chfest.uc3m.es/2018/programa/el-feliz-developer/), by [Irene M. Morgado](https://twitter.com/IrnMM): how to make IT work environment more reasonable, human, nice and productive (better)
-- [Is your salary low? Professional careers in IT](https://t3chfest.uc3m.es/2018/programa/salarios-y-carreras-profesionales-en-industria-software/), by [David Bonilla](https://twitter.com/david_bonilla) - [slides](https://t3chfest.uc3m.es/2018/static/resources/events_slides/t3chfest2018_david_bonilla.pdf?q=1520008764): **real** salaries of IT in Spain, career paths in IT, and trends.
+- [The happy developer](https://t3chfest.uc3m.es/2018/programa/el-feliz-developer/), by [Irene M. Morgado](https://twitter.com/IrnMM): cómo hacer el entorno de los trabajos de IT más razonables, humanos, agradables y productivos
+- [Salarios y carreras profesionales en IT](https://t3chfest.uc3m.es/2018/programa/salarios-y-carreras-profesionales-en-industria-software/), by [David Bonilla](https://twitter.com/david_bonilla) - [slides](https://t3chfest.uc3m.es/2018/static/resources/events_slides/t3chfest2018_david_bonilla.pdf?q=1520008764): salarios **reales** de IT en España, carreras profesionales en IT y tendencias.
 
-## References
+## Referencias
 
 - [Let's understand what is reactivity](https://t3chfest.uc3m.es/2018/programa/entendamos-la-reactividad/), by [José Manuel García](https://twitter.com/semagarcia) - [slides](https://www.slideshare.net/sema_hkd/t3chfest-2018-entendamos-de-una-vez-qu-es-eso-de-la-reactividad), [code](https://github.com/semagarcia/rxjs-t3chfest-reactividad)
