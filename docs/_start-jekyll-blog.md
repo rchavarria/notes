@@ -156,6 +156,11 @@ botón que llevara a la página de contacto
 6. Testimonial: sección con varios efectos visuales pero que creo que se podría
 eliminar para la web que llevo en mente
 
+Los estilos CSS de las secciones de la página principal se encuentran en
+`css/airspace.css`. Ahí se pueden editar los estilos de cada una de las secciones. De
+hecho se ha corregido la ruta a una imagen de fondo que tenía un typo
+(`featue` -> `feature`).
+
 ### Pie de página
 
 El *footer* también habría que editarlo, porque contiene links a páginas que no
