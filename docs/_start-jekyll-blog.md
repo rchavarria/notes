@@ -197,3 +197,5 @@ no muestra nada.
 - [Jekyll + Docker + Github Pages](http://cowsandcode.com/2018/jekyll-docker-github-pages/):
 de aquí surgió la idea original de este proyecto. No he seguido los pasos uno por uno, he
 tenido que improvisar e investigar por mi cuenta, pero eso no le quita mérito al post.
+- [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/):
+cómo usar un dominio propio para ser servido por GitHub Pages
