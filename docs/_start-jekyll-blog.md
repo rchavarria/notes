@@ -190,6 +190,9 @@ está mal configurado. Puede que el `baseurl` tenga que ser el nombre del reposi
 GitHub donde está almacenado el site, porque la URL `<mi cuenta de github>/<repo>/<baseurl>`
 no muestra nada.
 
+Solución: cambiar la propiedad `baseurl` en `_config.yml` para que coincida con el nombre
+del repositorio de GitHub desde donde la web va a ser servida.
+
 ## ¿Qué mas?
 
 ## Referencias
