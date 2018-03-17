@@ -169,7 +169,7 @@ El desarrollador debe escribir mucho código defensivo. [Postel's law](https://e
 
 Suele haber cambios sin ningún tipo de anuncio, incluso nuevos datos sin ningún tipo de documentación
 
-La genete que publica los datos tiene sus problemas también: lo quieren hacer mejor, pero puede que no tengan el conocimiento (necesitan desarrolladores como nosotros), no tienen el dinero, no tienen el apoyo de su jefe (o más arriba en la jerarquía),...
+La gente que publica los datos tiene sus problemas también: lo quieren hacer mejor, pero puede que no tengan el conocimiento (necesitan desarrolladores como nosotros), no tienen el dinero, no tienen el apoyo de su jefe (o más arriba en la jerarquía),...
 
 Aire Madrid evolucionó a AireMAD API. Mantienen un API con datos saneados. Aumentaron los datos añadiendo nuevas estaciones (de otras fuentes de datos abiertos), nuevos tipos de estación, nuevos datos: estaciones, polución, ruido, polen, gripe,...
 
@@ -203,24 +203,24 @@ Ama lo que haces, no pierdas esa energía. Sé feliz en el trabajo, enorgulléce
 
 ### [How to be an investor without millions thanks to Blockchain and ICOs](https://t3chfest.uc3m.es/2018/programa/como-ser-inversor-sin-tener-millones-gracias-a-blockchain-y-sus-icos/), by [Paola García](https://twitter.com/gGarciaPaola)
 
-DAO, Decentralized Axxx Organization: trying to remove toxic (too powerful) elements present in centralized systems
+DAO (Decentralized Axxx Organization): intenta eliminar la parte tóxica (o demaniado poderosa) presente en las empresas centralizadas.
 
-Before creating a blockchain or ICO, you should have a community (of users). For that, they create *tokens*, to provide value to people. Community is the most important behind a blockchain
+Antes de crear una Blockchain o ICO deberías crear una comunidad (de usuarios). Para eso, las empresas crean *tokens*, para proporcionar valor a la gente. La comunidad es lo más importante detrás de una Blockchain.
 
-ICO, Initial Coin Offering: an offer with discount to by some currency based on a blockchain
+ICO, Initial Coin Offering: una oferta con descuento para comprar alguna moneda basada en una Blockchain
 
-How to know if I should invest in an ICO?
+¿Cómo se si debería invertir en una ICO?
 
-1. How much currency is allowed to exist?
-2. Is the price raising?
-3. Do you trust the origin of the idea? 
-4. Team behind the project
+1. ¿Cuánta moneda puede existir?
+2. ¿El precio está subiendo?
+3. ¿Confías en el origen de la idea?
+4. Equipo detrás de la idea
 
-Don't buy/sell if you don't understand what you're buying/selling
+No compres/vendas si no entiendes lo que estás comprando/vendiendo
 
 **Feedback**
 
-:( It seems to be that the talk was not prepared enough. In the end, the speaker didn't talk too much about how/why invest. She talked about general blockchain concepts you can find in lots of places
+:( Parece que la charla no ha sido preparada lo suficiente. Al final, la ponente no ha hablado demasiado sobre cómo o por qué invertir. Ha hablado de conceptos generales de Blockchain que cualquiera puede encontrar en millones de sitios
 
 ### Missed talks
 
