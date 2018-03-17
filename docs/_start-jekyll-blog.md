@@ -193,6 +193,15 @@ no muestra nada.
 Solución: cambiar la propiedad `baseurl` en `_config.yml` para que coincida con el nombre
 del repositorio de GitHub desde donde la web va a ser servida.
 
+## Personalizar página 404
+
+Siguiendo las instrucciones de la [ayuda](https://help.github.com/articles/creating-a-custom-404-page-for-your-github-pages-site)
+se puede configurar muy fácilmente. Simplemente crear un fichero `404.html` en la raiz de
+la web y configurar la propiedad `permalinkp` en la cabecera del fichero (todos los ficheros
+servidos por Jekyll deben tener una cabecera, *front matter* le llama Jekyll).
+
+## Usar un dominio propio
+
 ## ¿Qué mas?
 
 ## Referencias
