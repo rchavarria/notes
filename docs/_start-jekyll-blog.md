@@ -183,6 +183,13 @@ Then select the master branch source and click on the Save button.
 En la pestaña de configuración, ir a la sección de *GitHub Pages*. Elegir la opción a
 publicar que más convenga: publicar la carpeta `docs`.
 
+**Problema**
+
+Al publicarlo en GitHub Pages, todos los estilos se pierden. Puede que sea el `baseurl` que
+está mal configurado. Puede que el `baseurl` tenga que ser el nombre del repositorio de
+GitHub donde está almacenado el site, porque la URL `<mi cuenta de github>/<repo>/<baseurl>`
+no muestra nada.
+
 ## ¿Qué mas?
 
 ## Referencias
