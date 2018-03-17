@@ -110,7 +110,59 @@ ser simplemente `""` para indicar que la web estará servida desde el directorio
 - `descriptions` (lista de `cat` y `desc`): para enumerar cada categoría y sus descripciones
 para los posts del blog
 
-Mirando las imágenes incluidas en el tema Airspace, `img/slider-bg.jpg` parece interesante, ya que es la imagen que aparece en todas las Páginas de la web del tema.
+Mirando las imágenes incluidas en el tema Airspace, `img/slider-bg.jpg` parece interesante,
+ya que es la imagen que aparece en todas las Páginas de la web del tema. Al cambiar esa
+imagen se actualiza la primera imagen de fondo que aparece en la página principal.
+
+### Editando las Páginas de Jekyll
+
+El tema original viene con 5 páginas: home, work, blog, service y contact. La idea es dejar
+solamente home, y contact.
+
+Los enlaces a esas páginas aparecen en la cabecera. Y resulta que hay un fichero que se llama
+`_includes/header.html`. Bingo! En él aparece un código similar a:
+
+```
+<ul class="nav navbar-nav navbar-right">
+  <li><a href="{{ site.baseurl }}/">Home</a></li>
+  <li><a href="{{ site.baseurl }}/work">Work</a></li>
+  <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+  <li><a href="#">Service</a></li>
+  <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+</ul>
+```
+
+En el directorio raíz, también hay unos *misterosos* ficheros llamados: `index.html`
+(home), `work.html`, `blog.html`,...
+
+Toca editar `_includes/header.html` y borrar algún fichero en el directorio raíz.
+
+### Página principal
+
+La página principal podría servir como una *landing page*. Tiene varias secciones,
+fácilmente identificables en el código HTML gracias a los comentarios del autor del
+tema.
+
+1. Slider: foto inicial y más llamativa de la página principal (la editada en
+`img/slider-bg.jpg`). Aquí podría ir el título de la empresa
+2. Intro: una pequeña introducción de la empresa podría ir aquí
+3. Feature: más texto. Lo mejor de esta sección es que también tiene una imagen de
+fondo y tiene un efecto de scroll bastante chulo. Habría que mantenerla, pero a ver
+qué texto meto aquí
+4. Services: una pequeña descripción con un icono de cada uno de los servicios que
+proporciona la empresa
+5. Call to action: pequeño texto con imagen de fondo difuminada. Podría contener un
+botón que llevara a la página de contacto
+6. Testimonial: sección con varios efectos visuales pero que creo que se podría
+eliminar para la web que llevo en mente
+
+### Pie de página
+
+El *footer* también habría que editarlo, porque contiene links a páginas que no
+existen y que quizá no tenga mucho sentido mantener. Además del aviso de copyright.
+
+Esta parte tiene toda la pinta de que se puede editar en el fichero
+`_includes/footer.htlm`.
 
 ## ¿Qué mas?
 
