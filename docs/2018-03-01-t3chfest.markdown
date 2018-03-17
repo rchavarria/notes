@@ -175,31 +175,31 @@ Aire Madrid evolucionó a AireMAD API. Mantienen un API con datos saneados. Aume
 
 ### [Wubba lubba dub dub!](https://t3chfest.uc3m.es/2018/programa/wubba-lubba-dub-dub/), by [Jorge Barroso](https://twitter.com/flipper83)
 
-The talk was kind of: What would you say to yourself N years ago?
+Esta fue una charla del tipo: ¿Qué me diría a mi yo de hace N años?
 
-The title makes reference to [Rick & Morti](https://en.wikipedia.org/wiki/Rick_and_Morty) series and it means: I have a pain that is driving me mad (more or less).
+El título hace referencia a la serie [Rick y Morti](https://en.wikipedia.org/wiki/Rick_and_Morty) y significa algo así como: tengo una pena dentro que me está volviendo loco.
 
-Do a retrospective every year, as a person, as a professional
+**Haz una reflexión/retrospectiva cada año, como persona, como profesional**
 
-Learn English (I believe in this tip)
+Aprende inglés (cada vez que escucho este consejo estoy más convencido de lo bien hice al seguirlo)
 
-Vocation is not born, sometimes, you can suddenly realize something you're good at and you love it.
+La vocación no nace, se hace. A veces, de repente, uno se da cuenta de algo en lo que es realmente bueno y que además te encanta hacer.
 
-*With 4 years of experience I thought I was the best developer in the world* ~ speaker (or any other dev)
+*Con 4 años de experiencia yo pensaba que era el mejor programador del mundo* ~ ponente (o cualquier programador con 4 años de experiencia)
 
-You should be trying to grow as a person/professional, to grow with others, never alone (if you're the smartest guy in the room, you should exit that room)
+Deberías estar intentando crecer como persona y como profesional, intentando crecer con otros, nunca solo (si eres la persona más inteligente de tu alrededor, estás en el sitio equivocado)
 
-In your free time, do stuff you like, don't do stuff that are good for your current job
+In tu tiempo libre, haz cosas que te gusten, no hagas cosas que son buenas para tu trabajo
 
-Speak at conferences, if not, at least write, and make them public
+Habla en conferencias, y si no, al menos escribe, y hazlo público
 
-Go to conferences
+Ve a conferencias
 
-You're paid **only** to create software that works. To do that, you need to be good at coding (and other skills). To be good you must get some level of quality in your work. Pay attention to quality.
+Te pagan **solo** para crear software que funcione. Para ello, necesitas ser bueno programando (entre otras habilidades). Para ser bueno programando debes exigir cierto nivel de calidad en el trabajo que haces. Presta atención a la calidad de tu trabajo.
 
-Ethics: do you share values with your company? if there is something wrong in your environment, you should point it out (abuse,...). If you don't like your company, find another one!
+Ética: ¿compartes los valores que defiende tu empresa? Si hay algo mal en tu entorno (abusos, ilegalidades,...) deberías señalarlo, deberías *levantar la liebre*. Si no te gusta tu empresa, encuentra otra que te guste
 
-Be excited about what you do, don't lose that energy. Be happy at work, be proud of what you build.
+Ama lo que haces, no pierdas esa energía. Sé feliz en el trabajo, enorgullécete de lo que construyes.
 
 ### [How to be an investor without millions thanks to Blockchain and ICOs](https://t3chfest.uc3m.es/2018/programa/como-ser-inversor-sin-tener-millones-gracias-a-blockchain-y-sus-icos/), by [Paola García](https://twitter.com/gGarciaPaola)
 
