@@ -169,6 +169,20 @@ existen y que quizá no tenga mucho sentido mantener. Además del aviso de copyr
 Esta parte tiene toda la pinta de que se puede editar en el fichero
 `_includes/footer.htlm`.
 
+## Publicarlo en GitHub Pages
+
+GitHub puede publicar un sitio web Jekyll como una [GitHub Page](https://pages.github.com/).
+En teoría es sencillo. A ver si puedo configurarla para que publique un directorio
+particular presente en la rama `master`.
+
+Pues sí, es fácil
+
+> Click on the Settings tab and scroll down to the GitHub Pages section.
+Then select the master branch source and click on the Save button.
+
+En la pestaña de configuración, ir a la sección de *GitHub Pages*. Elegir la opción a
+publicar que más convenga: publicar la carpeta `docs`.
+
 ## ¿Qué mas?
 
 ## Referencias
