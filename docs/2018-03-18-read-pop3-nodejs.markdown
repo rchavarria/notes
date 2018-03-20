@@ -39,16 +39,16 @@ Después de conectar el cliente, con `client.retrieveAll` obtengo una lista con 
 
 Las propiedades son:
 
-- 'html',
-- 'text',
-- 'headers',
-- 'subject',
-- 'messageId',
-- 'priority',
-- 'from',
-- 'to',
-- 'date',
-- 'receivedDate'
+- `html`
+- `text`
+- `headers`
+- `subject`
+- `messageId`
+- `priority`
+- `from`
+- `to`
+- `date`
+- `receivedDate`
 
 Las que parecen más interesantes son: `messageId`, `headers` (que contiene mucha información adicional), `from` y `to` (que son objetos en sí).
 
@@ -62,16 +62,16 @@ Aha!!! Un mail con ficheros adjuntos lleva otra propiedad nueva: `attachments` (
 
 En realidad es un array de objetos. Cada uno tiene las siguientes propiedades:
 
-- contentType: 'text/plain'
-- charset: 'utf-8',
-- fileName: 'este-es-un-adjunto.txt',
-- contentDisposition: 'attachment',
-- transferEncoding: 'base64',
-- generatedFileName: 'este-es-un-adjunto.txt',
-- contentId: 'c7f6a120f330e0eb29c75cba1d10b88a@mailparser',
-- checksum: '552d08353179c235610a54935d6f24b9',
-- length: 53,
-- content: <Buffer ef bb bf 50 72 69 ... >
+- `contentType`: 'text/plain'
+- `charset`: 'utf-8',
+- `fileName`: 'este-es-un-adjunto.txt',
+- `contentDisposition`: 'attachment',
+- `transferEncoding`: 'base64',
+- `generatedFileName`: 'este-es-un-adjunto.txt',
+- `contentId`: 'c7f6a120f330e0eb29c75cba1d10b88a@mailparser',
+- `checksum`: '552d08353179c235610a54935d6f24b9',
+- `length`: 53,
+- `content`: <Buffer ef bb bf 50 72 69 ... >
 
 Bastante directo, y unas propiedades bastante lógicas. El mail de prueba contenía un fichero de texto plano como adjunto, pero el contenido del fichero, presente en `content`, parece que está en un buffer. Supongo que para que pueda contener también contenido binario (imágenes y tal)
 
