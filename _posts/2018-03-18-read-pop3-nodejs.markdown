@@ -1,5 +1,9 @@
 ---
 title: "Leer correos de GMail desde una aplicación Node.js"
+categories:
+- proyectos
+- Node.js
+- servidor
 ---
 
 [Ayuda de GMail para activar POP3](https://support.google.com/mail/answer/7104828?hl=en).

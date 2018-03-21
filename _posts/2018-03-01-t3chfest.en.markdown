@@ -1,5 +1,7 @@
 ---
 title: "T3chFest 2018 (English)"
+categories:
+- conferencia
 ---
 
 ## Conference itself

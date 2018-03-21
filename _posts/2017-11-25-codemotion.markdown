@@ -1,5 +1,7 @@
 ---
 title: "Codemotion 2017"
+categories:
+- conferencia
 ---
 
 Codemotion 2017

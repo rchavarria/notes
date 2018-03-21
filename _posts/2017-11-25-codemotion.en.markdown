@@ -1,5 +1,7 @@
 ---
 title: "Codemotion 2017 (English)"
+categories:
+- conferencia
 ---
 
 Codemotion 2017 notes in English

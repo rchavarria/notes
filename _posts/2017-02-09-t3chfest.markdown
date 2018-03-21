@@ -1,5 +1,7 @@
 ---
 title: "T3chFest 2017"
+categories:
+- conferencia
 ---
 
 [T3chFest 2017](https://t3chfest.uc3m.es/2017/)
