@@ -7,7 +7,13 @@ layout: default
 
 {% endfor %}
 
-All by category
+# Categories
+
+{% for category in site.categories %}
+- {{ category | first }}
+{% endfor %}
+
+# All by category
 
 {% for category in site.categories %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
