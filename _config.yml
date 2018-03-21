@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 
+baseurl: "/notes"
 title: Notas de aprendizajes
 description: Notas tomadas durante mis experimentos y otras cosas
 
