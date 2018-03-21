@@ -1,3 +1,7 @@
+---
+title: "Leer correos de GMail desde una aplicación Node.js"
+---
+
 # Leer correos de GMail desde una aplicación Node.js
 
 [Ayuda de GMail para activar POP3](https://support.google.com/mail/answer/7104828?hl=en).
@@ -7,6 +11,8 @@ Para leer el correo, se suele usar el protocolo [POP3](https://en.wikipedia.org/
 - [Nodemailer](https://nodemailer.com): librería para implementar un cliente y un servidor SMTP ([SMTPConnection](https://nodemailer.com/extras/smtp-connection/) es la parte cliente)
 - [node-poplib-yapc](https://www.npmjs.com/package/node-poplib-yapc): Yet another POP3 client library. Parece lo suficientemente guena como para comenzar algo. Muestra un ejemplo mega sencillo que debería funcionar.
 - [mailx](https://www.npmjs.com/package/mailx): librería de un cliente POP3. Tiene buena pinta, pero no encuentro nada de TLS en la documentación (al menos a simple vista)
+
+<!-- more -->
 
 ## 2018-03-18: Primera prueba con `node-poplib-yapc`
 
