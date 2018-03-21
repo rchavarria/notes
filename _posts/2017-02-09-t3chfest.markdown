@@ -1,10 +1,14 @@
-# T3chfest 2017
+---
+title: "T3chFest 2017"
+---
 
-https://t3chfest.uc3m.es/2017/
+[T3chFest 2017](https://t3chfest.uc3m.es/2017/)
 
 It’s a pity, all talks were in Spanish, and most talk description are in Spanish.
 
 [All the agenda](https://t3chfest.uc3m.es/2017/programa/).
+
+<!-- more -->
 
 ## Keynote: [Hololens](https://t3chfest.uc3m.es/programa/hololens-futuro-realidad-aumentada-por-descubrir)
 
