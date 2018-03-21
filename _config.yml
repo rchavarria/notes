@@ -1,5 +1,9 @@
+theme: jekyll-theme-slate
+
 title: Notas de aprendizajes
 description: Notas tomadas durante mis experimentos y otras cosas
+
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-slate
+
+excerpt_separator: <!-- more -->
