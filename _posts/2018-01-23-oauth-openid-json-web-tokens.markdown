@@ -59,9 +59,10 @@ Historia: SAML 1.1/2.0, Simple Web Token, JSON Web Token (firmas y encriptación
 **Estructura y formato**
 
 Cabecera: metadata, algoritmos y claves usadas
+
 *Claims*: issuer, audience, issued at, expiration, subject, y otros campos definidos por aplicación
 
-<cabecera>.<claims>.<firma>
+`<cabecera>.<claims>.<firma>`
 
 ## Introduction to OAuth2
 
