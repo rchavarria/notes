@@ -1,8 +1,10 @@
-# Course: Learning how to learn
+---
+title: "Learning how to learn"
+---
 
-Coursera
+Curso de Coursera [Learning how to rearn](https://www.coursera.org/learn/learning-how-to-learn)
 
-[Learning how to rearn](https://www.coursera.org/learn/learning-how-to-learn)
+<!-- more -->
 
 ## Week 1
 
