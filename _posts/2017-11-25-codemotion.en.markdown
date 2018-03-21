@@ -1,3 +1,11 @@
+---
+title: "Codemotion 2017 (English)
+---
+
+Codemotion 2017 notes in English
+
+<!-- more -->
+
 # Talks
 
 ## [Let’s be hipsters, let’s think Serverless](https://2017.codemotion.es/agenda.html#5649626120060928/5768955947909120)
