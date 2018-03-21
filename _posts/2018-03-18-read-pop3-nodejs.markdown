@@ -2,8 +2,6 @@
 title: "Leer correos de GMail desde una aplicación Node.js"
 ---
 
-# Leer correos de GMail desde una aplicación Node.js
-
 [Ayuda de GMail para activar POP3](https://support.google.com/mail/answer/7104828?hl=en).
 
 Para leer el correo, se suele usar el protocolo [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol). En Node.js existen varios paquetes que ayudan en la labor de implementar un *cliente* de correo:
