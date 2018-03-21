@@ -1,5 +1,10 @@
-# [Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)]
+---
+title: "Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)"
+---
+
 ##### by Dominick Baier
+
+Curso [Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)].
 
 ## Tabla de contenidos
 
@@ -11,6 +16,8 @@
 6. OpenID Connect
 7. OAuth2 Concerns
 8. Resources
+
+<!-- more -->
 
 ## Overview
 
