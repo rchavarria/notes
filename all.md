@@ -7,7 +7,7 @@ title: "Artículos por categoría"
 ## {{ category | first }}
   {% for posts in category %}
     {% for post in posts %}
-      - [{{ post.title }}]({{ site.baseurl }}/{{ post.url }})
+- [{{ post.title }}]({{ site.baseurl }}/{{ post.url }})
     {% endfor %}
   {% endfor %}
 {% endfor %}
