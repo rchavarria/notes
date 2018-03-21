@@ -1,4 +1,7 @@
-# Blockchain: conceptos básicos y ampliación sobre Ethereum
+---
+title: "Blockchain: conceptos básicos y ampliación sobre Ethereum"
+---
+
 ##### de Miguel Caballero
 
 - Curso: [Blockchain: conceptos básicos y ampliación sobre Ethereum]
@@ -23,6 +26,8 @@
 13. Envío de tokens y ETH desde Myetherwallet
 14. Cómo usar Metamask, la extensión para gestionar Wallets
 15. Recomendaciones finales
+
+<!-- more -->
 
 # Introducción a Blockchain
 
