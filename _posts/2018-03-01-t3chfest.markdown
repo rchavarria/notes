@@ -1,4 +1,6 @@
-# T3chFest 2018
+---
+title: "T3chFest 2018"
+---
 
 [La conferencia en sí](https://t3chfest.uc3m.es/2018/):
 
@@ -8,6 +10,8 @@
 - +1 al espacio para el café, que era mayor que el año anterior y estaba mejor organizado
 - +1 a la música de fondo mientras se esperaba para que la charla comenzara
 - +1 al encuentro con gente de otras comunidades
+
+<!-- more -->
 
 ## Charlas
 
