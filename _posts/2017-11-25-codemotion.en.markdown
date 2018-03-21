@@ -1,5 +1,5 @@
 ---
-title: "Codemotion 2017 (English)
+title: "Codemotion 2017 (English)"
 ---
 
 Codemotion 2017 notes in English
