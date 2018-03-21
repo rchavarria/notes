@@ -240,7 +240,7 @@ Las implementaciones que hay por ahí, dejan un poco que desear (incluso la de l
 
 ## Recursos
 
-Hechar un vistazo al fichero `assets/oauth2-json-web-tokens-openid-connect-introduction.zip` con todas las diapositivas del curso
+Hechar un vistazo al fichero `assets/uploads/oauth2-json-web-tokens-openid-connect-introduction.zip` con todas las diapositivas del curso ([link]({{ site.baseurl | append:"/assets/uploads/oauth2-json-web-tokens-openid-connect-introduction.zip" }}))
 
 - Curso: [Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)]
 
