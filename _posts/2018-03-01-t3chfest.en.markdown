@@ -1,4 +1,6 @@
-# T3chFest 2018
+---
+title: "T3chFest 2018 (English)"
+---
 
 ## Conference itself
 
@@ -10,6 +12,8 @@
 - +1 coffee space was wider and better organized
 - +1 music in background while waiting for the talk to start
 - +1 meet and talk with people from other communities
+
+<!-- more -->
 
 ## Talks
 
