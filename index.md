@@ -8,3 +8,5 @@ layout: default
 {{ post.excerpt }}
 
 {% endfor %}
+
+[Ver todos los posts]({{ site.baseurl }}/{{ "all.md" }})
