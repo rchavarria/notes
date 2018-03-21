@@ -1,8 +1,8 @@
 ---
 title: "Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)"
 categories:
-- curso
-- pluralsight
+- Cursos
+- Pluralsight
 ---
 
 ##### by Dominick Baier

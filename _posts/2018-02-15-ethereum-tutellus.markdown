@@ -1,8 +1,8 @@
 ---
 title: "Blockchain: conceptos básicos y ampliación sobre Ethereum"
 categories:
-- curso
-- tutellus
+- Cursos
+- Tutellus
 ---
 
 ##### de Miguel Caballero

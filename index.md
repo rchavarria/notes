@@ -9,4 +9,4 @@ layout: default
 
 {% endfor %}
 
-#[Ver todos los posts]({{ site.baseurl }}/all }})
+# Ver [todos los posts port categoría]({{ site.baseurl }}/all }})

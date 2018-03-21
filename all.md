@@ -1,21 +1,21 @@
 ---
 layout: default
+title: "Artículos por categoría"
 ---
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ site.baseurl }}/{{ post.url }})
+{% for category in site.categories %}
 
+## {{ category | first }}
+
+{% for posts in category %}
+  {% for post in posts %}
+    - [post.title]({{ site.baseurl }}/{{ post.url }})
+  {% endfor %}
 {% endfor %}
 
-# Categories
+# Lo de antes
 
-{% for category in site.categories %}
-- {{ category | first }}
-{% endfor %}
-
-# All by category
-
-{% for category in site.categories %}
+{% for posts in category %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
     {% for posts in category %}

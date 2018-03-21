@@ -1,8 +1,8 @@
 ---
 title: "Learning how to learn"
 categories:
-- curso
-- coursera
+- Cursos
+- Coursera
 ---
 
 Curso de Coursera [Learning how to rearn](https://www.coursera.org/learn/learning-how-to-learn)
