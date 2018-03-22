@@ -12,19 +12,19 @@ Así que, ¿qué tal si te animas a ser el anfitrión de un Global Day of Code R
 
 <!-- more -->
 
-## Review
+## Reseña del curso
 
-It starts with basic concepts (this is starting to be the norm) about TDD, tests, different development games,...
+El curso comienza con conceptos básicos (parece ser que es la norma en los cursos de Pluralsight) sobre TDD, tests, diferentes juegos para programar,...
 
-Emily explains aobut different games to practice while coding, to learn programming and to learn how to solve problems.
+Emily explica los diferentes juegos o técnicas existentes para practicar mientras uno programa, para aprender a programar o para aprender a resolver problemas.
 
-The most interesting part is when she shows how to host a set of 5 or more codign dojos, with their objectives, tools, katas, games,...
+La parte más interesante es cuando la autora muestra cómo ser el organizador de 5 Coding Dojos o más, con sus objetivos, herramientas, katas, juegos,...
 
-## Learned topics
+## ¿Qué he aprendido?
 
-Emily adds a new phase to TDD, additionally to the typical three: red, green, refactor. It's called *overview*. In this phase you think about a list of tests (to do incremental development), decides what test to write next,...
+Emily añade una nueva fase a TDD, fase adicional a las ya típicas 3: rojo, verde, refactor (azul). Ella le llama *revisión*. En esta fase uno piensa sobre una lista de tests (para hacer desarrollo incremental), decide qué test se podría escribir después,...
 
-Randori in pairs: that's the way almost all code retreats and coding dojos are hosted.
+Randori en parejas: que es cómo funcionan casi todos los Code Retreats y Coding Dojos
 
 # Notes (English)
 
