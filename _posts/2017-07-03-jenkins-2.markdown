@@ -1,31 +1,31 @@
-# [Getting started with Jenkins 2](https://app.pluralsight.com/library/courses/jenkins-2-getting-started), Pluralsight course
+---
+title: "Getting started with Jenkins 2"
+categories:
+- Cursos
+- Pluralsight
+---
 
-##### by [Wes Higbee](http://www.weshigbee.com/)
+Curso de Pluralsight sobre Jenkins 2, de [Wes Higbee](http://www.weshigbee.com/). La idea es aprender una gran nueva característica de Jenkins 2, los *Pipelines*
 
-## Objectives
+**Reseña**
 
-Learn how to configure and use Pipelines, a new feature in Jenkins 2
+Pequeño curso para rascar la superficie de los Pipelines de Jenkins 2 (y un poquito de Blue Ocean, la nueva interfaz gráfica).
 
-## Review
+El ritmo del curso me parece un poco lento, especialmente al principio. Hacia el final del curso, los conceptos son ya más complejos y los requerimientos de las herramientas para ejecutar las tareas necesarias no son nada fáciles de instalar y usar. Pero Wes hace un gran trabajo y lo hace lo más fácil posible, creando un gran equilibrio entre complejidad, usabilidad, interés,...
 
-Short course to scratch the surface of Jenkins 2 Pipelines (and very little about Blue Ocean, the new GUI).
+Al principio, había muchos conceptos básicos. Yo, me los saltaría si supiera algo de Jenkins. La parte final del curso, bastante más interesante.
 
-The course pace is a bit slow, specially at the beggining. By the end of the course, the topics are a bit complex,
-and the needed tools to execute the desired tasks are not reallly easy to install and use. But Wes did a great 
-job and made it as easiest as possible, creating a good balance between complexity, usefulness, interesting stuff,...
+<!-- more -->
 
-At the beginning, there were basic topcis. I'd skip them if I knew about Jenkins. Later in the course,
-it was much more interesting.
+## ¿Qué he aprendido?
 
-## Learned topics
-
-- Basic pipelines in Jenkins 2
-- Some basic pipelines steps: `sh`, `node`, `stash`, `archive`,...
-- Create Jenkins Agents (master-slave machines)
+- Conceptos básicos sobre Pipelines en Jenkins 2
+- Algunos pasos/etapas básicas en Pipelines: `sh`, `node`, `stash`, `archive`,...
+- Crear agentes en Jenkins, para configurar nodos o máquinas en relaciones maestro-esclavo
 
 # Notes (English)
 
-# Setting up Jenkins
+## Setting up Jenkins
 
 [Getting started with Pipelines](https://jenkins.io/doc/pipeline/)
 
@@ -53,11 +53,11 @@ Go to Manage Jenkins > Configure Global Security to configure authorization and 
 
 Go to Manage Jenkins > Manage Users to add/remove users
 
-## Docker
+### Docker
 
 That's a very convenient way of running Jenkins. There is a hub in http://hub.docker.com with Jenkins images and there is documentation too about how to install and how to run Jenkins in a docker container.
 
-# Creating application builds
+## Creating application builds
 
 Clone the repo https://github.com/g0t4/jenkins2-course-spring-boot.git
 
@@ -95,7 +95,7 @@ The archived artifact will be shown in the Project view in this case. It depends
 
 **What's the difference between a Job and a Build?** A Job is defined by a configuration file. A Job can be seen as a step in the build process of our application. A Job can have multiple Builds associated with it. A Build is the result of executing a Job.
 
-# Testing and CI
+## Testing and CI
 
 Add build steps to your project: execute shell script, run maven target,...
 
@@ -155,7 +155,7 @@ As the pipeline script is just a groovy script, we can use `try-catch` blocks. H
 
 Visualizing test results: through the traditional step of "Publish JUnit..."
 
-# Finding and managing plugins
+## Finding and managing plugins
 
 Integrating code coverage 
 
@@ -206,15 +206,15 @@ tar -czf jenkins-home.tar.gz ~/.jenkins
 tar -xzf jenkins-home.tar.gz <another/path>
 ```
 
-## Stashing pipelines
+### Stashing pipelines
 
 There is a pipeline command, `stash` to save a *copy* of some files to reuse them in the rest of the pipeline. *stash* means: *reserva oculta*. It's like archiving, but it only lasts the duration of the pipeline.
 
-## Browsing workspace in Pipelines
+### Browsing workspace in Pipelines
 
 Workspaces live inside nodes. Every pipeline must reserve a node. To go to the workspace: go to *Pipeline steps*, select the step *Node* and you'll see the workspace.
 
-## Allocating a second node
+### Allocating a second node
 
 Each time we allocate a node, we're not sure we have the same workspace in all different nodes. Usually, it's the same, but it's not guaranteed.
 
@@ -232,7 +232,7 @@ Create a new Node in Jenkins, a new Agent:
 
 When allocating a node in a Pipeline, with `node`, you can pass some parameters, for example, one label we gave the Agent before: `node('agent1_label')`
 
-## Execution and Monitoring parallel builds
+### Execution and Monitoring parallel builds
 
 The following code will run tests in **parallel**, each one will allocate a new node:
 
@@ -262,7 +262,7 @@ def runTests(browser) {
 }
 ```
 
-## Manual approval step
+### Manual approval step
 
 `input` step is a way to ask the user to enter some data by hand, so it can work as a manual approval, a human must say "Yes" to continue the execution of the job
 
@@ -282,7 +282,7 @@ There are heavyweight executors and lightweight executors. heavyweight ones run 
 
 Lightweight executors belong only to *master* node.
 
-## Deploy to staging
+### Deploy to staging
 
 ```
 // concurrency `1` means we only want 1 of these stages to be run at the same time, only the newest will be run. the rest will be cancelled by Jenkins
@@ -291,11 +291,11 @@ stage 'Deploy', concurrency: 1
 
 Well, now, it seems `stage` needs a block syntax `{}` and it doesn't accept a parameter called `concurrency`, there will be a new way to accoplish that.
 
-## Jenkinsfile
+### Jenkinsfile
 
 You can get the content of the Pipeline and make it part of the project source code.
 
-# Summary
+## Summary
 
 Advantages:
 
