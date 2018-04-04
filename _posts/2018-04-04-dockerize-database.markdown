@@ -62,4 +62,4 @@ En PhpStorm, crear un nuevo datasource, de tipo MySQL (funciona bien para MariaD
 supongo), y configurar host, puerto, base de datos, usuario y contraseña. Lo básico
 vamos:
 
-![some image](/notes/images/2018/phpstorm-mysql-datasource.png)
+![some image](/notes/assets/images/2018/phpstorm-mysql-datasource.png)
