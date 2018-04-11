@@ -16,4 +16,7 @@ a hacer lo mismo.
 para comprender muchos aspectos de la programación reactiva, como operadores, comparativas
 entre ellos, algunas nuevas funcionalidades de JavaScript y otros tutoriales. Al menos son unos
 recursos muy, muy vistosos.
-
+- [Learn to combine RxJs sequences with super intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511):
+animaciones que demuestran cómo funcionan unos cuantos operadores de RxJS. No he llegado a las
+interactivas, pero aún así, si encuentras el del operador que estás buscando, seguro que te
+aclara cómo funciona.
