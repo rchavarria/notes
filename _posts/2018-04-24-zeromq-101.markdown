@@ -1,0 +1,37 @@
+---
+title: "Empezando con ZeroMQ"
+categories:
+- Proyectos
+- Aprendizaje
+---
+
+En el trabajo nos hemos encontrado con un problema: tenemos un servidor al que los clientes
+se conectan a través de Web Sockets desde un navegador. Este servidor se encargará de generar
+datos en tiempo real para esos clientes. La idea es que sea capaz de soportar cuantos
+más clientes mejor, claro. Para ello, digamos que el trabajo del servidor debería ser
+lo más liviano posible y **no bloquearse** nunca, no hacer ninguna operación que sea
+bloqueante. Estrictamente, leer de un fichero o hacer una llamada a través de la red ya
+sería *bloqueante*.
+
+En definitiva, la solución que vamos a probar es comunicar dos procesos: el servidor y el
+*proceso bloqueante* a través de un software de intercambio de mensajes. Vamos a comenzar
+con [ZeroMQ](http://zeromq.org/),
+que es una herramienta que parece que funciona bien con las tecnologías que estamosç
+utilizando.
+
+<!-- more -->
+
+El servidor que acepta conexiones de Web Sockets está realizado con
+[Ratchet](http://socketo.me/docs/deploy)
+el cual se apoya direcatemente en
+[ReactPHP](https://reactphp.org/),
+sí, todo tecnologías PHP, es lo que hay.
+
+Parece que ambos se llevan bien con ZeroMQ a través de la librería
+[react/zmq](https://github.com/friends-of-reactphp/zmq).
+
+Para aprender un poquito sore ZeroMQ, el siguiente vídeo tiene buena pinta, y aquí
+van las notas:
+
+## [ZeroMQ is the answer](https://vimeo.com/20605470), charla de Ian Barber
+
