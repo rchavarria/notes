@@ -35,3 +35,17 @@ van las notas:
 
 ## [ZeroMQ is the answer](https://vimeo.com/20605470), charla de Ian Barber
 
+ZeroMQ no es una cola de mensajes, no es un *daemon*, no es un servidor, **es una
+librería**. Es una librería que te permite comunicar procesos. Es un sistema de
+*sockets* que te permite comunicar procesos. Puede comunicar procesos entre máquinas,
+en la misma máquina o incluso hilos de un mismo proceso.
+
+Existen distinto patrones que se pueden implementar con ZeroMQ: queue, pipeline,
+pub/sub,...
+
+#### Patrón petición/respuesta
+
+Puede funcionar como un cliente/servidor clásico, comunicándose a través de una
+conexión TCP. Varios clientes se pueden conectar al mismo servidor. No importa
+mucho si arrancas primero el cliente y luego el servidor (¿maneja reconexiones?).
+Impide que un cliente anule a otro, todos los clientes son atendidos.
