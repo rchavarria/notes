@@ -47,11 +47,11 @@ para tratar de predecir el futuro.
 4. Aplicación: es el software que proporciona utilidad al usuario. Proporciona los datos actuales
 al modelo, y el modelo responde con la predicción
 
-%img ml in a nutshell%
+![Machine Learning in a nutshell](/notes/assets/images/2018/machine-learning-in-a-nutshell.png)
 
 El proceso que sigue Machine Learning
 
-%img ml process%
+![Machine Learning in a nutshell](/notes/assets/images/2018/machine-learning-process.png)
 
 Partimos de datos en crudo. Pueden ser varias fuentes. Esos datos en crudo se pre-procesan (muchas
 veces con módulos proporcionados por terceras partes) para crear los *Datos preparados*. No vamos
