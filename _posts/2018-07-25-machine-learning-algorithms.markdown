@@ -75,6 +75,47 @@ de [Swetha Kolalapudi]:
     
 ## Notas tomadas
 
+Algoritmos para resolver problemas de clasificación:
+
+- Naive Bayes
+- Support vector machines
+- Decision trees
+- K-Nearest neighbors (K-Means?)
+- Random forests
+- Logistic regression
+
+Tipos de regresión, o algoritmos para resolver problemas de regresión:
+
+- Lineal
+- Polinomial
+- No lineal
+
+Algoritmos para resolver problemas de recomendaciones:
+
+- Collaborative filtering: alternating least squares, nearest neighbor model
+- Association rules
+- Content based filtering
+
+Algoritmos de clustering
+
+- K-Means
+- Hierarchical
+- Density based
+- Distribution based
+
+Representación de los datos:
+
+- Data munging
+- Feature extraction
+- Dimensionality reduction
+- Feature engineering
+
+Selección del modelo:
+
+- Hyper parameter tuning
+- Cross validation
+- Ensembling
+
 ![Machine Learning in a nutshell](/notes/assets/images/2018/machine-learning-in-a-nutshell.png)
 
 ## Conclusión
