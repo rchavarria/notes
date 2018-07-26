@@ -75,6 +75,43 @@ de [Swetha Kolalapudi]:
     
 ## Notas tomadas
 
+### Capítulo 1: Introducing Machine Learning
+
+Resolver problemas con Machine Learning es como resolverlos de una manera
+parecida a cómo aprendemos los humanos. Los humanos aprendemos de la
+experiencia (exposición a un fenómeno durante un largo período de
+tiempo). En tecnología, esa *experiencia* la conocemos como *datos*, así,
+los programas aprenden de los datos como los humanos aprendemos de la
+experiencia.
+
+Hay 4 grandes categorías de problemas a resolver con ML:
+
+- Clasificación
+- Regresión
+- Recomendaciones
+- Clustering
+
+Los algoritmos usados en ML *ya están inventados*. Donde hay que emplear
+casi todos los esfuerzos no es en desarrollar el algoritmo, si no en 
+ser capaz de representar los datos de forma numérica para poder aplicarlos.
+Lo complicado de ML no son los algoritmos, si no representar los datos
+de la mejor forma posible. Identificar las *features* correctas,
+cuantificarlas,...
+
+### Capítulo 2: Classifying Data into Predefined Categories
+
+**Problem instance**: definición del problema que queremos resolver
+
+**Classifier**: algoritmo de clasificación
+
+**Label**: categoría, clasificación,... identificada
+
+El algoritmo necesita que los datos usados en el aprendizaje estén
+correctamente etiquetados/clasificados.
+
+Los patrones identificados por el algoritmo crean lo que se conoce como
+**Modelo**
+
 Algoritmos para resolver problemas de clasificación:
 
 - Naive Bayes
@@ -83,6 +120,50 @@ Algoritmos para resolver problemas de clasificación:
 - K-Nearest neighbors (K-Means?)
 - Random forests
 - Logistic regression
+
+**Term frequency representation**: representación para cuantificar textos.
+Se crea una colección de todas las palabras que nos vamos a poder encontrar.
+Para un texto dado, anotamos las apariciones de cada una de esas palabras.
+Así tenemos una representación numérica del texto, con el que lo podemos
+comparar con otros textos.
+
+### Capítulo 3: Solving Classification Problems
+
+#### Naive Bayes
+
+Se puede utilizar para analizar textos, por ejemplo, para clasificarlos
+como positivos o negativos. Asumimos que los textos
+los tenemos cuantificados con *Term freq. representation*.
+
+Para cada palabra/término tenemos que calcular la probabilidad de que aparezca
+en comentarios positivos `Po` (la negativa sería `No = 1 - Po`).
+
+```
+     (cuantas veces aparece el término en comentarios positivos)
+Po = ------------------------------------------------------------
+     (cuantas veces aparece el término en todos los comentarios)
+```
+
+Para un nuevo texto dado, se multiplican los `Po` de cada palabra y obtenemos
+el `Po` del comentario. Lo mismo con `No`.
+
+Se llama *naive* porque asume que todas las palabras son independientes, cosa
+que sabemos que es mentira. Ciertas palabras son más probables que aparezcan
+junto a otras. Pero el algoritmo así es más sencillo.
+
+#### Support Vector Machines
+
+- Representa los datos como puntos en un hipercubo de `N` dimensiones (si
+`N=3` tenemos un cubo de toda la vida, un espacio tridimensional)
+- El algoritmo encuentra un hiperplano (en 3 dimensiones sería un plano) que
+divide los puntos en dos grupos. El hiperplano no es más que la *línea* de
+separación
+- El hiperplano actúa como barrera, frontera entre las dos categorías
+
+Pero... ¿cómo funciona este algoritmo? Ya tengo algo para profundizar por
+mi cuenta
+
+### Capítulo 4: Predicting Relationships Between Variables with Regression
 
 Tipos de regresión, o algoritmos para resolver problemas de regresión:
 
@@ -131,6 +212,10 @@ Totalmente recomendado para saber por dónde van los tiros a la hora
 de enfrentarse a problemas. Abre muchos caminos por los que seguir
 aprendiendo. Y esa era mi idea, así que estoy bastante contento
 con el curso.
+
+## Y después... ¿qué? ¿con qué sigo?
+
+- ¿Cómo funciona el algoritmo Support Vector Machines?
 
 ## Referencias
 
