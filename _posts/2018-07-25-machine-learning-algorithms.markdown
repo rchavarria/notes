@@ -165,11 +165,85 @@ mi cuenta
 
 ### Capítulo 4: Predicting Relationships Between Variables with Regression
 
+En los problemas de regresión, quieres calcular, predecir algún valor contínuo.
+Quieres relacionar la relación que existe entre dos variables (tamaño del
+piso -> precio del piso).
+
 Tipos de regresión, o algoritmos para resolver problemas de regresión:
 
 - Lineal
 - Polinomial
 - No lineal
+
+Los problemas de clasificación y los de regresión son similares en muchos
+aspectos. La principal diferencia es lo que obtenemos a la salida. Para la
+clasificación obtenemos un valor categorizado (con categorías que conocemos
+de antemano), mientras que para la regresión obtenemos un valor contínuo,
+dado unos valores de entrada (**variables independientes**) obtenemos un
+valor de salida (**vble dependiente**).
+
+### Capítulo 5: Solving Regression Problems
+
+Supongamos que tenemos las variables independientes `X0`, `X1`,... La
+vble dependiente será `Y`. Podemos calcular:
+
+```
+Y = b0 + b1·X1 + b2·X2 + ...
+```
+
+Donde `b0`,... son constantes. Son los valores que debe encontrar el algoritmo
+de ML. Estas constantes se llaman **co-eficientes**.
+
+Para unos valores encontrados de los coeficientes se calcula un *error* (distancia
+de la línea calculada hasta los puntos reales). El objetivo es minimizar este
+error. Una de las técnicas disponibles es **Stochastic Gradient Descent**.
+
+### Capítulo 6: Recommending Relevant Products to a User
+
+**Collaborative filtering algorithms**: predicen valoraciones de productos de
+los usuarios basándose en el comportamiento pasado del usuario
+
+**Latent factor analysis**: es un subconjunto de Collaborative filtering. Identifica
+factores ocultos que influyen en el comportamiento del usuario. *Ocultos* es la
+clave. Factores ocultos pueden ser: género, popularidad del reparto en una
+película, cercanía a la salida del producto al mercado,...
+
+Partimos de una matriz donde las columnas son productos y las filas los usuarios.
+Cada celda es la valoración del usuario. Pero hay huecos. Tenemos que *adivinar*
+los valores para esos huecos.
+
+```
+      | Prod 1 | Prod 2 | Prod 3 | ... | Prod n |
+      +--------+--------+--------+-----+--------+
+Usr 1 |    5       ¿?
+      +--------+--------+--------+-----+--------+
+Usr 2 |            6        ¿?
+      +--------+--------+--------+-----+--------+
+Usr 3 |                                     10
+      +--------+--------+--------+-----+--------+
+Usr m |   ¿?
+
+```
+
+Nos inventamos dos matrices: matriz User-Factor y matriz Product-Factor, de forma
+que multiplicando las dos, obtendremos la matriz Product-User. Al no conocer todos
+los valores de Product-User, tenemos que iterar para calcular los valores de las
+dos matrices inventadas, que son justo las que contienen información sobre los
+factores ocultos.
+
+** IMAGEN LATENT FACTOR ANALISYS **
+
+Donde `r43` es la valoración del usuario 4 para el producto 3.
+
+Por lo cual, tenemos que resolver `Rui = Pu · Qi`. Al no conocer todos los valores de
+`Rui` cometeremos errores. Hay que conseguir que esos errores sean el mínimo. Tenemos
+que minimizar el error `SUM(Rui - Pu·Qi)^2`
+
+Para ello se puede utilizar la técnica **Alternating Least Squares**
+
+### Capítulo 7: Clustering Large Data Sets into Meaningful Groups
+
+
 
 Algoritmos para resolver problemas de recomendaciones:
 
@@ -216,6 +290,9 @@ con el curso.
 ## Y después... ¿qué? ¿con qué sigo?
 
 - ¿Cómo funciona el algoritmo Support Vector Machines?
+- Sería interesante saber en profundidad cómo funciona Stochastic Gradient Descent
+- Sería interesante saber en profundidad cómo funciona Alternating Least Squares, otro método
+para minimizar errores
 
 ## Referencias
 
