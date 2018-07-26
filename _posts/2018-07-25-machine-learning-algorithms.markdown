@@ -231,7 +231,7 @@ los valores de Product-User, tenemos que iterar para calcular los valores de las
 dos matrices inventadas, que son justo las que contienen información sobre los
 factores ocultos.
 
-** IMAGEN LATENT FACTOR ANALISYS **
+![Latent factor analisys](/notes/assets/images/2018/latent-factor-analisys.png)
 
 Donde `r43` es la valoración del usuario 4 para el producto 3.
 
@@ -241,29 +241,71 @@ que minimizar el error `SUM(Rui - Pu·Qi)^2`
 
 Para ello se puede utilizar la técnica **Alternating Least Squares**
 
-### Capítulo 7: Clustering Large Data Sets into Meaningful Groups
-
-
-
 Algoritmos para resolver problemas de recomendaciones:
 
 - Collaborative filtering: alternating least squares, nearest neighbor model
 - Association rules
 - Content based filtering
 
-Algoritmos de clustering
+### Capítulo 7: Clustering Large Data Sets into Meaningful Groups
+
+Clustering es una forma de agrupar elementos basándose en alguna medida de similaridad.
+
+El objetivo es maximizar el parecido dentro de los grupos (intracluster) y al mismo
+tiempo minimizar el parecido entre distintos grupos (intercluster).
+
+Por ejemplo, se pueden representar a los usuarios mediante atributos numéricos, y dichos
+puntos se pueden mostrar en un espacio de `N` dimensiones.
+
+Algoritmos de clustering:
 
 - K-Means
 - Hierarchical
 - Density based
 - Distribution based
 
+Los problemas de clasificación y de clustering parecen lo mismo, pero no lo son. En
+clasificación conocemos de antemano las categorías. En clustering no, si no que 
+*descubrimos* las categorías.
+
+En ocasiones ambos problemas van de la mano. Se usa clustering para detectar categorías.
+Se usan esas categorías para categorizar después nuevos datos.
+
+**Inverse document frequency**: usado en conjunto con *Term Frequency Representation*, se
+usa para minimizar el impacto de palabras muy, muy usadas en documentos (artículos `la` y
+`lo`, conjunciones `y` y `o`,...). Cada frecuencia de un término se multiplica por un
+factor (o *weight*) calculado como la inversa de los documentos en los que el término 
+aparece. La historia está en que palabras más usadas, tendrán menos peso en la representación
+numérica.
+
+Para hace clustering de documentos, tenemos representado cada documento por un conjunto
+de `N` números (term frequency) ponderados (inverse document frequency). Vamos, un documento
+es un punto en un espacio de `N` dimensiones. Si no lo has pillado a estas alturas, ya no
+sé qué hacer contigo.
+
+#### Algoritmo K-Means
+
+En ese espacio de `N` dimensiones, se inicializan una serie de puntos como `K` medias. Estos
+puntos son considerados *centroides* de los clusters que queremos identificar.
+
+Cada punto de nuestros datos se asigna a la media más cercana. Formando así unos clusters
+iniciales.
+
+Con los clusters ya montados, se calculan unos nuevos centroides o `K-medias`.
+
+Repetir el proceso hasta que los centroides no se mueven (o no se mueven mucho).
+
+### Capítulo 8: Wrapping up and Next Steps
+
+La mayoría de los datos requieren un gran preprocesado.
+
 Representación de los datos:
 
 - Data munging
-- Feature extraction
+- Feature extraction: natural language processing, image and video processing
 - Dimensionality reduction
-- Feature engineering
+- Feature engineering: construir las *features* más relevantes de un conjunto en crudo
+de datos o *features*. Por ahora, este es un campo informal, considerado un *black art*
 
 Selección del modelo:
 
