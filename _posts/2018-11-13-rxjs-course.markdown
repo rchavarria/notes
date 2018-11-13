@@ -230,6 +230,101 @@ function grabClassics(year) {
 }
 ```
 
+### Capítulo 7: Using Subjects and Multicasted Observables
+
+**Subject**: son Observables (pueden ser observados), pero también son Observers
+(por lo que pueden observar a otros Observables). Mantienen una lista de Observers,
+luego son multicast en lugar de unicast. Eso quiere decir que el mismo valor puede
+ser enviado a varios Observers sin tener que *ejecutar* un Observable varias veces.
+
+**Cold observable**: 
+
+- El productor de valores se crea dentro mismo del observable
+- On observer por *ejecución*
+- Unicast
+- Ejemplos: `interval`, `ajax`,...
+
+**Hot observable**:
+
+- El productor de valores existe fuera del observable (produce valores haya o no
+observers)
+- Un productor compartido permite varios observers
+- Multicast
+- Ejemplos: `fromEvent`,...
+
+Subjects permiten convertir un *cold* en un *hot* observable.
+
+```javascript
+const source$ = interval(1000).pipe(/* ... */)
+const subject$ = new Subject()
+
+// Subjects are observers
+source$.subscribe(subject$)
+
+// Subjects are observables too
+subject$.subscribe(v => console.log('#1', v))
+subject$.subscribe(v => console.log('#2', v))
+subject$.subscribe(v => console.log('#3', v))
+
+// Observable `interval` got just one subscription, the one from the subject
+```
+
+Pero ya existen operadores multicast: `multicast`, `refCount`, `publish`, `share`,...
+
+Hermandos de estos operadores, existen otros operadores que usan Subjects especializados
+en alguna tarea: reconnectarse, emitir el último valor, emitir el primero,... (`publishLast`,
+`publishReplay`,...)
+
+### Capítulo 8: Controlling Execution with Schedulers
+
+**Schedulers**: controlan cuándo un observable es ejecutado: `queueScheduler`,
+`asapScheduler`, `asyncScheduler`, `TestScheduler`,...
+
+Cada uno de ellos se encola en una pila de tareas de JavaScript:
+
+- `queue`: en la principal
+- `asap`: en la asíncrona de micro tareas
+- `asyn`: en la asíncrona
+
+*Mirar cómo funciona el bucle de eventos de JavaScript (loop event) para entender
+cómo funcionan esas pilas*
+
+Normalmente se puede pasar un scheduler a los operadores que crean observables
+
+```javascript
+import { queueScheduler, of } from 'rxjs'
+const source$ = of(1, 2, 3, 4, queueScheduler)
+// ...
+```
+
+Con el operador `observeOn` podemos cambiar el Scheduler de un observable. Útil por
+ejemplo para no bloquear el UI con un observable que va a tardar mucho, planificándolo
+con el `asyncScheduler`.
+
+### Capítulo 9: Testing Your RxJS Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [RxJS: Getting started]: https://app.pluralsight.com/library/courses/rxjs-getting-started/table-of-contents
 [Brice Wilson]: http://www.bricewilson.net/
 [RxJS]: https://www.learnrxjs.io/
