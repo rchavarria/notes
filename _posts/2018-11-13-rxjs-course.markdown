@@ -1,0 +1,235 @@
+---
+title: "Curso sobre RxJS"
+categories:
+- Cursos
+- JavaScript
+- Programación Reactiva
+---
+
+Notas tomadas durante la realización del curso de Pluralsight
+[RxJS: Getting started] de [Brice Wilson].
+
+Es un curso (parece que bastante completo) sobre programación reactiva en JavaScript.
+Tiene conceptos que ya he aprendido en otro momento, pero al trabajar con Angular
+siento que necesito profundizar en algunos conceptos de [RxJS]. Veamos si este
+curso me sirve para ampliar mis conocimientos en este tema.
+
+<!-- more -->
+
+Índice:
+
+- Course Overview
+    - Course Overview
+
+- Reactive Programming Basics
+    - What Is RxJS?
+    - Imagining Data as a Stream
+    - RxJS Building Blocks
+    - Demo Project Overview
+    - Compatibility Packages for RxJS 5
+
+- Creating Observables
+    - Observables and Observers
+    - Instantiating a New Observable with the Constructor
+    - Creating Observables from Existing Data
+    - Creating Observables to Handle Events
+    - Making AJAX Requests with RxJS
+    - Summary
+
+- Subscribing to Observables with Observers
+    - Introduction
+    - Understanding Observers
+    - Creating and Using Observers
+    - Executing Observables
+    - Multiple Observers Executing a Single Observable
+    - Managing Subscriptions
+    - Cancelling Observable Execution with a Subscription
+    - Summary
+
+- Using Operators
+    - Introduction
+    - Applying Operators
+    - Categories of Operators
+    - Reading a Marble Diagram
+    - Importing and Using Common Operators
+    - Handling Errors
+    - Controlling the Number of Values Produced
+    - Summary
+
+- Creating Your Own Operators
+    - Why Create Your Own Operators?
+    - Structure of an Operator
+    - Creating New Operators with the Observable Constructor
+    - Creating New Operators from Existing Operators
+    - Summary
+
+- Using Subjects and Multicasted Observables
+    - Introduction
+    - What Are Subjects?
+    - Producing Values with Subjects
+    - Cold vs. Hot Observables
+    - Using a Subject to Convert an Observable from Cold to Hot
+    - Multicasting Operators
+    - Using Multicast Operators Instead of Subjects
+    - Specialized Subjects
+    - Controlling Multicasted Output with Specialized Operators
+    - Summary
+
+- Controlling Execution with Schedulers
+    - What Are Schedulers?
+    - RxJS Schedulers
+    - Understanding Schedulers and the Event Loop
+    - Using Schedulers with Observable Creation Functions
+    - Applying a Scheduler with the observeOn Operator
+    - Summary
+
+- Testing Your RxJS Code
+    - Introduction
+    - Using the TestScheduler
+    - Observable and Subscription Marble Syntax
+    - Structuring Unit Tests
+    - Testing Observables and Subscriptions with Marble Diagrams
+    - Summary
+
+## Notas tomadas
+
+### Capítulo 3: Creating Observables
+
+Formas básicas de crear observables:
+
+```javascript
+const source1$ = of(1, 'hello', 1.11)
+const source2$ = from([ 1, 'hello', 2.22 ])
+const button = document.getElementById('some-button')
+const source3$ = fromEvent(button, 'click')
+
+// AJAX calls
+import { ajax } from 'rxjs/ajax'
+ajax('/server/path')
+  .subscribe(ajaxResponse => {
+    console.log(ajaxResponse.status)  // 200 (http ok)
+    console.log(ajaxResponse.response)
+  })
+```
+
+### Capítulo 4: Subscribing to Observables with Observers
+
+Cuando se *ejecuta* un observable?
+
+1. Cuando se llama al método `subscribe`
+2. Cada vez que un observer se suscribe llamando a `subscribe` se realiza
+una *ejecución* independiente del observable
+
+El método `subscribe` devuelve un objecto llamado *suscripción*, que permite
+cancelar la suscripción, entre otras cosas.
+
+```javascript
+const timer$ = interval(1000)
+const subscription = timer$.subscribe(/* ... */)
+setTimeout(() => subscription.unsubscribe(), 5000) // will cancel after 5s
+```
+
+### Capítulo 5: Using Operators
+
+El cambio de API que hubo de la versión 5 a la 6 de RxJS vino para hacer más fácil
+para las herramientas de bundling (como Webpack) utilizar *tree shaking* para
+optimizar código. Así, RxJS pasó de esto a esto:
+
+```javascript
+of(1, 2, 3)
+  .map(/* ... */)
+  .filter(/* ... */)
+
+of (1, 2, 3).pipe(
+  map(/* ... */),
+  filter(/* ... */)
+)
+```
+
+Algo muy útil es aprender a leer los diagramas que describen los operadores, los
+*marble diagrams* o *Diagramas de canicas*
+
+Otro aspecto muy importante es cómo gestionar los errores. Se pueden capturar errores
+con el operador `catchError`. Y tenemos varias opciones:
+
+1. Devolver otro observable, de forma que el observer no sabrá que ha habido un error
+
+```javascript
+ajax('/some/api').pipe(
+  map(/* ... */),
+  filter(/* ... */),
+  catchError(err => of(new ANewResponseFromMine())
+)
+.subscribe(
+  val => console.log('observed val:', val),
+  err => console.log('ERRRRR', err)
+)
+
+// we'll see:
+// observe val: ...
+```
+
+2. Hacer algo con el observable que causó el error:
+
+```javascript
+ajax('/some/api').pipe(
+  map(/* ... */),
+  filter(/* ... */),
+  catchError(err, caught => {
+    // do sthg with the observable `caught`
+  })
+)
+
+3. Lanzar otro error completamente distinto:
+
+```javascript
+ajax('/some/api').pipe(
+  map(/* ... */),
+  filter(/* ... */),
+  catchError(err => throw 'a complete new error')
+)
+.subscribe(
+  val => console.log('observed val:', val),
+  err => console.log('ERRRRR', err)
+)
+
+// we'll see:
+// ERRRRRR ....
+```
+
+4. O lanzar un error pero como observable:
+
+```javascript
+import { throwError } from 'rxjs/operators'
+// ...
+catchError(err => return throwError('a complete new error'))
+// ...
+```
+
+### Capítulo 6: Creating Your Own Operators
+
+Un operador no es más que una función que devuelve una función. La función
+devuelta admite un observable como parámetro y debe devolver otro observable.
+Puedes usar operadores existentes para implementar el tuyo propio.
+
+```javascript
+function myOperator(myArg1, myArg2, ...) {
+  return function (source$) {
+    return myNewObservable$
+  }
+}
+```
+
+Creando un operador a partir de operadores ya existentes:
+
+```javascript
+function grabClassics(year) {
+  // el operador `filter` devuelve una función cuyo argumento es un obsvble y 
+  // esa misma función devuelve otro obsvble
+  return filter(book => book.publicationYear < year)
+}
+```
+
+[RxJS: Getting started]: https://app.pluralsight.com/library/courses/rxjs-getting-started/table-of-contents
+[Brice Wilson]: http://www.bricewilson.net/
+[RxJS]: https://www.learnrxjs.io/
