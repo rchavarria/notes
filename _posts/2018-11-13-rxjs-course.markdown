@@ -303,27 +303,62 @@ con el `asyncScheduler`.
 
 ### Capítulo 9: Testing Your RxJS Code
 
+`TestScheduler` te permite probar código asíncrono de forma síncrona.
 
+Primero hay que crear una instancia del scheduler, pasándole como parámetro una función
+donde comprobaremos los valores. Para ejecutar el código, debemos llamar al método
+`run` del scheduler, pasándole una función como parámetro. Esta función tiene
+un parámetro, `helpers`, el cual tiene unos cuantos métodos muy útiles para probar
+nuestros observables: `cold`, `hot`, `expectObservable`, `expectSubscriptions`, `flush`.
 
+```javascript
+const scheduler = new TestScheduler((actual, expected) => {
+  // perform deep equality test
+})
 
+scheduler.run(helpers => {
+  // helpers.cold()
+  // helpers.hot()
+  //...
+})
+```
 
+Los métodos `cold` y `hot` utilizan una sintaxis especial (marble syntax) para definir
+cómo funciona el observable.
 
+```javascript
+const source$ = helpers.cold('-a-b-c') // each character is a *virtual ms*
+const source$ = helpers.cold('--a-4---c-8|')  // | ends the stream
+const source$ = helpers.cold('  --a-4 12ms c-8#') // 12ms replaces 12 dashes
+const source$ = helpers.hot('-a-^-b-(cde)---f|') // ^ marks when the subscription is done, only for hot
+                                                 // (cde) emits 3 values at the same time
+                                                 
+// subscriptions
+const subscription = '^---!'
+const subscription = '---^-' // never ends
+const subscription = '^ 10ms !'
+```
 
+Un test de ejemplo sería más o menos así:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```javascript
+it('...', () => {
+  const scheduler = new TestScheduler((actual, expected) => {
+    // mocha/chai
+    expect(actual).deep.equal(expected)
+  })
+  
+  scheduler.run(helpers => {
+    const source$ = helpers.cold('-a-b-c-d|')
+    const expected =         '5ms -a-b-c-d|'
+    
+    helpers.expectObservable(source$.pipe(
+      delay(5)
+    ))
+    .toBe(expected)
+  })
+})
+```
 
 [RxJS: Getting started]: https://app.pluralsight.com/library/courses/rxjs-getting-started/table-of-contents
 [Brice Wilson]: http://www.bricewilson.net/
