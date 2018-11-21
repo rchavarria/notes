@@ -1,0 +1,36 @@
+---
+title: "30 días con RxJS"
+categories:
+- Aprendizaje
+- Programacion
+- JavaScript
+- RxJS
+---
+
+[Jorge Cano], inspirado por la iniciativa de Web Bos de [30 días con JavaScript],
+creó [30 días con RxJS]. Y aquí están mis notas, que he ido tomando a lo largo de
+los días, siguiendo el camino de Jorge, un día cada vez.
+
+Bueno, Jorge no llegó a producir los 30 días. Veremos hasta qué día llego yo
+consumiéndolo.
+
+<!-- more -->
+
+## Día 1
+
+Como suponía, cosas básicas: qué es un Observable, un Observer, un Subject,...
+Cómo suscribirse...
+
+Nada realmente interesante
+
+## Día 2
+
+Operadores:
+
+- `scan`: funciona como `reduce` en los arrays
+- `throttleTime`: emite el último elemento del flujo cada cierto tiempo
+- `map`: nada que decir, lo utiliza para transformar el dato que emitido en el flujo
+
+[Jorge Cano]: https://twitter.com/jorgeucano
+[30 días con JavaScript]: https://javascript30.com/
+[30 días con RxJS]: https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
