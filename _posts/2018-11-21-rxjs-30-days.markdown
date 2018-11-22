@@ -31,6 +31,33 @@ Operadores:
 - `throttleTime`: emite el último elemento del flujo cada cierto tiempo
 - `map`: nada que decir, lo utiliza para transformar el dato que emitido en el flujo
 
+## Día 3
+
+Cuadrante sobre valores únicos o múltiples, síncronos o asíncronos.
+
+Los observables se encuadran en valores múltiples asíncronos.
+
+En lugar de síncronos/asíncronos, Jorge habla de sistemas productor/consumidor
+pull/push. Pull sería cuando es el consumidor el que decide cuando recibir
+los datos. Por ejemplo, una función que es llamada. El llamante decide cuándo
+va a recibir el valor producido/devuleto por la función.
+
+Los observables serían sistemas push, es el productor quien decide cuándo
+se producen los valores. Estos valores son entregados a los consumidores
+sin que éstos sepan el momento, son entregados asíncronamente.
+
+Al menos esta relación síncrono-pull/asíncrono-push es la que he hecho
+yo en mi cabeza.
+
+
+
+
+
+
+
+
+
+
 [Jorge Cano]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
 [30 días con RxJS]: https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
