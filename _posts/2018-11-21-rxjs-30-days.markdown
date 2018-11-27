@@ -49,6 +49,75 @@ sin que éstos sepan el momento, son entregados asíncronamente.
 Al menos esta relación síncrono-pull/asíncrono-push es la que he hecho
 yo en mi cabeza.
 
+## Día 4: observables como generalizaciones de funciones
+
+En otras ocasiones hemos visto los Observables como:
+
+- Promesas para múltiples valores, array asíncrono, o múltiples valores
+de forma asíncrona
+- Emisores de eventos, cuando se multicastean a través de `Subject`s. Aunque
+no es muy común
+
+Hoy hace un paralelismo entre Observables y funciones:
+
+- Suscribirse a un Observable es como llamar a una función. Cada vez que un
+Observer se suscribe, el Observable se *ejecuta*
+- Tanto las funciones como los Observables son cálculos *lazy*, no se ejecutan
+hasta que no se les llama/suscribe
+- Dos llamadas distintas ocasionan dos efectos distintos, habrá tantos efectos
+como llamadas/suscripciones haya
+
+> Los Observables son asíncronos
+
+Bueno, eso no tiene por qué ser verdad del todo. Cuando un Observer se suscribe
+puede recibir los valores de forma síncrona:
+
+```javascript
+var foo = Rx.Observable.create(function (observer) {
+  console.log('Hello');
+  observer.next(42);
+  observer.next(100); // "return" another value
+  observer.next(200); // "return" yet another
+});
+
+console.log('before');
+foo.subscribe(function (x) {
+  console.log(x);
+});
+console.log('after');
+
+/* result:
+before
+Hello
+42
+100
+200
+after
+*/
+```
+
+Y también asíncrona, si a la hora de crear el Observable así lo queremos:
+
+```javascript
+var foo = Rx.Observable.create(function (observer) {
+  console.log('Hello');
+  observer.next(42);
+  observer.next(100); // "return" another value
+  setTimeout(() => observer.next(200), 1000);
+});
+```
+
+`func.call()` significa *dame un valor sincrónicamente*
+`observable.subscribe()` significa *dame cualquier cantidad de valores,
+de forma síncrona o asíncrona*
+
+
+
+
+
+
+
+
 
 
 
