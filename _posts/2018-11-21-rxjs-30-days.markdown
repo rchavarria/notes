@@ -108,6 +108,7 @@ var foo = Rx.Observable.create(function (observer) {
 ```
 
 `func.call()` significa *dame un valor sincrónicamente*
+
 `observable.subscribe()` significa *dame cualquier cantidad de valores,
 de forma síncrona o asíncrona*
 
