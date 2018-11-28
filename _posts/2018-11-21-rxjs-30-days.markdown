@@ -112,21 +112,19 @@ var foo = Rx.Observable.create(function (observer) {
 `observable.subscribe()` significa *dame cualquier cantidad de valores,
 de forma síncrona o asíncrona*
 
+## Día 5
 
+Los observables se crean con `Observable.create` o con operadores como
+`of`, `interval`, `from`,...
 
+Nos cuenta qué papel juegan los métodos `next`, `error` y `complete` de los
+Observers.
 
-
-
-
-
-
-
-
-
-
-
-
-
+El método `Observable.subscribe` devuelve una *suscripción*, la cual tiene
+un método llamado `unsubscribe` que sirve para cancelar una suscripción.
+Este método para cancelar puede ser personalizado a la hora de crear una
+suscripción. El método `unsubscribe` es la función que nosotros retornemos
+al crear el Observable con `Observable.create`.
 
 [Jorge Cano]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
