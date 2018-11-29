@@ -56,6 +56,57 @@ las notas
 - compresión: produce mejores resultados a corto plazo porque es como si ya
 se hubiera estudiado
 
+¿Es mejor usar papel u ordenador?
+
+Debido a la relativa facilidad de escribir
+en un ordenador, los estudiantes tienden a escribir muchas más notas con
+ordenador que con boli y papel.
+
+Por el contrario, el boli y el papel incentivan un procesamiento más profundo
+y retención a largo plazo. Además, el estilo no lineal (abreviaciones, símbolos,...)
+está muy íntimamente relacionado con el uso de boli y papel.
+
+El mayor peligro del uso de ordenardores en las aulas es la multitarea:
+email, video, otras actividades no relacionadas con la lección. Vamos, las
+distracciones.
+
+¿Qué es mejor, usar tus notas, los apuntes del profesor u otros recursos
+adicionales? 
+
+Puede ser bueno que el profesor proporcione los apuntes antes
+de la clase, los alumnos pueden hacerse una idea general, pero puede
+animarles a que no tomen notas por sí mismos, lo que puede llevar a no
+hacer el esfuerzo de comprender y hacer conexiones.
+
+Además, revisar las notas del profesor no es tan bueno como revisar las
+nuestras propias.
+
+La localización física donde el acto de tomar notas ocurre también es de
+importante consideración a la hora de aprender con efectividad. En clase
+puede haber distracciones, pero en cursos online seguro que va a haber
+muchas más.
+
+¿Cuál es la mejor forma de revisar las notas?
+
+Uno de los mayores beneficios de tomar notas es la oportunidad del estudiante
+de poder revisarlas en un futuro.
+
+Producir tus propias notas y revisarlas después es mucho más beneficioso para
+el aprendizaje a largo plazo que revisar las notas de otra persona.
+
+La revisión óptima es transformar las propias notas en alguna forma interactiva:
+resúmenes, ejercicios, revisar notas de otros, autoexaminarse,...
+
+Las notas se deberían revisar:
+
+- pronto: aunque sólo sea de pasada, se deberían revisar justo después de
+crearlas, o cuanto antes
+- frecuentemente: las revisiones se deben de ir espaciando cada vez más.
+Haciendo as revisiones cada vez más espaciadas, dejamos que la información
+se olvide un poco, de forma que al revisarlas volvemos a re-aprender. Este
+hecho, aunque no sea intuitivo, beneficia el aprendizaje y la retención a
+largo plazo
+
 ## Disculpas
 
 No sé qué ha pasado, pero no encuentro enlaces a los artículos originales. Es una
