@@ -126,6 +126,14 @@ Este método para cancelar puede ser personalizado a la hora de crear una
 suscripción. El método `unsubscribe` es la función que nosotros retornemos
 al crear el Observable con `Observable.create`.
 
+## Día 6
+
+Un Observer es un objeto con tres métodos, uno por cada tipo de notificación
+que puede entregar el Observable: `next`, `error` y `complete`
+
+`Observable.observe` también admite funciones como parámetros. Internamente
+construye un objecto Observer asignándole esas funciones a `next`,...
+
 [Jorge Cano]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
 [30 días con RxJS]: https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
