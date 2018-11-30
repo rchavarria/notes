@@ -107,10 +107,47 @@ se olvide un poco, de forma que al revisarlas volvemos a re-aprender. Este
 hecho, aunque no sea intuitivo, beneficia el aprendizaje y la retención a
 largo plazo
 
+## Tener suerte es una habilidad muy fácil de aprender
+
+Aunque la gente con mala suerte apenas tiene idea de las causas reales de su
+buena o mala suerte, sus pensamientos y comportamiento son los responsables
+de gran parte de lo que les ocurre.
+
+Tests de personalidad revelan que la gente con mala suerte están generalmente
+mucho más tensos que la gente con buena suerte, y algunas investigaciones
+revelan que la ansiedad afecta a la habilidad que tiene la gente de darse
+cuenta de lo inesperado. Ansiedad, estrés,... nos impide ver lo inusual, las
+oportunidades.
+
+De lo anterior, podemos decir que **darse cuenta de lo inesperado == buena
+suerte**.
+
+La gente con mala suerte se pierde muchas oportunidades porque están muy
+enfocados/atentos buscando otra cosa, buscando lo que quieren. Por ejemplo,
+van a fiestas para encontrar la pareja perfecta, pero pierden la oportunidad
+de hacer buenos amigos. La gente con buena suerte es más relajada y abierta,
+por lo que son capaces de ver lo que está ahí, en lugar de ver lo que están
+buscando.
+
+La gente con suerte presta atención tanto a la razón como a los pensamientos
+a la hora de tomar decisiones, en lugar de mirar solamente el lado racional
+de las cosas.
+
+La gente con suerte intenta introducir variedad en sus vidas, trata de no
+seguir rutinas, de introducir incertidumbre.
+
+La gente con suerte tiende a ver la parte positiva de su mala suerte. Se
+imaginan que las cosas podrían haber ido peor.
+
 ## Disculpas
 
 No sé qué ha pasado, pero no encuentro enlaces a los artículos originales. Es una
 lástima, porque así no podré ampliar en el futuro estas ideas que extraje en su
 momento.
 
+Bueno, parece que sí he encontrado alguna referencia:
+
+- [Be lucky, it's an easy skill to learn]
+
 [Aprendiendo a aprender]: https://rchavarria.github.io/notes/cursos/coursera/2017/01/04/learning-how-to-learn.html
+[Be lucky, it's an easy skill to learn]: https://www.telegraph.co.uk/technology/3304496/Be-lucky-its-an-easy-skill-to-learn.html
