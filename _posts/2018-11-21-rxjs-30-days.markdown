@@ -134,6 +134,22 @@ que puede entregar el Observable: `next`, `error` y `complete`
 `Observable.observe` también admite funciones como parámetros. Internamente
 construye un objecto Observer asignándole esas funciones a `next`,...
 
+## Día 7
+
+Hoy va de suscripciones.
+
+Una suscripción tiene básicamente un método `unsubscribe` para cancelar una
+suscripción y así, nuestro Observer, dejará de recibir datos.
+
+```
+var observable = Rx.Observable.interval(1000);
+var subscription = observable.subscribe(x => console.log(x));
+subscription.unsubscribe();
+```
+
+Una suscripción también tiene un método `add`, para agrupar varias suscripciones
+y poder cancelarlas todas de una vez.
+
 [Jorge Cano]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
 [30 días con RxJS]: https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
