@@ -139,6 +139,21 @@ seguir rutinas, de introducir incertidumbre.
 La gente con suerte tiende a ver la parte positiva de su mala suerte. Se
 imaginan que las cosas podrían haber ido peor.
 
+## El hábito de 30 seg que puede tener un gran impacto en tu vida
+
+> Just después de cada clase, reunión o cualquier otra experiencia
+significante, toma 30 seg (ni más ni menos, 30) para escribir/garabatear
+los puntos más importantes
+
+- No se trata de tomar notas, es un acto de interpretación, priorización
+y toma de decisiones
+- Decidir qué es lo más difícil es bastante duro
+- Lo mejor de la excelencia es el arte de la eliminación
+- Debes actuar rápido, o si no, perderás la chispa, el sentimiento,
+aquello que no puedes explicar
+- Aprendes a escuchar mejor y a hacer mejores preguntas
+- Según lo practicas, cada vez es más fácil y cada vez extraes más valor
+
 ## Disculpas
 
 No sé qué ha pasado, pero no encuentro enlaces a los artículos originales. Es una
@@ -148,6 +163,8 @@ momento.
 Bueno, parece que sí he encontrado alguna referencia:
 
 - [Be lucky, it's an easy skill to learn]
+- [30 seconds habit that can have a big impact on your life]
 
 [Aprendiendo a aprender]: https://rchavarria.github.io/notes/cursos/coursera/2017/01/04/learning-how-to-learn.html
 [Be lucky, it's an easy skill to learn]: https://www.telegraph.co.uk/technology/3304496/Be-lucky-its-an-easy-skill-to-learn.html
+[30 seconds habit that can have a big impact on your life]: https://www.huffingtonpost.com/robyn-scott/the-30-second-habit-that-_b_4808632.html
