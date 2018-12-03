@@ -150,6 +150,23 @@ subscription.unsubscribe();
 Una suscripción también tiene un método `add`, para agrupar varias suscripciones
 y poder cancelarlas todas de una vez.
 
+## Día 8: Subjects
+
+Mientras que un Observable envía valores a un solo Observer y para cada Observer
+que se suscribe tiene una ejecución diferente, un Subject puede enviar values
+a varias suscripciones (hace multicast). Los Subjects son parecidos a emisores
+de eventos, mantienen una lista de listeners/suscriptores.
+
+Todo Subject es un Observable. Los Observers pueden suscribirse a él.
+
+Todo Subject es un Observer. Tiene métodos `next`, `error` y `complete`, que
+permite controlar el flujo de datos.
+
+Los Subjects suelen ser utilizados para enviar a múltiples Observers los valores
+de un Observable, es decir, para convertir un Observable *unicast* en uno
+*multicast*. Es una manera de que una ejecución Observable sea compartida por
+varios Observers.
+
 [Jorge Cano]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
 [30 días con RxJS]: https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
