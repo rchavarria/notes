@@ -167,6 +167,26 @@ de un Observable, es decir, para convertir un Observable *unicast* en uno
 *multicast*. Es una manera de que una ejecución Observable sea compartida por
 varios Observers.
 
+## Día 9: Observables multicast
+
+No es necesario que hagamos todo el trabajo nosotros para convertir un Observable
+unicast a multicast con un Subject. Los Observables tienen un método `multicast`
+que nos ahorra mucho trabajo, usando `subscribe` al Subject y al Observable
+de la forma correcta:
+
+```javascript
+var source = Rx.Observable.from([1, 2, 3]);
+var subject = new Rx.Subject();
+var multicasted = source.multicast(subject);
+
+// These are, under the hood, `subject.subscribe({...})`:
+multicasted.subscribe({...});
+multicasted.subscribe({...});
+
+// This is, under the hood, `source.subscribe(subject)`:
+multicasted.connect();
+```
+
 [Jorge Cano]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
 [30 días con RxJS]: https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
