@@ -22,6 +22,9 @@ Continúa hablando de la [pirámide de tests]:
 
 ![Tests pyramid](https://martinfowler.com/bliki/images/testPyramid/test-pyramid.png)
 
+*Imagen tomada de la web de Martin Fowler donde habla también
+de la [pirámide de tests en inglés]*
+
 Más adelante habla de los tests unitarios:
 
 - Solitarios: donde todos los colaboradores son sustituidos por
@@ -82,3 +85,4 @@ consumidores) se mantengan funcionando.
 [The practical test pyramid]: https://martinfowler.com/articles/practical-test-pyramid.html
 [pirámide de tests]: http://blog.koalite.com/2014/05/deconstruyendo-la-piramide-de-los-tests/
 [dobles de test]: http://xurxodev.com/dobles-de-test/
+[pirámide de tests en inglés]: https://martinfowler.com/bliki/TestPyramid.html
