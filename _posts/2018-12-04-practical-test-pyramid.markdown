@@ -20,7 +20,7 @@ lo hace mejor y más rápido que nosotros).
 
 Continúa hablando de la [pirámide de tests]:
 
-![https://martinfowler.com/bliki/images/testPyramid/test-pyramid.png]
+![Tests pyramid](https://martinfowler.com/bliki/images/testPyramid/test-pyramid.png)
 
 Más adelante habla de los tests unitarios:
 
