@@ -48,7 +48,35 @@ Para solucionar esto, nos presenta los tests de contrato:
 
 ## Tests de contrato
 
-blah blah
+Los sistemas complejos se suelen dividir en varios subsistemas. Algunos
+llegan a lo que se conoce como microservicios. En definitiva, servicios
+que se comunican a través de REST, RPC, buses de eventos,...
+
+En estos sistemas hay un productor y un consumidor (provider/consumer,
+publisher/subscriber,...).
+
+La forma tradicional de testear la comunicación era escribir las
+especificaciones en papel (contrato), que la parte productora fuera
+implementada y luego se implementaba la parte consumidora. Todos los
+problemas aparecían al final, al implementar el consumidor.
+
+La siguiente fase es automatizar esos tests de contrato, con lo que
+tenemos que tanto los productores como los consumidores cumplen dicho
+contrato, y podemos comprobarlo de forma automática.
+
+Pero hay una alternativa mucho mejor, *tests de contrato dirigidos
+por el consumidor*, o tests CDC (Consumer-Driven Contract tests). La
+parte consumidora es quien pone las reglas, es quien guía la
+implementación del contrato.
+
+El consumidor escribe unos tests automáticos. En ellos se define qué
+es lo que necesita el consumidor. Ellos saben qué necesitan, nada
+de especificaciones en papel. El productor implementa su parte
+de forma que esos tests pasen.
+
+Los tests CDC son una forma automática de hacer que los equipos se
+comuniquen y hacen que los interfaces entre equipos (productores y
+consumidores) se mantengan funcionando.
 
 [Ham Vocke]: http://www.hamvocke.com/
 [The practical test pyramid]: https://martinfowler.com/articles/practical-test-pyramid.html
