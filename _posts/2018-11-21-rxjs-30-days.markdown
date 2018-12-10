@@ -213,6 +213,22 @@ setTimeout(() => subscription1.unsubscribe(), 1200);
 setTimeout(() => subscription2.unsubscribe(), 2000);
 ```
 
+## Día 11
+
+Hoy estudio una variante de Subject, los `BehaviourSubject`, el cual tiene
+una noción de *valor actual*, de *valor vivo actualmente en el flujo*.
+
+Un BehaviourSubject almacena el último valor emitido a sus consumidores de
+forma que cada vez que se suscribe uno nuevo, éste último valor es el primer
+valor que recibe.
+
+[Jorge] hace un símil: un flujo de eventos de tu cumpleaños es un Subject
+(son eventos que ocurren a lo largo del tiempo). El flujo de la edad de
+una persona es un BehaviourSubject (cuando conoce a una nueva persona
+le da el valor de su edad, su edad es el *valor actual* del flujo durante
+un año)
+
 [Jorge Cano]: https://twitter.com/jorgeucano
+[Jorge]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
 [30 días con RxJS]: https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
