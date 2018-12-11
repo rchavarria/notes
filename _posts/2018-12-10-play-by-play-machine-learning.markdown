@@ -46,6 +46,8 @@ software.
 - Peso (weight): en este curso se representa con la letra griega theta ( θ )
 - Coste: media de la suma de los errores al cuadrado
 - Diferenciación: variación de una hipótesis a la siguiente
+- Ratio de aprendizaje `α`: ratio de variación de los pesos `θ`
+entre iteraciones
 
 ## Machine learning introduction
 
