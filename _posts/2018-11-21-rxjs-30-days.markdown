@@ -228,6 +228,24 @@ una persona es un BehaviourSubject (cuando conoce a una nueva persona
 le da el valor de su edad, su edad es el *valor actual* del flujo durante
 un año)
 
+## Día 12
+
+Aquí otra variante de Subject, `ReplaySubject`, bastante más interesante que
+BehaviourSubject. ReplaySubject puede enviar valores antiguos a los nuevos
+suscriptores.
+
+Puede almacenar `n` valores:
+
+```javascript
+var subject = new Rx.ReplaySubject(3);
+```
+
+También se puede especificar un tiempo en milisegundos. En este ejemplo
+guardará `100` valores antiguos o los ocurridos en los últimos `500` ms.
+
+```javascript
+var subject = new Rx.ReplaySubject(100, 500);
+
 [Jorge Cano]: https://twitter.com/jorgeucano
 [Jorge]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
