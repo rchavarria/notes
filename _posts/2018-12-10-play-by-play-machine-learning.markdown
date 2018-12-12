@@ -48,6 +48,10 @@ software.
 - Diferenciación: variación de una hipótesis a la siguiente
 - Ratio de aprendizaje `α`: ratio de variación de los pesos `θ`
 entre iteraciones
+- SoftMax: como método de activación de nodos en una red neuronal
+- logistic function: como método de activación de nodos en una red neuronal
+- umbral binario: como método de activación de nodos en una red neuronal
+- sigmoid activation function: como método de activación de nodos en una red neuronal
 
 ## Machine learning introduction
 
@@ -91,6 +95,51 @@ Por ponerlo en una fórmula:
 
 Derivamos la función de coste `J` por la variación de `θ`, y dependiendo de ello, así
 aplicamos el valor de `α`.
+
+Se puede inicializar `θ` de forma aleatoria, y se puede realizar todo el proceso
+varias veces, para intentar conseguir distintos resultados.
+
+Para los casos donde tengamos varias dimensiones, la función de coste no será una
+simple curva, será una función de 3 o más dimensiones por lo que puede haber
+mínimos relativos.
+
+A veces, la regresión lineal no es suficientemente buena y necesitas regresión polinomial.
+En estos casos, hayar el mínimo en el gradiente es más complicado porque hay más 
+variables/dimensiones.
+
+## Aprendizaje supervisado (supervised learning)
+
+En este concepto se engloban problemas de regresión (como lo anterior) y de 
+clasificación.
+
+En el curso se centran en un problema de clasificación de flores de iris. Para
+clasificarlas hay que mirar 4 variables: ancho y largo del pétalo, ancho y largo
+del sépalo.
+
+En los problemas de clasificación se utilizan las **redes neuronales**, donde podemos
+diferenciar varios componentes:
+
+1. Capa de entrada (input layer), donde tenemos tantas entradas como características
+(features) vamos a manejar. Para el caso de la flor de iris, 4 características.
+2. Capa de salida (output layer), donde tendremos tantos nodos como clasificaciones.
+Si hay 2 especies de flores de iris, tendremos 2. Si hay 3, tendremos 3...
+3. Capas ocultas (hidden layers), son las capas intermedias. Estas capas, en realidad,
+están modelando características que no están explícitamente o directamente
+creadas por nosotros. Trabaja con algo basado en lo que nosotros le decimos, pero
+no sabemos exactamente el significado de sus resultados. Estas capas representan
+características ocultas.
+4. Pesos (weights), son similares a los pesos en las regresiones lineales, y son
+la forma de relacionar nodos de una capa con los nodos de la capa siguiente.
+
+En redes neuronales, `θ` representa cuánto valor de la característica de entrada
+pasa al siguiente nodo.
+
+Existe el concepto de *activación de nodo* o activación de la neurona. Hay diferentes
+formas de activación: SoftMax, logistic function, umbral binario, sigmoid activation
+function,...
+
+Entrenar una red neuronal es realizar los cálculos necesarios para hallar los valores
+de `θ` de las capas ocultas.
 
 [Play by play: machine learning exposed]: https://app.pluralsight.com/library/courses/play-by-play-machine-learning-exposed/table-of-contents
 [Katharine Beaumont]: https://app.pluralsight.com/profile/author/katharine-beaumont
