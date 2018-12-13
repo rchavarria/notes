@@ -254,6 +254,36 @@ el flujo termine (se llame al método `complete`). Entonces, y solo entonces,
 AsyncSubject envía el último valor a sus suscriptores. Sólo entrega un
 valor.
 
+## Día 14
+
+Por fin termina con los Subjects. Hoy habla de operadores:
+
+> Los operadores son las piezas esenciales que permiten que el código 
+asincrónico complejo se componga fácilmente de forma declarativa
+
+Los operadores son básicamente funciones que toman un Observable como
+parámetro y devuelve otro Observable sin modificar la entrada.
+
+```javascript
+function multiplyByTen(input) {
+  return Rx.Observable.create(observer => {
+    input.subscribe({
+      next: v => observer.next(10 * v),
+      error: err => observer.error(err),
+      complete: () => observer.complete()
+    });
+  });
+}
+
+var input = Rx.Observable.from([1, 2, 3, 4]);
+var output = multiplyByTen(input);
+output.subscribe(x => console.log(x));
+```
+
+Cuando nos suscribimos a `output`, se ejecuta el Observable creado en
+`multiplyByTen`, el cual se suscribe a `input` pasado como parámetro.
+Esta suscripción en cadena se llama: *cadena de suscripción de operador*.
+
 [Jorge Cano]: https://twitter.com/jorgeucano
 [Jorge]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
