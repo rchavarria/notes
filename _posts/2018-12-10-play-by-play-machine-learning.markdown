@@ -52,6 +52,8 @@ entre iteraciones
 - logistic function: como método de activación de nodos en una red neuronal
 - umbral binario: como método de activación de nodos en una red neuronal
 - sigmoid activation function: como método de activación de nodos en una red neuronal
+- bias: término que permite tener más control sobre la función sigmoide de
+activación
 
 ## Machine learning introduction
 
@@ -141,6 +143,58 @@ function,...
 Entrenar una red neuronal es realizar los cálculos necesarios para hallar los valores
 de `θ` de las capas ocultas.
 
+### Propagación hacia adelante (fordward propagation)
+
+*Bias* es un término que permite tener más control sobre la función sigmoide de
+activación. Hace que la función se active más pronto o más tarde.
+
+Los pesos, THETA, es lo que intentamos calcular (igual que en el caso de la regresión
+lineal). Simplemente, usamos los pesos hallados en la iteración anterior para
+movernos hacia adelante por la red, para movernos un paso más desde la capa de entrada
+hacia la capa de salida.
+
+El proceso es el siguiente: se decide cuantas capas ocultas va a tener nuestra red,
+cuantos nodos va a tener cada una de estas capas y cuantas salidas tendrá nuestra capa
+de salida. Luego elegimos aleatoriamente los valores iniciales de THETA (como en la
+regresión). Después *alimentamos* la red con unos valores de entrada y avanzamos
+por la red, usando los valores de los pesos THETA, para que al final del proceso
+podamos calcular el coste JOTA.
+
+Una vez hecha esta propagación hacia adelante, tenemos que averiguar cómo calcular el
+coste JOTA. El cálculo de este coste no es muy parecido al visto para la regresión.
+El cálculo depende de cómo se activan cada uno de los nodos.
+
+Hay un [curso online de Stanford] donde hablan de ello y de la *función logística
+sigmoide de regresión*. En el curso de estas notas simplemente recomiendan usar lo
+que tu librería de machine learning te proporcione. Me suena muy triste, pero es así.
+
+### Propagación hacia atrás (backward propagation)
+
+Una vez calculado el coste JOTA, nos *movemos* hacia atrás. Vamos entrenando los pesos
+THETA, comenzando por las salias hacia atrás. Comenzamos por el error obtenido y vamos
+averiguando cómo debemos modificar los pesos THETA para que vayamos teniendo una red
+entrenada para que nos dé buenas predicciones para nuevas entradas.
+
+En este viaje hacia atrás, lo que hacemos es buscar mínimos en la función de coste.
+
+En el caso de las redes neuronales, el *gradiente descendente* no es tan fácil de
+calcular. Para regresión lineal teníamos 2 dimensiones, 2 THETAs. En una red neuronal
+podemos tener 9 dimensiones para un caso muy sencillo de red. Simplemente representar esa
+función es imposible. Imagina cómo será buscar el mínimo de dicha función gráficamente.
+
+Al igual que antes, con la función de coste, la búsqueda de este mínimo mediante el
+gradiente descendente es mejor usar los métodos proporcionados por nuestra librería
+de machine learning favorita.
+
+Conceptualmente sigue siendo muy parecido a la regresión lineal. Aquí también tenemos
+el concepto de ALPHA, el ratio de cambio de los pesos THETA.
+
+Normalmente se necesitan varias iteraciones (hacia adelante y hacia atrás). Es posible
+que se necesiten miles de ellas. Depende mucho de las capas ocultas. Cuantas más capas
+ocultas haya, más nodos habrá, más características ocultas habrá, por lo que más
+dimensiones tendremos que tener en cuenta.
+
 [Play by play: machine learning exposed]: https://app.pluralsight.com/library/courses/play-by-play-machine-learning-exposed/table-of-contents
 [Katharine Beaumont]: https://app.pluralsight.com/profile/author/katharine-beaumont
 [James Weaver]: https://app.pluralsight.com/profile/author/james-weaver
+[curso online de Stanford]: http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
