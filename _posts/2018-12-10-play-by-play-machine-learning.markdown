@@ -48,12 +48,16 @@ software.
 - Diferenciación: variación de una hipótesis a la siguiente
 - Ratio de aprendizaje `α`: ratio de variación de los pesos `θ`
 entre iteraciones
-- SoftMax: como método de activación de nodos en una red neuronal
+- SoftMax: método de activación de nodos en una red neuronal. Su objetivo es que
+la suma de todas las activaciones de una capa de nuestra red siempre sume `1`.
+Normaliza las activaciones para que sumen `1`
 - logistic function: como método de activación de nodos en una red neuronal
 - umbral binario: como método de activación de nodos en una red neuronal
 - sigmoid activation function: como método de activación de nodos en una red neuronal
 - bias: término que permite tener más control sobre la función sigmoide de
 activación
+- Hyperbolic tangent activation function: otro tipo de funciones de activación
+de los nodos
 
 ## Machine learning introduction
 
@@ -193,6 +197,8 @@ Normalmente se necesitan varias iteraciones (hacia adelante y hacia atrás). Es 
 que se necesiten miles de ellas. Depende mucho de las capas ocultas. Cuantas más capas
 ocultas haya, más nodos habrá, más características ocultas habrá, por lo que más
 dimensiones tendremos que tener en cuenta.
+
+
 
 [Play by play: machine learning exposed]: https://app.pluralsight.com/library/courses/play-by-play-machine-learning-exposed/table-of-contents
 [Katharine Beaumont]: https://app.pluralsight.com/profile/author/katharine-beaumont
