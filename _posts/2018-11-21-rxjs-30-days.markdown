@@ -284,6 +284,38 @@ Cuando nos suscribimos a `output`, se ejecuta el Observable creado en
 `multiplyByTen`, el cual se suscribe a `input` pasado como parámetro.
 Esta suscripción en cadena se llama: *cadena de suscripción de operador*.
 
+## Día 15
+
+Según Jorge, cuando se habla de operadores, generalmente, nos estamos
+refiriendo a *operadores de instancia*. RxJS cambió bastante su API en
+la versión 6, y no sé si esto sigue siendo cierto.
+
+Los operadores de instancia son métodos en instancias observables, utilizan
+`this` como entrada observable (la variable `input` del día anterior).
+
+Se usarían así:
+
+```javascript
+Rx.Observable.prototype.multiplyByTen = function multiplyByTen() {...}
+const observable = Rx.Observable.from([...]);
+observable
+  .multiplyByTen()
+  .subscribe(...);
+```
+
+En la nueva versión de RxJS, deberíamos usar el método `pipe`, y `multiplyByTen`
+creo que ya no es nunca un método del prototipo de `Rx.Observable`. Creo
+que en este caso, este *curso* se ha quedado atrás.
+
+Otro tipo de operadores son los *operadores estáticos*, que son funciones
+asociadas directamente a la clase `Rx.Observable`. Normalmente éstos son los
+operadores de creación. Su entrada no suele ser un observable, si no otro
+tipo de datos, y con ellos crean un observable.
+
+Ejemplos de estos operadores serían `interval` y `from`. De nuevo, a partir de
+la versión 6 de RxJS, no estoy seguro de que esto sea cierto, ya que estos
+operadores se pueden importar independientemente de la clase Observable.
+
 [Jorge Cano]: https://twitter.com/jorgeucano
 [Jorge]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
