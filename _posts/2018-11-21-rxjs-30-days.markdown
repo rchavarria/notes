@@ -316,7 +316,17 @@ Ejemplos de estos operadores serían `interval` y `from`. De nuevo, a partir de
 la versión 6 de RxJS, no estoy seguro de que esto sea cierto, ya que estos
 operadores se pueden importar independientemente de la clase Observable.
 
+## Día 16
+
+Hoy aprendemos a interpretar los *diagramas de canicas* (marble diagrams). Y
+qué mejor que un diagrama explicado para ello:
+
+![Marble diagram](https://cdn-images-1.medium.com/max/800/1*c4jadTvqd6lq34xU_FQzOg.png)
+
+*Nota*: imagen obtenida del artículo de [Jorge Cano] [día 16]
+
 [Jorge Cano]: https://twitter.com/jorgeucano
 [Jorge]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
 [30 días con RxJS]: https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755
+[día 16]: https://medium.com/@jorgeucano/base-30-d%C3%ADas-con-rxjs-d%C3%ADa-16-3c4e60818908
