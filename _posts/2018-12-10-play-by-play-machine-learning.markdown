@@ -58,6 +58,8 @@ Normaliza las activaciones para que sumen `1`
 activación
 - Hyperbolic tangent activation function: otro tipo de funciones de activación
 de los nodos
+- Overfitting: tu modelo es muy bueno prediciendo la respuesta para los datos del
+entrenamiento pero no predicen nada con datos fuera de los de entrenamiento
 
 ## Machine learning introduction
 
@@ -198,7 +200,39 @@ que se necesiten miles de ellas. Depende mucho de las capas ocultas. Cuantas má
 ocultas haya, más nodos habrá, más características ocultas habrá, por lo que más
 dimensiones tendremos que tener en cuenta.
 
+### Evaluando y optimizando una red neuronal
 
+Es bastante usual que no se use el 100% de los datos para entrenar la red. Se puede usar
+el 65% para entrenarla, y el 35% restante para comprobar cómo de bien está entrenado
+el modelo, aunque estos porcentajes los puedes tomar como quieras.
+
+*Overfitting*: tu modelo es muy bueno prediciendo la respuesta para los datos del
+entrenamiento pero no predicen nada con datos fuera de los de entrenamiento. Esto quiere
+decir que has entrenado tu hipótesis para ajustarse a tus datos, no para generalizar.
+
+El problema opuesto es *underfitting*: cuando el modelo no se ajusta ni siquiera a los
+datos de entrenamiento. Puede ocurrir cuando no se está usando el método adecuado.
+
+Además de la función de coste `J`, que te dice el error que tienes en tus datos de
+entrenamiento, debes analizar cuánto se equivoca el modelo con los otros datos que 
+tienes. Sería como una función de coste pero para datos que no han sido utilizados
+en el entrenamiento de la red.
+
+A parte de saber cuántas respuestas son correctas, tú también quieres saber qué tipo de
+respuestas son las equivocadas. Así, tenemos dos nuevos conceptos:
+
+*Precisión*: de todas las situaciones donde predecimos que la respuesta es positiva, qué
+fracción de ellas es realmente positiva. Es decir, porcentaje de aciertos.
+
+*Recall*: de todas las situaciones donde predecimos que la respuesta es positiva, cuántos
+de ellos se **supone** que son positivos.
+
+Hmm, no he pillado muy bien la diferencia entre ellas. Debe ser sutil, o no está muy
+bien explicado. O puede ser que sean el mismo concepto, pero vistos cada uno desde un
+punto de vista diferente (resultados obtenidos Vs resultados esperados).
+
+*F score*: es la media de la precisión y el recall. Sólo será alto si tanto precisión como
+recall son altos.
 
 [Play by play: machine learning exposed]: https://app.pluralsight.com/library/courses/play-by-play-machine-learning-exposed/table-of-contents
 [Katharine Beaumont]: https://app.pluralsight.com/profile/author/katharine-beaumont
