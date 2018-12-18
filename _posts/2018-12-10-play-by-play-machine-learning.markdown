@@ -60,6 +60,8 @@ activación
 de los nodos
 - Overfitting: tu modelo es muy bueno prediciendo la respuesta para los datos del
 entrenamiento pero no predicen nada con datos fuera de los de entrenamiento
+- Centroide: punto que representará las coordenadas centrales de cada uno de
+los conjuntos en el algoritmo K-medias
 
 ## Machine learning introduction
 
@@ -233,6 +235,55 @@ punto de vista diferente (resultados obtenidos Vs resultados esperados).
 
 *F score*: es la media de la precisión y el recall. Sólo será alto si tanto precisión como
 recall son altos.
+
+Hay muchas maneras de afectar la salida de una red neuronal. Por eso es bueno conocer
+cómo *medir* la red. Para ello tenemos la precisión, el recall, F score, funciones
+de coste (hay varios métodos para calcularlas: cross entropy, SoftMax,...).
+
+Así podemos hablar de tunear la red, modificando el ratio de aprendizaje, usando más
+ejemplos para entrenar el modelo, características más pequeñas, o más generales, quizá
+hayas tomado características que no son tan relevantes como creías, o has pasado
+algunas por alto, incrementar la regularización de la codificación,...
+
+Algunos autores como VV Preetham dice que tunear una red es un *arte oculto*. Yo no
+lo creo, yo creo que estos autores quieren ocultar que en realidad no entienden 
+lo que hacen o que simplemente quieren darle importancia a su trabajo, que desde
+mi punto de vista de desconocimiento, simplemente parece como que modifican números
+aleatoriamente.
+
+### Ejemplos: suma regresiva y 3 en raya
+
+Normalmente, con una red neuronal hacemos predicciones del resultado que dará para
+unos datos con los que nunca se han alimentado a la red. Pero en el caso del juego
+de las 3 en raya, la red ha sido alimentada con *todos* los movimientos posibles del
+juego, por lo que al final la red es básicamente unas funciones de aproximación.
+
+### Algoritmo K-medias
+
+Antes de nada, como diseñadores del algoritmo, debemos escoger `K` clusters, es decir,
+el algoritmo va a clasificar los datos en `K` conjuntos.
+
+Digamos que queremos `2` conjuntos. Para ello elegimos 2 *centroides*. Un centroide
+es un punto que representará las coordenadas centrales de cada uno de los conjuntos.
+En un principio, las coordenadas de cada centroide son elegidas al azar.
+
+Después nos encontramos con el paso llamado *asignación de cluster*: para cada
+dato individual que tenemos, medimos la distancia a cada uno de los centroides, y
+asignamos el dato al centroide más cercano.
+
+Luego está el paso *mover cluster* o *mover centroide*: calculamos dónde está el
+punto medio de todos los puntos/datos que pertenecen a cada uno de los clusters. Ese
+punto medio será en nuevo centroide del cluster.
+
+Así, para la siguiente iteración, movemos los centroides a ese punto medio calculado.
+Y volvemos a hacer el paso de asignación de cluster. E iteramos.
+
+Puede que no sepas con cuántos clusters debes empezar. El número `K` se considera
+un *hiperparámetro*.
+
+El coste en este algoritmo se calcula como la suma de las distancias al cuadrado.
+Curiosamente, así es como se calcula el error o la distancia que hay de un punto
+a una recta. Acuérdate de geometría.
 
 [Play by play: machine learning exposed]: https://app.pluralsight.com/library/courses/play-by-play-machine-learning-exposed/table-of-contents
 [Katharine Beaumont]: https://app.pluralsight.com/profile/author/katharine-beaumont
