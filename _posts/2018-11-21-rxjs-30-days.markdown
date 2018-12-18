@@ -325,6 +325,33 @@ qué mejor que un diagrama explicado para ello:
 
 *Nota*: imagen obtenida del artículo de [Jorge Cano] [día 16]
 
+## Día 17
+
+Hmmm, no muy útil, simplemente cómo navegar por la documentación de
+[ReactiveX](http://reactivex.io)
+
+## Día 18
+
+Este día utiliza bastantes operadores de RxJS. En principio, ninguno de ellos es
+raro, todos son entendibles por separado. Pero el ejemplo final es algo más
+complejo de entender en su conjunto.
+
+En ejemplo final consta de:
+
+- Una caja de texto donde el usuario introduce un texto cualquiera
+- Un botón para activar/desactivar la funcionalidad que queremos
+- Esa funcionalidad, hace que el texto introducido siga el puntero del ratón
+allá donde éste vaya
+
+En realidad, no parece que use cosas muy complejas de RxJS. En el flujo de
+activar/desactivar modifica un flag. De echo, la modificación del flag es
+un poco liosa. En el flujo de seguir al ratón, comprueba el flag. Si el
+flag está desactivado, no mueve el texto. No es muy reactivo ese `if` por
+ahí metido.
+
+El código del ejemplo se puede ver
+[aquí](https://github.com/jorgeucano/30DiasConRxJS/blob/master/dia-18/ejemplo-01.js).
+
 [Jorge Cano]: https://twitter.com/jorgeucano
 [Jorge]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
