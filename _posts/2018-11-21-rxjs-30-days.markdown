@@ -352,6 +352,17 @@ ahí metido.
 El código del ejemplo se puede ver
 [aquí](https://github.com/jorgeucano/30DiasConRxJS/blob/master/dia-18/ejemplo-01.js).
 
+## Día 19
+
+La actualización a la versión 6 le ha pillado a medias de la serie. Y creo que es
+lo que le ha matado, porque la serie se queda en el día 20, mañana lo veremos y
+lo acabaremos.
+
+## Día 20
+
+Hoy es el día en que se da cuenta de cuánto ha cambiado RxJS. Habla del operador
+`pipe`, que es la nueva forma de encadenar operadores.
+
 [Jorge Cano]: https://twitter.com/jorgeucano
 [Jorge]: https://twitter.com/jorgeucano
 [30 días con JavaScript]: https://javascript30.com/
