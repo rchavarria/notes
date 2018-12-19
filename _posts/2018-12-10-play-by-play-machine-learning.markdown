@@ -285,6 +285,51 @@ El coste en este algoritmo se calcula como la suma de las distancias al cuadrado
 Curiosamente, así es como se calcula el error o la distancia que hay de un punto
 a una recta. Acuérdate de geometría.
 
+### Usar aprendizaje no-supervisado para mapear arte y palabras
+
+Hablan de algunos algoritmos más avanzados, y de sus lindezas, pero no entran mucho
+en detalles y parece más que intentan vender el tema del machine learning.
+
+## Aprendizaje de refuerzo
+
+O en inglés *reinforcement learning*. Es la idea de que el algoritmo tiene un agente
+que va aprendiendo en base a recompensas. Ejemplos clásicos de estos aprendizajes
+son un una cuadrícula, donde hay un ratón que se va moviendo por un laberinto hasta
+que consigue llegar al queso.
+
+La idea es que el ratón, el agente, no sabe nada del mundo, no sabe nada de la
+cuadrícula. Todo lo que sabe es en qué fila/columna se encuentra, que se puede mover
+a la izquierda,... y la recompensa que obtiene al moverse.
+
+Supuestamente, el agente de forma aleatoria encuentra el camino hasta el estado
+final, la recompensa final. Pero sólo por casualidad. Esto es para hacernos una
+idea de lo aleatorio del algoritmo, y de que realmente el agente no sabe nada
+sobre la forma del alberinto.
+
+Lo que pasa es que cuanto más cerca está de la recompensa, más directamente va
+hacia ella. Cuanto más cerca está, más probable es de que consiga la recompensa.
+
+¿Cómo aprende? A través de lo que se conoce como *procesos de decisión de Markov*.
+Este algoritmo es una representación de estados, acciones, y en nuestro caso,
+de recompensas.
+
+Supongamos que el agente se encuentra en la fila 1, columna 2. Puede tomar una
+acción: moverse arriba, izq... El agente le indica al entorno, al mundo, qué
+acción va a tomar. Esta acción es un parámetro de entrada del entorno. Así,
+el entorno calcula qué recompensa va a tener el agente y su nuevo estado.
+Esta interacción agente-entorno se conoce como SARS (**s**tate, **a**ction,
+**r**eward, **s**tate).
+
+Existe algo llamado *factor de descuento*. Ajustándolo, podemos hacer que el
+algoritmo prefiera recompensas inmediatas o recompensas a más largo plazo.
+Este parámetro (¿sería un hiperparámetro?) hace que el agente se comporte
+distinto y aprenda distinto.
+
+Una vez que el agente ha encontrado el camino, se puede volver a iterar. Aquí
+podemos usar los mismos parámetros o cambiarlos. Podemos decidir si el agente
+explorará nuevos caminos, porque a lo mejor hay caminos mejores. Este problema
+se conoce como el *problema de exploración versus explotación*.
+
 [Play by play: machine learning exposed]: https://app.pluralsight.com/library/courses/play-by-play-machine-learning-exposed/table-of-contents
 [Katharine Beaumont]: https://app.pluralsight.com/profile/author/katharine-beaumont
 [James Weaver]: https://app.pluralsight.com/profile/author/james-weaver
