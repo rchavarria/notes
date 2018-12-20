@@ -226,8 +226,12 @@ respuestas son las equivocadas. Así, tenemos dos nuevos conceptos:
 *Precisión*: de todas las situaciones donde predecimos que la respuesta es positiva, qué
 fracción de ellas es realmente positiva. Es decir, porcentaje de aciertos.
 
+![Precisión](/assets/images/2018/ml-precission.png)
+
 *Recall*: de todas las situaciones donde predecimos que la respuesta es positiva, cuántos
 de ellos se **supone** que son positivos.
+
+![Recall](/assets/images/2018/ml-recall.png)
 
 Hmm, no he pillado muy bien la diferencia entre ellas. Debe ser sutil, o no está muy
 bien explicado. O puede ser que sean el mismo concepto, pero vistos cada uno desde un
@@ -235,6 +239,8 @@ punto de vista diferente (resultados obtenidos Vs resultados esperados).
 
 *F score*: es la media de la precisión y el recall. Sólo será alto si tanto precisión como
 recall son altos.
+
+![F Score](/assets/images/2018/ml-f-score.png)
 
 Hay muchas maneras de afectar la salida de una red neuronal. Por eso es bueno conocer
 cómo *medir* la red. Para ello tenemos la precisión, el recall, F score, funciones
@@ -329,6 +335,56 @@ Una vez que el agente ha encontrado el camino, se puede volver a iterar. Aquí
 podemos usar los mismos parámetros o cambiarlos. Podemos decidir si el agente
 explorará nuevos caminos, porque a lo mejor hay caminos mejores. Este problema
 se conoce como el *problema de exploración versus explotación*.
+
+### Ecuación de Bellman y tablas de recompensas
+
+Lo que se intenta hacer es asignar un valor para cada posible ación desde un
+estado.
+
+Hablando de Bellman, una *política* es una solución. Una *política óptima* es
+la mejor acción posible en cada estado. Podemos averiguar la relación entre
+un paso y el siguiente comparando la *función de valor* (creo que le llama
+`Q`, del término *Q-learning*) del paso actual con la función de valor del
+paso siguiente. Usando recursividad, podemos calcular la política óptima
+del problema.
+
+*Tabla de recompensas*: indica qué posibles acciones puede tomar el agente
+dado un estado.
+
+![Robot entre habitaciones](/assets/images/2018/ml-rooms-maze.png)
+
+`Q(state, action)` representa como unas coordenadas en la tabla. Lo que quiero
+calcular es el valor de ir de la habitación 1 a la 2. Puedo mirar la recompensa
+`R` que voy a obtener al moverme a ese siguiente estado (habitación 2) más el
+máximo valor del siguiente estado multiplicado por el *factor de descuento*.
+Este factor de descuento enfatiza más las recompensas cuanto más cerca del
+estado objetivo se encuentra el agente.
+
+### 3 en raya con aprendizaje reforzado
+
+La *tabla Q* representa todos los posibles estados en el juego 3 en raya. Pero
+no tenemos por qué conocer todos los estados de antemano, los vamos conociendo
+según nos los vamos encontrando, y así vamos construyendo la tabla (esto sería
+como ir grabando las partidas para encontrar todas las posibles soluciones).
+
+Necesitaremos varios juegos para construir la tabla completa. Luego, podemos
+permitir al agente decidir cómo va a maximizar la recompensa según tome unas
+acciones u otras.
+
+![Q-Table en 3 en raya](/assets/images/2018/ml-tic-tac-toe.png)
+
+No he pillado muy bien lo de *reinforcement learning* ¿El entorno tiene
+almacenado por nosotros las recompensas? Si es así, sería como hacer trampas.
+Y si no es así... ¿de dónde salen las recompensas? ¿cómo las calcula?
+
+## Cierre del curso
+
+Hay más algoritmos o redes neuronales:
+
+- Convolutional neural networks
+- MNIST como ejemplo de conditional neural network
+- Generative adversarial networks, donde se generan imágenes u otras cosas que
+no existen todavía
 
 [Play by play: machine learning exposed]: https://app.pluralsight.com/library/courses/play-by-play-machine-learning-exposed/table-of-contents
 [Katharine Beaumont]: https://app.pluralsight.com/profile/author/katharine-beaumont
