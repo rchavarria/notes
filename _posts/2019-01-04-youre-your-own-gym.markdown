@@ -1,3 +1,16 @@
+---
+title: "You are your own gym"
+categories:
+- Libros
+- Ejercicio físico
+---
+
+Libro *You're your own gym*, de Mark Lauren.
+
+<!-- more -->
+
+## Notas tomadas
+
 unequivocally state You Are Your Own Gym is a must read for anyone truly interested in their well-being
 
 What if I told you that you already have the most advanced fitness machine ever created? Your own body
