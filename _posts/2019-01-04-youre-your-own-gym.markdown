@@ -5,11 +5,65 @@ categories:
 - Ejercicio físico
 ---
 
-Libro *You're your own gym*, de Mark Lauren.
+##### de Mark Lauren
+
+### Por qué lo he leído
+
+Tengo predisposición a coger peso. He tenido ya varios ciclos de adelgazar, engordar,
+adelgazar y volver a engordar. Tengo claro que lo de adelgazar lo consigo casi exclusivamente
+con la dieta, con la alimentación. Pero también tengo claro que debo hacer ejercicio.
+
+Debido a mi trabajo, llevo una vida bastante sedentaria. Me gusta salir a la calle, jugar
+con mi hijo, montar en bicicleta, y me divierte practicar casi cualquier deporte. Otra
+cosa es que les dedique el suficiente tiempo semanalmente.
+
+Este libro describe cómo hacer ejercicio *sin ninguna otra herramienta que tu propio
+cuerpo*. Seguro que eso disminuiría la fricción de hacer deporte.
 
 <!-- more -->
 
-## Notas tomadas
+### De qué trata el libro
+
+Básicamente, el libro describe multitud de ejercicios donde tu propio cuerpo es la herramienta
+central, la máquina central (por compararlo con ir al gimnasio). Para ciertos ejercicios es
+necesario contar con una barra, o con un taburete. Pero básicamente, los ejercicios los
+vas a realizar de forma que tu propio cuerpo, tu propio peso sea el que ofrezca la resistencia
+necesaria para ejercitar tus músculos.
+
+Incluye alguna comparación con los gimnasios y algún capítulo sobre motivación. El catálogo
+de ejercicios se lleva el grueso del libro. Y también incluye un plan, o varios planes de
+entrenamiento.
+
+Para llegar a esos planes de entrenamiento, primer describe una serie de técnicas que según
+él están demostradas que funcionan y que combinándolas parecen ofrecer buenos resultados.
+Estas técnicas son más que nada combinaciones de sets y repeticiones de los ejercicios.
+
+### Conclusiones y valoración
+
+Como tal, el libro no es una maravilla. Tampoco tiene que serlo. Los ejercicios van
+acompañados de ilustraciones, lo que ayuda a entender ciertos ejercicios. El catálogo de
+ejercicios está bastante bien. Hay bastantes como para no aburrirse durante mucho tiempo.
+
+En ocasiones intenta justificar su método con estudios científicos. Pero me da la impresión
+de que es más un intento de justificación que otra cosa.
+
+Lo que sí que es de agradecer son los planes de ejercicios que propone. Desde el minuto
+cero, puedes ponerte a seguir esos planes y a mejorar tu forma física. Fácil y sencillo.
+El libro va acompañado de una aplicación para móviles donde puedes encontrar esos planes u
+otros diseñados por él, encontrar nuevos ejercicios, apuntarte a retos,...
+
+Hay un capítulo dedicado a la motivación que creo que merecería la pena releerlo de vez
+en cuando. Me pareció muy bueno para motivarse uno mismo.
+
+### Qué he aprendido
+
+### Frases que me gustaría recordar
+
+### Recursos relacionados
+
+- [You are your own gym](https://amzn.to/2H3tImK), de Mark Lauren
+
+### Resto de notas tomadas
 
 unequivocally state You Are Your Own Gym is a must read for anyone truly interested in their well-being
 
