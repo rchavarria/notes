@@ -13,6 +13,9 @@ software es o no una ingeniería de verdad.
 En realidad, creo que esta es la segunda vez que veo la charla, pero no encuentro
 las notas por ningún lado, así que ahí van.
 
+Como bonus, van las notas de una charla parecida del mismo autor hablando sobre
+Ingeniería y Artesanía del Software.
+
 <!-- more -->
 
 Comienza diciendo que todos los *problemas* vienen por dos ideas, que básicamente se
@@ -76,6 +79,47 @@ barato es diseñar) con la de desarrollar un software (donde lo barato es constr
 Habla de prácticas descritas en Extreme Programming, relacionándolas
 con trabajos de ingeniería, que aplican a distintos niveles a la hora de diseñar
 y escribir software, así como a distintas escalas de tiempo.
+
+### Craft, Engineering, and the Essence of Programming
+
+Muy parecida a esta charla, Glenn tiene otra:
+[Craft, Engineering, and the Essence of Programming](https://www.youtube.com/watch?v=LlTiMUzLMgM)
+
+En ella termina hablando de si los ingenieros de software son en realidad
+Ingenieros o Craftsmen. Al final, se monta su historia para concluir que 
+son ambos.
+
+En la charla, la idea principal con la que me quedo es:
+
+> Cuanto más abstracta es la rama de la ingeniería, más concreto es el modelo
+con el que trabaja
+
+Al igual que en la charla anterior, hace una pequeña clasificación, ordenando
+algunas ingenierías de más concretas (que trabajan con cosas físicas) a más
+abstractas (trabajan con menos cosas físicas y más cosas abstractas). Repito
+esta clasificación:
+
+Civil -> Estructural -> Mecánica -> Aeroespacial -> Química
+-> Eléctrica -> Industrial -> Software
+
+En Ingeniería de Software, la más abstracta de todas, su modelo es el más concreto.
+Su modelo es el código, que también es el diseño. De hecho, el modelo (el código)
+es tan concreto que los ingenieros *sienten* que están trabajando con el
+producto final, con el resultado final, cuando están diseñando el modelo.
+
+Las últimas palabras son para la Artesanía del Software (Craftsmanship) en
+comparación con la Ingeniería del Software:
+
+> Dado que trabajamos con información pura, con pura abstracción. Dado que
+somos escritores, somos creadores y diseñadores, tenemos el lujo de ser tanto
+ingenieros como artesanos. Somos diseñadores y *hacedores*. No estamos
+aislados de los artefactos que diseñamos, y al igual que los artesanos, podemos
+sentir lo que construimos y su calidad nos afecta emocionalmente. Tenemos ese
+lujo, pero también tenemos la responsabilidad de no ser solamente artesanos,
+si no también ingenieros. Porque de otra forma, tenemos que ser artesanos y no
+solamente ingenieros. Es un lujo y una responsabilidad, porque si no, perderíamos
+inevitablemente la visión de los aspectos menos tangibles, que no menos
+importantes, de nuestras creaciones.
 
 ### Algunos libros
 
