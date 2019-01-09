@@ -65,25 +65,26 @@ en cuando. Me pareció muy bueno para motivarse uno mismo.
 
 ### Resto de notas tomadas
 
-unequivocally state You Are Your Own Gym is a must read for anyone truly interested in their well-being
+> Qué tal si te digo que tú ya tienes la máquina de finess más avanzada jamás 
+creada? Tu cuerpo
 
-What if I told you that you already have the most advanced fitness machine ever created? Your own body
+#### 1 Misión conseguida: Fibroso, fuerte y confiado
 
-MISSION SUCCESS: Lean, Strong, and Confident
+#### 2 How I Got Here
 
-HOW I GOT HERE
-
-WHY BODYWEIGHT EXERCISES
-
-POPULARITY OF TRAINING EQUIPMENT, systems, and fad diets is mostly the result of marketing—not a genuine attempt to help a generally out-of-shape society reach higher levels of fitness and well-being
+#### 3 Why Bodyweight Exercises?
 
 POPULARITY OF TRAINING EQUIPMENT, systems, and fad diets is mostly the result of marketing—not a genuine attempt to help a generally out-of-shape society reach higher levels of fitness and well-being
 
-MYTH: BODYWEIGHT EXERCISES DON’T ALLOW YOU TO ADJUST THE DIFFICULTY OF AN EXERCISE There’s a common misperception out there that bodyweight exercise options are limited. Push Ups, Pull Ups, Sit Ups—and not much else.Hmmmm… Did I mention that there’s over 111 different exercises in this book? And that’s not including their variations. The fact is there’s a far wider array of exercises in this book than there are machines in any gym in the world. Other people think it’s impossible to work certain muscle groups with bodyweight exercises. Wrong again. Every single muscle group, and some you didn’t know existed can be worked without weights—from getting rid of a pencil neck to using your shin muscles to round out your calves. The only limiting factor with bodyweight exercises is your creativity. Every weightlifting motion can be mimicked, made harder or easier, with your own bodyweight. And unlike those machines in the gym, there are seemingly infinite ways to vary any of my exercises, keeping your muscles guessing and growing for the rest of your life. For example, I detail Push Ups that even a 600-pound man (or 70 year-old woman, for that matter) could do. And then there’s ones, like the Planche Push Up, most professional bodybuilders won’t be able to execute without lots of practice. My 10-week program actu-10 YOU ARE YOUR OWN GYM
+POPULARITY OF TRAINING EQUIPMENT, systems, and fad diets is mostly the result of marketing—not a genuine attempt to help a generally out-of-shape society reach higher levels of fitness and well-being
 
 MYTH: BODYWEIGHT EXERCISES DON’T ALLOW YOU TO ADJUST THE DIFFICULTY OF AN EXERCISE There’s a common misperception out there that bodyweight exercise options are limited. Push Ups, Pull Ups, Sit Ups—and not much else.Hmmmm… Did I mention that there’s over 111 different exercises in this book? And that’s not including their variations. The fact is there’s a far wider array of exercises in this book than there are machines in any gym in the world. Other people think it’s impossible to work certain muscle groups with bodyweight exercises. Wrong again. Every single muscle group, and some you didn’t know existed can be worked without weights—from getting rid of a pencil neck to using your shin muscles to round out your calves. The only limiting factor with bodyweight exercises is your creativity. Every weightlifting motion can be mimicked, made harder or easier, with your own bodyweight. And unlike those machines in the gym, there are seemingly infinite ways to vary any of my exercises, keeping your muscles guessing and growing for the rest of your life. For example, I detail Push Ups that even a 600-pound man (or 70 year-old woman, for that matter) could do. And then there’s ones, like the Planche Push Up, most professional bodybuilders won’t be able to execute without lots of practice. My 10-week program actu-10 YOU ARE YOUR OWN GYM
 
 MYTH: BODYWEIGHT EXERCISES DON’T ALLOW YOU TO ADJUST THE DIFFICULTY OF AN EXERCISE There’s a common misperception out there that bodyweight exercise options are limited. Push Ups, Pull Ups, Sit Ups—and not much else.Hmmmm… Did I mention that there’s over 111 different exercises in this book? And that’s not including their variations. The fact is there’s a far wider array of exercises in this book than there are machines in any gym in the world. Other people think it’s impossible to work certain muscle groups with bodyweight exercises. Wrong again. Every single muscle group, and some you didn’t know existed can be worked without weights—from getting rid of a pencil neck to using your shin muscles to round out your calves. The only limiting factor with bodyweight exercises is your creativity. Every weightlifting motion can be mimicked, made harder or easier, with your own bodyweight. And unlike those machines in the gym, there are seemingly infinite ways to vary any of my exercises, keeping your muscles guessing and growing for the rest of your life. For example, I detail Push Ups that even a 600-pound man (or 70 year-old woman, for that matter) could do. And then there’s ones, like the Planche Push Up, most professional bodybuilders won’t be able to execute without lots of practice. My 10-week program actu-10 YOU ARE YOUR OWN GYM
+
+MYTH: BODYWEIGHT EXERCISES DON’T ALLOW YOU TO ADJUST THE DIFFICULTY OF AN EXERCISE There’s a common misperception out there that bodyweight exercise options are limited. Push Ups, Pull Ups, Sit Ups—and not much else.Hmmmm… Did I mention that there’s over 111 different exercises in this book? And that’s not including their variations. The fact is there’s a far wider array of exercises in this book than there are machines in any gym in the world. Other people think it’s impossible to work certain muscle groups with bodyweight exercises. Wrong again. Every single muscle group, and some you didn’t know existed can be worked without weights—from getting rid of a pencil neck to using your shin muscles to round out your calves. The only limiting factor with bodyweight exercises is your creativity. Every weightlifting motion can be mimicked, made harder or easier, with your own bodyweight. And unlike those machines in the gym, there are seemingly infinite ways to vary any of my exercises, keeping your muscles guessing and growing for the rest of your life. For example, I detail Push Ups that even a 600-pound man (or 70 year-old woman, for that matter) could do. And then there’s ones, like the Planche Push Up, most professional bodybuilders won’t be able to execute without lots of practice. My 10-week program actu-10 YOU ARE YOUR OWN GYM
+
+#### 4 Why Strength Training?
 
 WHY STRENGTH TRAINING? (or Why Cardio Is a Waste of Your Time)
 
@@ -109,9 +110,9 @@ aerobic activities do carry with them a great risk of injury.Most
 
 Any effect you are seeking from aerobic activity can be achieved more safely and efficiently with high-intensity strength training
 
+#### 5 So What Is “Fitness,” Anyway?
+
 SO WHAT IS “FITNESS,” ANYWAY
-
-
 
 physical qualities that are most attractive, as opposed to those that have very limited usefulness. It is diversity in physical ability that is most useful and functional, not to mention beautiful
 
@@ -119,6 +120,7 @@ It is diversity in physical ability that is most useful and functional, not to m
 
 So, my program develops the entire spectrum of physical skills: Muscular Strength, Muscular Endurance, Cardiovascular Endurance, Power, Speed, Coordination, Balance, and Flexibility. The degree to which you possess these eight physical qualities defines your level of fitness
 
+#### 6 Nutrition
 NUTRITION: Back to Basics
 
 The only reliable method of reaching and maintaining your long-term fitness goals is by understanding and consistently applying dietary fundamentals
@@ -213,6 +215,8 @@ MEAL SUPPLEMENTS
 
 KEEPING A LOG
 
+#### 7 Common Strength Training Myths
+
 COMMON STRENGTH TRAINING MYTHS
 
 OT RE D U C T I O
@@ -283,6 +287,8 @@ goals. RE S T R I C T I V E DI E T S
 
 The body is very resourceful, and it will slow down its metabolic rate in order to compensate for the lack of calories.
 
+#### 8 Motivation
+
 MOTIVATION
 
 
@@ -331,6 +337,8 @@ Better Goals: Loose . 5 lbs of body fat per week. Be able to do all the exercise
 
 After you’ve written your excuses out, just take a look at them. Remember them and decide now that when you hear these thoughts again, you’re going to workout despite them
 
+#### 9 Intensity
+
 INTENSITY
 
 Getting in great shape requires some sacrifices. Not sacrifices of time, but instead putting your goals before your comfort
@@ -338,6 +346,8 @@ Getting in great shape requires some sacrifices. Not sacrifices of time, but ins
 TAKING IT TO THE LIMIT In order to build muscle we need to apply the right stimulus, and occasionally it’s necessary to take yourself to muscular failure and even beyond, especially the more advanced we become. We just need to be sure to use these techniques very sparingly, since their overuse will quickly lead to overtraining. After taking a set to complete or near failure you can try the following:46 YOU ARE YOUR OWN GYM
 
 TAKING IT TO THE LIMIT
+
+#### 10 Training Tools
 
 TRAINING TOOLS
 
@@ -373,6 +383,7 @@ a b a t a s: 20 seconds of exercise followed by 10 seconds of rest, for 8 rounds
 
 T a b a t a s: 20 seconds of exercise followed by 10 seconds of rest, for 8 rounds
 
+#### 11 The Exercises
 THE EXERCISES
 
 
@@ -381,6 +392,8 @@ Please remember that each exercise is not simply about pushing or pulling yourse
 
 exhale as your muscles contract, and inhale as your muscles stretch
 
+#### 12 The Program
+
 THE PROGRAM
 
 It’s normal for our progress to have occasional dips and valleys for various reasons, so don’t let it discourage you. Three steps forward, one step back; four steps forward, two steps back
@@ -388,8 +401,6 @@ It’s normal for our progress to have occasional dips and valleys for various r
 download log sheets at MarkLauren.com
 
 Household Equipment
-
-
 
 The 6 Necessary Training Principles behind Any Successful Program
 
