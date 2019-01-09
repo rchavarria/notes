@@ -74,15 +74,25 @@ creada? Tu cuerpo
 
 #### 3 Why Bodyweight Exercises?
 
-POPULARITY OF TRAINING EQUIPMENT, systems, and fad diets is mostly the result of marketing—not a genuine attempt to help a generally out-of-shape society reach higher levels of fitness and well-being
+> La popularidad del equipamiento de entrenamiento, sistemas y dietas *famosas* 
+son el resultado de acciones de marketing, no un intento genuino de ayudar a una 
+sociedad generalmente en mala forma física a alcanzar altos niveles de fitness y 
+de bienestar físico
 
-POPULARITY OF TRAINING EQUIPMENT, systems, and fad diets is mostly the result of marketing—not a genuine attempt to help a generally out-of-shape society reach higher levels of fitness and well-being
+> Mito: los ejercicios con tu propio peso no permiten ajustar la dificultad de un
+ejercicio
 
-MYTH: BODYWEIGHT EXERCISES DON’T ALLOW YOU TO ADJUST THE DIFFICULTY OF AN EXERCISE There’s a common misperception out there that bodyweight exercise options are limited. Push Ups, Pull Ups, Sit Ups—and not much else.Hmmmm… Did I mention that there’s over 111 different exercises in this book? And that’s not including their variations. The fact is there’s a far wider array of exercises in this book than there are machines in any gym in the world. Other people think it’s impossible to work certain muscle groups with bodyweight exercises. Wrong again. Every single muscle group, and some you didn’t know existed can be worked without weights—from getting rid of a pencil neck to using your shin muscles to round out your calves. The only limiting factor with bodyweight exercises is your creativity. Every weightlifting motion can be mimicked, made harder or easier, with your own bodyweight. And unlike those machines in the gym, there are seemingly infinite ways to vary any of my exercises, keeping your muscles guessing and growing for the rest of your life. For example, I detail Push Ups that even a 600-pound man (or 70 year-old woman, for that matter) could do. And then there’s ones, like the Planche Push Up, most professional bodybuilders won’t be able to execute without lots of practice. My 10-week program actu-10 YOU ARE YOUR OWN GYM
-
-MYTH: BODYWEIGHT EXERCISES DON’T ALLOW YOU TO ADJUST THE DIFFICULTY OF AN EXERCISE There’s a common misperception out there that bodyweight exercise options are limited. Push Ups, Pull Ups, Sit Ups—and not much else.Hmmmm… Did I mention that there’s over 111 different exercises in this book? And that’s not including their variations. The fact is there’s a far wider array of exercises in this book than there are machines in any gym in the world. Other people think it’s impossible to work certain muscle groups with bodyweight exercises. Wrong again. Every single muscle group, and some you didn’t know existed can be worked without weights—from getting rid of a pencil neck to using your shin muscles to round out your calves. The only limiting factor with bodyweight exercises is your creativity. Every weightlifting motion can be mimicked, made harder or easier, with your own bodyweight. And unlike those machines in the gym, there are seemingly infinite ways to vary any of my exercises, keeping your muscles guessing and growing for the rest of your life. For example, I detail Push Ups that even a 600-pound man (or 70 year-old woman, for that matter) could do. And then there’s ones, like the Planche Push Up, most professional bodybuilders won’t be able to execute without lots of practice. My 10-week program actu-10 YOU ARE YOUR OWN GYM
-
-MYTH: BODYWEIGHT EXERCISES DON’T ALLOW YOU TO ADJUST THE DIFFICULTY OF AN EXERCISE There’s a common misperception out there that bodyweight exercise options are limited. Push Ups, Pull Ups, Sit Ups—and not much else.Hmmmm… Did I mention that there’s over 111 different exercises in this book? And that’s not including their variations. The fact is there’s a far wider array of exercises in this book than there are machines in any gym in the world. Other people think it’s impossible to work certain muscle groups with bodyweight exercises. Wrong again. Every single muscle group, and some you didn’t know existed can be worked without weights—from getting rid of a pencil neck to using your shin muscles to round out your calves. The only limiting factor with bodyweight exercises is your creativity. Every weightlifting motion can be mimicked, made harder or easier, with your own bodyweight. And unlike those machines in the gym, there are seemingly infinite ways to vary any of my exercises, keeping your muscles guessing and growing for the rest of your life. For example, I detail Push Ups that even a 600-pound man (or 70 year-old woman, for that matter) could do. And then there’s ones, like the Planche Push Up, most professional bodybuilders won’t be able to execute without lots of practice. My 10-week program actu-10 YOU ARE YOUR OWN GYM
+Su respuesta: hay una mala percepción extendida por ahí sobre los ejercicios con
+tu propio peso (bodyweight exercises) que dice que sus opciones son limitadas.
+Dominadas, flexiones, sentadillas,... y no mucho más. He mencionado que en este
+libro hay más de 111 ejercicios? Eso sin incluir las variaciones. El hecho es que
+hay un espectro más amplio de ejercicios en este libro que máquinas hay en un
+gimnasio. Otra gente cree que es imposible trabajar ciertos grupos de músculos
+con este tipo de ejercicios. Se equivocan. Cualquier grupo muscular se puede
+trabajar sin pesas. El único factor limitante es tu creatividad. Cada levantamiento
+de pesas puede ser imitado, hacerlo más fácil o más sencillo, con tu propio peso.
+Y a diferencia de las máquinas del gimnasion, hay infinitas formas de variar cualquiera
+de mis ejercicios, mantiendo tus músculos firmes para el resto de tu vida.
 
 #### 4 Why Strength Training?
 
