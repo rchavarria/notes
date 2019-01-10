@@ -65,7 +65,7 @@ en cuando. Me pareció muy bueno para motivarse uno mismo.
 
 ### Resto de notas tomadas
 
-> Qué tal si te digo que tú ya tienes la máquina de finess más avanzada jamás 
+Qué tal si te digo que tú ya tienes la máquina de finess más avanzada jamás 
 creada? Tu cuerpo
 
 #### 1 Misión conseguida: Fibroso, fuerte y confiado
@@ -74,12 +74,12 @@ creada? Tu cuerpo
 
 #### 3 Why Bodyweight Exercises?
 
-> La popularidad del equipamiento de entrenamiento, sistemas y dietas *famosas* 
+La popularidad del equipamiento de entrenamiento, sistemas y dietas *famosas* 
 son el resultado de acciones de marketing, no un intento genuino de ayudar a una 
 sociedad generalmente en mala forma física a alcanzar altos niveles de fitness y 
 de bienestar físico
 
-> Mito: los ejercicios con tu propio peso no permiten ajustar la dificultad de un
+Mito: los ejercicios con tu propio peso no permiten ajustar la dificultad de un
 ejercicio
 
 Su respuesta: hay una mala percepción extendida por ahí sobre los ejercicios con
@@ -94,33 +94,46 @@ de pesas puede ser imitado, hacerlo más fácil o más sencillo, con tu propio p
 Y a diferencia de las máquinas del gimnasion, hay infinitas formas de variar cualquiera
 de mis ejercicios, mantiendo tus músculos firmes para el resto de tu vida.
 
-#### 4 Why Strength Training?
+#### 4 Why Strength Training? (o por qué el cardio es una pérdida de tiempo)
 
-WHY STRENGTH TRAINING? (or Why Cardio Is a Waste of Your Time)
+Mito: hacer entrenamientos prolongados y moderados (generalmente manteniendo
+un ritmo cardíaco durante 30 o 60 minutos) como ejercicios aeróbicos o *cardio*
+sea la mejor manera de quemar calorías y conseguir una buena salud cardiovascular.
 
-is a myth that doing prolonged steady state training—usually maintaining a target heart rate for 30 to 60 minutes—like aerobics or “cardio” is the best way to burn calories and achieve cardiovascular health
+El autor habla sobre correr, hacer bicicleta o una clase de step. La principal
+razón de que esos ejercicios sean más fáciles cuanto más los practicas no es
+porque tu condición cardiovascular ha mejorado, es porque tu *economía de
+movimiento* ha mejorado. Algo así como: cuanto más practicas maratón, menos
+energía gastas.
 
-is a myth that doing prolonged steady state training—usually maintaining a target heart rate for 30 to 60 minutes—like aerobics or “cardio” is the best way to burn calories and achieve cardiovascular health
+El músculo es el tejido más caro, metabólicamente hablando, que tenemos. Los músculos
+son la mejor herramienta para perder peso.
 
-More bad news for aerobic activity: Whether it’s running, cycling, or a step class, the main reason it gets easier the more you do it, is not because of improved cardiovascular conditioning, but because of improved economy of motion
+La propuesta del autor... entrenamiento de fuerza espaciado (interval strength training)
 
-cusnto mas practicas un maraton. menos energia gastas
+Los ejercicios llamados de *bajo impacto*, como bicicleta estática, no necesarimente
+son de baja fuerza. Y ejercicios como correr son de extrema fuerza, dañando tus rodillas,
+caderas y espalda. Y la danza aeróbica es aún peor. 
 
-Muscle is the most metabolically expensive tissue we have
+Cuando se sufren demasiadas lesiones, tienen un efecto acumulativo, y generalmente se
+van produciendo poco a poco, a lo largo de los años, hasta que es demasiado tarde, lo
+que termina en una movilidad más reducida según se va envejeciendo.
 
-in a month—that’s the equivalent of two pounds of fat. Muscle is the single greatest tool for weight loss
+Cualquier efecto que se esté buscando con actividades aeróbicas puede ser alcanzado de
+forma más segura y eficiente a través de entrenamientos de fuerza de alta intensidad
+(high-intensity strength training, HIT). Recuerda, **tu sistema cardiovascular ayuda
+a tu sistema muscular, no al revés**. Un ritmo cardíaco alto no significa nada por sí
+mismo. Situaciones de estrés o miedo disparan el ritmo cardíaco, pero no te hacen
+adelgazar ni más sano.
 
-fat. Muscle is the single greatest tool for weight loss
+> El entrenamiento de fuerza espaciado (interval strenght training) es superior a la
+actividad aeróbica a la hora de quemar grasas, así como para conseguir fuerza,
+velocidad, potencia e incluso resistencia cardiovascular. Y todo ello en mucho menos
+tiempo que tediosas sesiones de cardio
 
-ANSWER: INTERVAL STRENGTH TRAINING
+Las actividades aeróbicas conllevan un gran riesgo de sufrir lesiones.
 
-injury.Most, even so-called “low impact” classes or activities like stationary cycling, are not necessarily low-force. And things like running are extremely high-force, damaging to your knees, hips and back. Aerobic dance is even worse.Sure, you’ll hear the occasional genetic exception declare that they’ve never ever been injured doing these exercises. But overuse injuries are cumulative and often build undetected over years until it’s too late, leading to a decrease or loss of mobility as you age, which, in turn, too often leads to a shortened lifespan. Any effect you are seeking from aerobic activity can be achieved more safely and efficiently with high-intensity strength training.Remember, your cardiovascular system supports your muscular system, not the other way around. An elevated heart rate means nothing by itself. Being nervous before a full combat equipment nighttime High Altitude Low Opening (HALO) formation jump always sent my heart rate skyrocketing, but it didn’t make my belt any looser. And even if you insisted on measuring the efficacy of an exercise by an increase in heart rate, I dare you to get it up higher than with my “Stappers. ” So there we have it: Interval strength training is superior to aerobic activity in burning fat, as well as building strength, speed, power, and even cardiovascular endurance. All this in far less time than tedious “cardio” sessions14 YOU ARE YOUR OWN GYM
-
-aerobic activities do carry with them a great risk of injury.Most
-
-Any effect you are seeking from aerobic activity can be achieved more safely and efficiently with high-intensity strength training
-
-#### 5 So What Is “Fitness,” Anyway?
+#### 5 Entonces, qué es *fitness*?
 
 SO WHAT IS “FITNESS,” ANYWAY
 
