@@ -135,15 +135,15 @@ Las actividades aeróbicas conllevan un gran riesgo de sufrir lesiones.
 
 #### 5 Entonces, qué es *fitness*?
 
-SO WHAT IS “FITNESS,” ANYWAY
+Es la diversidad en la habilidad física lo que es más funcional y útil, por no mencionar bello.
 
-physical qualities that are most attractive, as opposed to those that have very limited usefulness. It is diversity in physical ability that is most useful and functional, not to mention beautiful
-
-It is diversity in physical ability that is most useful and functional, not to mention beautiful
-
-So, my program develops the entire spectrum of physical skills: Muscular Strength, Muscular Endurance, Cardiovascular Endurance, Power, Speed, Coordination, Balance, and Flexibility. The degree to which you possess these eight physical qualities defines your level of fitness
+El programa del autor, dice, desarrolla un amplio espectro de habilidades físicas: fuerza 
+muscular, resistencia muscular, resistencia cardiovascular, potencia, velocidad, coordinación,
+equilibrio y flexibilidad. El grado en el que tú posees estas 8 cualidades físicas define tu
+nivel de *fitness*
 
 #### 6 Nutrition
+
 NUTRITION: Back to Basics
 
 The only reliable method of reaching and maintaining your long-term fitness goals is by understanding and consistently applying dietary fundamentals
