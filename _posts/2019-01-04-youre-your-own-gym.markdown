@@ -144,15 +144,34 @@ nivel de *fitness*
 
 #### 6 Nutrition
 
-NUTRITION: Back to Basics
+El único método para alcanzar y mantener tus objetivos de fitness a largo plazo es
+entendiendo y aplicando consistentemente los fundamentos dietéticos (la palabra aquí
+es **consistentemente**)
 
-The only reliable method of reaching and maintaining your long-term fitness goals is by understanding and consistently applying dietary fundamentals
+Comer los alimentos equivocados es lo que causa el ansia de un exceso de calorías.
+Los malos alimentos pueden lanzar tus hormonas fuera de control, sintiéndose uno
+insatisfecho y desnutrido.
 
-la palabra aqui es consistentemente
+Por otro lado, los defensores del déficit calórico creen que el control de peso es
+simplemente cuestión de cuántas calorías ingieres frente a cuántas quemas, ignorando
+las fuentes de dichas calorías.
 
-healthy. Eating the wrong things is what causes unhealthy cravings for excess calories. This is because bad foods can throw our hormones out of whack, feeling unsatisfied and under-nourished On the other hand, the calories in vs. calories out folks believe that weight control is simply a matter of how many calories are eaten in relation to how many calories are burned, regardless of what the food sources are. Using this theory, a person maintaining a calorie deficit of 500 calories per day should loose one pound per week, since one pound of bodyweight is equivalent to 3500 calories (500 calories x 7 days = 3500 calories). Which of these is right? They both are.But, even though it might sound funny, I have to say that the “what you eat people” are more correct. I know this both from science and countless trials. The proof is in the pudding.Yes, you will lose weight by creating a continual calorie deficit, but if those limited calories are coming from mainly overly processed foods with little nutritional value, it will leave you feeling terrible and constantly craving food.Plus, such a diet will reap havoc on your hormones causing you to cannibalize muscle instead of burning fat. This is the diet that most people turn to and it is the reason why weight loss is rarely permanent. As I will discuss shortly, the body’s resting metabolic rate (RMR) is a key player in our ability to stay lean, and it is affected to a large degree by our body composition with muscle being our greatest calorie burning ally. With that said, it’s important to place the emphasis 20 YOU ARE YOUR OWN GYM
+¿Quién de los dos tiene razón? Ambos, pero para el autor es más correcto una buena
+alimentación que contar calorías. Es cierto, si tienes un déficit calórico contínuo,
+perderás peso, pero si las pocas calorías que ingieres provienen de alimentos muy
+procesados con poco valor nutricional, te harán sentirte mal y con un deseo constante
+de más comida. 
 
-about what you eat vs. how much you eat. Some claim weight control is simply a matter of what you eat. They believe if you eat the right foods in the right proportions, you’ll be healthy
+Además, una dieta como esa causará estragos en tus hormonas, provocando que canibalices
+músculo en lugar de quemar grasa. Esta es la dieta que prueba la mayoría, y esa es la
+causa de que la pérdida de peso no sea permanente.
+
+Como veremos más adelante, el metabolismo basal (resting metabolic rate, RMR) es un actor
+clave en nuestra habilidad para estar fibroso, y depende en gran medida de la composición
+de nuestro cuerpo, donde los músculos son nuestro gran aliado a la hora de quemar grasas.
+
+Algunos creen que el control de peso depende simplemente de lo que uno coma. Dicen que
+si comes los alimentos adecuados, en las proporciones adecuadas, estarás sano.
 
 the calories in vs. calories out folks believe that weight control is simply a matter of how many calories are eaten in relation to how many calories are burned, regardless of what the food sources are
 
