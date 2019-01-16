@@ -70,9 +70,9 @@ creada? Tu cuerpo
 
 #### 1 Misión conseguida: Fibroso, fuerte y confiado
 
-#### 2 How I Got Here
+#### 2 Cómo he llegado hasta aquí
 
-#### 3 Why Bodyweight Exercises?
+#### 3 Por qué este tipo de ejercicios
 
 La popularidad del equipamiento de entrenamiento, sistemas y dietas *famosas* 
 son el resultado de acciones de marketing, no un intento genuino de ayudar a una 
@@ -94,7 +94,7 @@ de pesas puede ser imitado, hacerlo más fácil o más sencillo, con tu propio p
 Y a diferencia de las máquinas del gimnasion, hay infinitas formas de variar cualquiera
 de mis ejercicios, mantiendo tus músculos firmes para el resto de tu vida.
 
-#### 4 Why Strength Training? (o por qué el cardio es una pérdida de tiempo)
+#### 4 Por qué entrenamiento de fuerza (o por qué el cardio es una pérdida de tiempo)
 
 Mito: hacer entrenamientos prolongados y moderados (generalmente manteniendo
 un ritmo cardíaco durante 30 o 60 minutos) como ejercicios aeróbicos o *cardio*
@@ -142,7 +142,7 @@ muscular, resistencia muscular, resistencia cardiovascular, potencia, velocidad,
 equilibrio y flexibilidad. El grado en el que tú posees estas 8 cualidades físicas define tu
 nivel de *fitness*
 
-#### 6 Nutrition
+#### 6 Nutrición
 
 El único método para alcanzar y mantener tus objetivos de fitness a largo plazo es
 entendiendo y aplicando consistentemente los fundamentos dietéticos (la palabra aquí
@@ -173,47 +173,40 @@ de nuestro cuerpo, donde los músculos son nuestro gran aliado a la hora de quem
 Algunos creen que el control de peso depende simplemente de lo que uno coma. Dicen que
 si comes los alimentos adecuados, en las proporciones adecuadas, estarás sano.
 
-the calories in vs. calories out folks believe that weight control is simply a matter of how many calories are eaten in relation to how many calories are burned, regardless of what the food sources are
+Otros (calorías ingeridas vs. quemadas) creen que el control depende simplemente de
+cuántas calorías son ingeridas en relación a cuántas de ellas son quemadas, independientemente
+de las fuentes alimenticias
 
-I have to say that the “what you eat people” are more correct
+El autor está más de acuerdo con la gente que tiene en cuenta el origen de los alimentos
 
-the body’s resting metabolic rate (RMR) is a key player in our ability to stay lean, and it is affected to a large degree by our body composition with muscle being our greatest calorie burning ally
+El metabolismo basal es un actor clave en tu habilidad para estar fibroso, y depende bastante
+del grado de composición de tu cuerpo (músculo vs. grasa), es músculo es uno de tus mejores
+aliados para la quema de grasas
 
-Macronutrients consist of proteins, fats, and carbohydrates
+Macronutrientes: proteínas, grasas y carbohidratos. Cada uno juega un papel fundamental, excluir
+uno de ellos en la dieta hará que te sientas insatisfecho y cansado
 
-Each macronutrient plays a vital role in our health and well-being, and excluding any one of them will cause you to feel unsatisfied and tired
+Cuanto más tarde un carbohidrato en ser convertido a glucosa mejor. Algunos carbohidratos simples
+tardan más en ser convertidos a glucosa que algunos complejos. El índice glucémico mide el ratio
+de absorción de los carbohidratos. Un alimento con un índice glucémico bajo se absorve lentamente
+(esto es bueno). Un alimento con índice algo se absorve rápido (esto es malo). Muchas frutas y
+verduras tienen un índice glucémico más bajo que algunos granos y pastas.
 
-So the longer it takes for a carb to be broken down into glucose, the better
+Idealmente, los carbohidratos que comamos deberían estar tan cerca de su forma original como sea
+posible
 
-many simple carbs actually absorb at a much slower rate than many complex carbs
+La grasa que ingerimos no se convierte directamente en grasa corporal. La grasa saturada es la
+que se encuentra en la mayoría de los alimentos que encontramos en cadenas de comida rápida. Las
+**insaturadas** suelen venir de plantas como frutos secos, semillas, aceites vegetales no
+hidrogenados, soja, aceitunas, aceite de oliva y pescado.
 
-The glycemic index measures the rate of absorption of carbs. A carb that has a low glycemic index absorbs slowly (good), and a carb with high glycemic index absorbs rapidly (bad). For a comprehensive list of foods and their glycemic indices, see MarkLauren.com. You will find that many fruits and vegetables have a much lower glycemic index than grains and pastas
+Asegúrate de consumir, en su mayoría, grasas insaturadas en buen estado. Y aquellas grasas saturadas
+que comas deberían venir solamente de lácteos y carnes
 
-Ideally, the carbs we eat should be as close to their original form as possible
+Las proteinas son el macronutriente más importante y el más comunmente rechazado. La proteína debería
+ser el centro de toda comida
 
-dietary fat does not automatically convert to body fat
-
-Saturated fats
-
-much of what you find at fast food chains
-
-Unsaturated
-
-come from plant sources such as nuts, seeds, non-hydrogenated vegetable oils, soy, olives, olive oil, flax seed oil, and fish
-
-be sure to consume mainly good, unsaturated fats
-
-And those saturated fats you do eat should only come naturally from the dairy and meat you consume
-
-PROTEIN The most important, but most commonly neglected macronutrient
-
-this. Protein should be the center of every meal
-
-RMR
-
-RESTING METABOLIC RATE (RMR
-
-
+**Metabolismo basal** (restin metabolic rate, RMR)
 
 RMR is the amount of calories needed to sustain all of your body’s functions while at rest. RMR accounts for approximately 65% of your body’s total calorie consumption
 
