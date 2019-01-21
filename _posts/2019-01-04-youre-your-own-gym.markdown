@@ -208,49 +208,43 @@ ser el centro de toda comida
 
 **Metabolismo basal** (restin metabolic rate, RMR)
 
-RMR is the amount of calories needed to sustain all of your body’s functions while at rest. RMR accounts for approximately 65% of your body’s total calorie consumption
+El metabolismo basal es la cantidad de calorías que necesitas para sustentar las funciones de
+tu cuerpo en descanso. Esto supone aproximadamente un 65% del total de calorías consumidas
+por tu cuerpo.
 
-The main factor is lean body mass, which accounts for approximately 80% of our RMR. And there’s only one way to affect lean body mass: Build muscle
+El principal factor es la masa corporal de fibra (*lean body mass*), que supone un 80% del 
+metabolismo basal. Y solo hay una manera de afectar a la masa corporal de fibra: generar 
+músculo.
 
-Another way to positively influence our RMR is to provide our body with a steady flow of nutrients. The body is extremely resourceful, and during times of starvation it adapts by slowing down its RMR
+Otra forma de influir positivamente al metabolismo basal es dar al cuerpo un flujo constante
+de nutrientes. El cuerpo tiene muchos recursos, y durante los ayunos se adapta y comienza a
+bajar el metabolismo basal.
 
-The more meals you eat in a day, the more consistently your metabolism is boosted
+Cuantas más comidas comas durante el día, más consistentemente será potenciado tu metabolismo.
 
-Intense exercise also boosts the metabolism for up to 48 hours after completion
+Un ejercicio intenso también potencia el metabolismo hasta 48 horas después de
+completarlo.
 
-CALCULATING DAILY CALORIE EXPENDITURE If you don’t feel like making these calculations yourself, on MarkLauren.com you can find an RMR calculator. To convert your weight in pounds into kilograms (kg) divide your weight in pounds by 2.2. Pounds / 2.2 = kg To convert height in inches to height in centimeters (cm) multiply your height in inches by 2.54. Inches x 2.54 = cm26 YOU ARE YOUR OWN GYM
+¿Cuánto es tu metabolismo basal? Busca una calculadora online. Necesitarás saber tu peso y
+altura. A mí me sale alrededor de 2000 calorías al día.
 
-a mi me sale entre 2400 / 2700
+¿Cuántas calorías ingieres diariamente? No necesitas contarlas. La diferencia entre sentirse
+*satisfecho* y *lleno* después de una comida son unas 1000 calorías. Puede ser incluso peor,
+la diferencia entre sentirse *lleno* y *empachado* son unas 2500.
 
-CALCULATING DAILY CALORIE EXPENDITURE
+Intenta habituarte a comer hasta que ya no sientas hambre, no hasta que estés empachado.
 
-Hooya
+Tómate tu tiempo, mastica bien tu comida, y relájate.
 
-You don’t ever need to “fill ‘er up. ” The difference between feeling “satisfied” and feeling “full” after a meal is about 1,000 calories.Then, even worse, there are about 2,500 calories between feeling full and feeling “stuffed
+La pérdida de grasa se reduce a:
 
-calories into our mouth. Get into the habit of eating until you are no longer hungry, not until you are completely stuffed
+1. Genera algo de músculo quema calorías mediante los entrenamientos de fuerza
+2. Crea un modesto déficit calórico mediante una dieta
 
-stuffed
+Recuerda, no es sólo perder peso, se trata de la composición corporal: menos grasa y más
+músculo
 
-Get into the habit of eating until you are no longer hungry, not until you are completely stuffed
-
-Take your time, chew your food, and relax
-
-LOSING WEIGHT
-
-The bottom line for fat loss: 1) Build some calorie burning muscle through strength training; 2) Create a modest calorie deficit through dietary restraint
-
-Taking your time will prevent muscle loss and maximize your chances of keeping the weight off permanently
-
-Remember, it isn’t simply about weight. It’s about body composition—less fat and more muscle
-
-GAINING WEIGHT
-
-MEAL SUPPLEMENTS
-
-KEEPING A LOG
-
-#### 7 Common Strength Training Myths
+#### 7 Mitos comunes sobre los entrenamientos de fuerza
 
 COMMON STRENGTH TRAINING MYTHS
 
