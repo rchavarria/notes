@@ -246,77 +246,61 @@ músculo
 
 #### 7 Mitos comunes sobre los entrenamientos de fuerza
 
-COMMON STRENGTH TRAINING MYTHS
+Mito: la pérdida de grasa se puede aislar para una zona específica del cuerpo
 
-OT RE D U C T I O
+Mito: el músculo se puede convertir en grasa
 
-SP OT RE D U C T I O N
+Mito: tus músculos crecerán demasiado con los entrenamientos de fuerza
 
-fat loss can be isolated to a particular area of the body
+Las ganancias iniciales de muscularidad se deben al incremento de circulación entre los
+músculos. De la misma forma, los saltos en fuerza se deben a la adaptación del cuerpo
+a nuevos movimientos, más que al aumento de músculo.
 
-estamos hablando de mitos. eh
+El miedo de que acabarás con mucho más músculo del que quieres es infundado. Un cuerpo
+musculoso se consigue con una dedicacion consistente al entrenamiento de fuerza y una
+dieta adecuada. No va a pasar de un día para otro.
 
+**Generar y mantener músculo, a secas, es la forma más efectiva de quemar grasa y calorías**
 
+Mito: cuanto más mejor
 
-MU S C L E CA N TU R N I N T O FA T
+No muy acertado, el músculo crece mientras descansas, no mientras lo ejercitas. El
+descanso es necesario.
 
-YO U R MU S C L E S WI L L GE T TO O BI G IF YO U DO ST R E N G T H TR A I N I N
+Mito: puedes cambiar la forma de un músculo haciendo ejercicios muy específicos
 
-the initial gains in muscularity that are common within the first couple of weeks of strength training are largely due to an increase in circulation within the muscles.Similarly, the jumps in strength are mostly due to the body’s neurological adaptation to new movements rather than added muscle mass. The fear that you will accidentally become more muscular than you intended or that you will start growing uncontrollably is unfounded. For women, consistently gaining a half pound of muscle a month is outstanding progress. For men, a pound and a half is comparable. Keep in mind, this will occur under ideal conditions only. A muscular body is built through consistent dedication to strength training and proper nutrition. It won’t happen overnight or accidentally. This brings us to another myth… WO M E N SH O U L D TR A I N DI F F E R E N T L Y TH A N ME N A common misperception is that women will get bulky from strength training. They won’t. Not unless they start popping pills and sticking needles in their buttocks. There is no reason to train differently based purely on your sex. Both sexes gain and lose muscle and fat the same way. It’s true, men and women often have different goals. But surprisingly, these different goals can be achieved with the same programCommon Strength Training Myths 35
+Falso, el músculo tiene la forma que tiene, puede ser más grande o más pequeño, pero no
+cambiar de forma. Otra cosa es lo que tu cuerpo deja ver del músculo.
 
-the initial gains in muscularity that are common within the first couple of weeks of strength training are largely due to an increase in circulation within the muscles
+Mito: muchas repeticiones para definir, pocas para ganar masa
 
-WO M E N SH O U L D TR A I N DI F F E R E N T L Y TH A N ME
+Lo definido de un músculo viene dicho por su tamaño y la cantidad de grasa a su alrededor. Hacer
+muchas repeticiones para perder más calorías no sirve de mucho.
 
-Again, building and maintaining muscle, alone, is the most effective way to burn fat and calories
+Un entrenamiento variado de ejercicios de alta intensidad y una dieta adecuada es la forma
+de obtener músculos definidos. Si un gran tamaño es lo que te molesta, ingiere menos calorías,
+porque el factor que más afecta a la masa es la nutrición.
 
-MO R E I S BE T T
+Mito: el entrenamiento de fuerza te hace grande, el cardiovascular fibroso
 
-MO R E I S BE T T E
+La dieta es lo que regula la composición corporal. El ejercicio cardiovascular no ayuda a
+tener músculos. El entrenamiento de fuerza sí, y son los músculos quien más ayuda a consumir
+calorías.
 
-Remember, your muscles grow while you rest
+**Para ganar peso, aumenta tu ingesta de calorías y gana músculo con entrenamiento de fuerza.
+Para perder peso, disminuye tu ingesta de calorías e incrementa tu metabolismo basal ganando
+músculo**
 
-U CA N RE S H A P E A MU S C L E B Y DO I N G IS O L A T I O N EX E R C I
+Mito: dietas muy restrictivas
 
-I S E S Nope. Your muscles can only get bigger or smaller. The shape that your muscles take, as they change in size, is determined not by the specific exercises you do, but by genetics36 YOU ARE YOUR OWN GYM
+La gente se muere de hambre para perder peso. Pero no es el camino correcto. El cuerpo tiene
+muchos recursos, y comenzará a rebajar el metabolismo basal para compensar el déficit calórico.
+Cuando dejes de hacer dieta, el metabolismo estará bajo y recuperarás peso muy rápidamente.
 
-U CA N RE S H A P E A MU S C L E B Y DO I N G IS O L A T I O N EX E R C I
+En lugar de disminuir mucho las calorías, es mejor hacer varias comidas diarias (cada 2,5 o
+3,5 horas), pero más pequeñas claro.
 
-Your muscles can only get bigger or smaller. The shape that your muscles take, as they change in size, is determined not by the specific exercises you do, but by genetics
-
-YO U NE E D HI G H RE P S F O R DE F I N I T I O N A N D LO W RE P S F OR MA S S Neither your body nor a particular muscle will become more defined by doing a high amount of repetitions of any exercise as opposed to doing low repetitions. How defined a muscle is will be determined by its size and the amount of fat around it, period. For definition we need to do what most effectively builds muscle and burns fat. Doing high reps in order to burn extra calories is extremely ineffective, and the muscle built will be limited, and we should always remember our greatest calorie burning ally: You guessed it— muscle. A consistent variety of high-intensity interval training along with proper nutrition is the way to get defined muscles. If too much size is truly an issue, simply cut back on the calories, because the major factor affecting mass is nutrition. Most adult males could do workouts in the low 2-5 rep range on a 1500 calorie diet for the rest of their days without ever gaining any size. It’s true that low rep workouts, consisting of powerful and explosive movements, will build more size (but not less definition) than high rep workouts, because the “fast twitch” muscle fibers required in explosive movements are much larger than “slow twitch” fibers required for more enduring tasks. But really, for mass, wouldn’t you want to recruit all possible muscle fibers and not just the fast twitch? Likewise, for “definition”—that is, losing body fat so the striations in your muscles show more—wouldn’t you want to recruit all possible muscle fibers, especially since the number one factor affecting our resting metabolic rate, and thus fat loss, is muscle mass? The only thing you should alter depending on your goal—whether it’s to tone or bulk up—is nutritionCommon Strength Training Myths 37
-
-YO U NE E D HI G H RE P S F O R DE F I N I T I O N A N D LO W RE P S F OR MA S
-
-E N G T H TR A I N I N G MA K E S YO U BI G A N D CA R D I O V A S C U L A R TR A I N I N G MA K E S YO U LE A N Again, dietary intake is the major factor that regulates body composition. While prolonged moderate pace exercise such as aerobics will help slightly increase your caloric expenditure, it will do little to build muscle. Without strength training, you are neglecting the best fat burning tool in your arsenal: More muscle! I’m sure you’re getting the idea by now… Nothing raises the body’s resting metabolic rate more effectively than muscle. A few extra pounds of lean muscle will burn approximately the same amount of calories throughout the day that the average aerobics class will. Added muscle makes you burn more calories even while you sleep. To gain weight, increase your calorie intake and build muscle through strength training. To get lean, decrease your calorie intake and increase your resting metabolic rate by building muscle. YO U CA N’T BU I L D MU S C L E A N D LO S E FA T A T T H E SA M E TI M E If you’re just beginning this program after a long period without much exercise, with proper nutrition, you’ll experience gains in strength while losing fat at the same time. For those more advanced athletes, it’s tough, but not impossible. With a perfect balance of complex carbs, good fats, and enough protein, your body can achieve these seemingly separate goals. RE S T R I C T I V E DI E T S People often starve themselves in order to loose weight. That’s a no-go! The body is very resourceful, and it will slow down its metabolic rate in order to compensate for the lack of calories. It tries to hold onto every calorie you consume, since it is unsure when it will be fed again.Then, once you resume your normal caloric intake, your metabolic rate remains slowed down. This is why people who try restrictive diets usually gain their original weight back and often some more too. The good news is that if you want to lose weight, you should never be hungry. A well balanced diet consisting of small frequent meals (every 2.5 - 3.5 hours) is the key to long term success38 YOU ARE YOUR OWN GYM
-
-E N G T H TR A I N I N G MA K E S YO U BI G A N D CA R D I O V A S C U L A R TR A I N I N G MA K E S YO U LE A N Again, dietary intake is the major factor that regulates body composition. While prolonged moderate pace exercise such as aerobics will help slightly increase your caloric expenditure, it will do little to build muscle. Without strength training, you are neglecting the best fat burning tool in your arsenal: More muscle! I’m sure you’re getting the idea by now… Nothing raises the body’s resting metabolic rate more effectively than muscle. A few extra pounds of lean muscle will burn approximately the same amount of calories throughout the day that the average aerobics class will. Added muscle makes you burn more calories even while you sleep. To gain weight, increase your calorie intake and build muscle through strength training. To get lean, decrease your calorie intake and increase your resting metabolic rate by building muscle. YO U CA N’T BU I L D MU S C L E A N D LO S E FA T A T T H E SA M E TI M E If you’re just beginning this program after a long period without much exercise, with proper nutrition, you’ll experience gains in strength while losing fat at the same time. For those more advanced athletes, it’s tough, but not impossible. With a perfect balance of complex carbs, good fats, and enough protein, your body can achieve these seemingly separate goals. RE S T R I C T I V E DI E T S People often starve themselves in order to loose weight. That’s a no-go! The body is very resourceful, and it will slow down its metabolic rate in order to compensate for the lack of calories. It tries to hold onto every calorie you consume, since it is unsure when it will be fed again.Then, once you resume your normal caloric intake, your metabolic rate remains slowed down. This is why people who try restrictive diets usually gain their original weight back and often some more too. The good news is that if you want to lose weight, you should never be hungry. A well balanced diet consisting of small frequent meals (every 2.5 - 3.5 hours) is the key to long term success38 YOU ARE YOUR OWN GYM
-
-E N G T H TR A I N I N G MA K E S YO U BI G A N D CA R D I O V A S C U L A R TR A I N I N G MA K E S YO U LE
-
-STR E N G T H TR A I N I N G MA K E S YO U BI G A N D CA R D I O V A S C U L A R TR A I N I N G MA K E S YO U LE
-
-STR E N G T H TR A I N I N G MA K E S YO U BI G A N D CA R D I O V A S C U L A R TR A I N I N G MA K E S YO U LE A N
-
-To gain weight, increase your calorie intake and build muscle through strength training. To get lean, decrease your calorie intake and increase your resting metabolic rate by building muscle
-
-YO U CA N’T BU I L D MU S C L E A N D LO S E FA T A T T H E SA M E TI
-
-If you’re just beginning this program after a long period without much exercise, with proper nutrition, you’ll experience gains in strength while losing fat at the same time
-
-S T R I C T I V E DI E T S People often starve themselves in order to loose weight. That’s a no-go! The body is very resourceful, and it will slow down its metabolic rate in order to compensate for the lack of calories. It tries to hold onto every calorie you consume, since it is unsure when it will be fed again.Then, once you resume your normal caloric intake, your metabolic rate remains slowed down. This is why people who try restrictive diets usually gain their original weight back and often some more too. The good news is that if you want to lose weight, you should never be hungry. A well balanced diet consisting of small frequent meals (every 2.5 - 3.5 hours) is the key to long term success38 YOU ARE YOUR OWN GYM
-
-R I C T I V E DI
-
-goals. RE S T R I C T I V E DI
-
-goals. RE S T R I C T I V E DI
-
-goals. RE S T R I C T I V E DI E T S
-
-The body is very resourceful, and it will slow down its metabolic rate in order to compensate for the lack of calories.
-
-#### 8 Motivation
+#### 8 Motivación
 
 MOTIVATION
 
