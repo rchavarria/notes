@@ -302,65 +302,45 @@ En lugar de disminuir mucho las calorías, es mejor hacer varias comidas diarias
 
 #### 8 Motivación
 
-MOTIVATION
+**La gente que no está en forma no lo pilla. Tu hogar de verdad no es tu apartamento, o tu casa,
+o tu ciudad, ni siquiera tu país, es tu cuerpo**
 
+Es la cosa física más importante que tienes que cuidar de este mundo.
 
+Tienes una elección: cuidas de tí mismo o simplemente dejas que el tiempo te vaya haciendo
+peor
 
-out-of-shape owner. They just don’t get it. Your real home is not your apartment or your house or your city or even your country, but your body
+¿Quién no puede encontrar el tiempo o la fuerza de voluntad para hacer ejercicio durante 20 o
+30 minutos, 4 o 5 veces a la semana, y así cambiar radicalmente su vida?
 
-Your real home is not your apartment or your house or your city or even your country, but your body
+Dejarlo y abandonar se convierte pronto en un hábito. Es más fácil cada vez que cedemos,
+mientras que nuestro compromiso y resolución son más fuertes cada vez que no cedemos
+a esa debilidad. Si abandonas te debilitas, si resistes te haces cada vez más fuerte.
 
-It is the single most important physical thing in this world you can take care of
+El entrenamiento consistente y una buena alimentación te llevará a estar en la mejor
+forma de toda tu vida
 
-We have a choice: To take care of ourselves, or to simply let time make us worse
+Te darás cuenta de que ceder a tus excusas es cada vez más fácil cada vez que lo haces, y
+que tu resolución se fortalece cada vez que no cedes.
 
-casi merece la pena imprimir este cApitulo
+Has tomado la decisión de ser una mejor persona, de entrenamiento en entrenamiento, y eso
+ya es más importante que cualquier fatiga o estrés con el que estés lidiando. Es un
+pequeño e inmediato sacrificio para una larga y saludable vida.
 
-mean, who cannot really find the time or willpower to workout for 20 – 30 minutes, four or five times a week, and completely change their life?
+¿Cuáles son tus objetivos y cuáles son las excusas que te impiden alcanzarlos? Escribe las
+excusas. Cuando lo hayas hecho, léelas. Recuérdalas y decide ahora que cuando oigas esos
+pensamientos otra vez harás el ejercicio a pesar de ellas.
 
-vendiendo la moto
+#### 9 Intensidad
 
-Quitting and failing quickly become a habit. It gets easier as we give in to it, while our commitment and resolve are strengthened every time we don’t give in to weak-mindedness
+Llegar a estar en una gran forma física requiere algunos sacrificios, pero no sacrificios de
+tiempo, si no de poner tus objectivos por delante de tu comodidad.
 
-si abandonas. te debikitas. si resistes. xada vez eres mas fuerte
+Cuanto más avanzado estés, habrá ocasiones en que haya que llegar hasta el límite físico de
+tu cuerpo. Ten en cuenta que esto hay que practicarlo muy de vez en cuando, y que su uso
+continuado suele llevar rápidamente a sobreentrenamiento y lesiones.
 
-one of my short workouts pays enormous dividends once it’s over
-
-get you into the best shape of your life
-
-Consistently training and eating properly will get you there
-
-Look in the mirror and use that dissatisfaction or pride that you feel to motivate you
-
-You realize that giving in to your excuses becomes easier the more you allow it, and that your resolve strengthens each time you don’t
-
-you have made a decision to become a better person, one short workout at a time, and that is simply more important than any fatigue or stress that you might be dealing with. It’s a small, immediate sacrifice for a long and healthy life
-
-SETTING BULL’S-EYES… AND HITTING THEM!
-
-So what exactly are your goals? And what are the excuses that get in your way
-
-Your goals should answer at least these two questions: How much of something do you want to gain, loose, or do? What is your timeline
-
-Goals: Loose . 5 lbs of body fat per week. Be able to do all the exercises in the Basic program by my birthday. Go one week without chugging pancake syrup. Go one whole 10-week program without missing a workout.Excuses: I don’t have time. I’m too tired. I’m in a bad mood. I don’t feel like it. I need to relax. I’ll start over next week. I’ll make up for it.Bullshit
-
-Better Goals: Loose . 5 lbs of body fat per week. Be able to do all the exercises in the Basic program by my birthday. Go one week without chugging pancake syrup. Go one whole 10-week program without missing a workout.Excuses: I don’t have time. I’m too tired. I’m in a bad mood. I don’t feel like it. I need to relax. I’ll start over next week. I’ll make up for it.Bullshit
-
-Better Goals: Loose . 5 lbs of body fat per week. Be able to do all the exercises in the Basic program by my birthday. Go one week without chugging pancake syrup. Go one whole 10-week program without missing a workout.Excuses: I don’t have time. I’m too tired. I’m in a bad mood. I don’t feel like it. I need to relax. I’ll start over next week. I’ll make up for it.Bullshit
-
-After you’ve written your excuses out, just take a look at them. Remember them and decide now that when you hear these thoughts again, you’re going to workout despite them
-
-#### 9 Intensity
-
-INTENSITY
-
-Getting in great shape requires some sacrifices. Not sacrifices of time, but instead putting your goals before your comfort
-
-TAKING IT TO THE LIMIT In order to build muscle we need to apply the right stimulus, and occasionally it’s necessary to take yourself to muscular failure and even beyond, especially the more advanced we become. We just need to be sure to use these techniques very sparingly, since their overuse will quickly lead to overtraining. After taking a set to complete or near failure you can try the following:46 YOU ARE YOUR OWN GYM
-
-TAKING IT TO THE LIMIT
-
-#### 10 Training Tools
+#### 10 Herramientas de entrenamiento
 
 TRAINING TOOLS
 
