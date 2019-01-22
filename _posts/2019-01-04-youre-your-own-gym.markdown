@@ -342,85 +342,64 @@ continuado suele llevar rápidamente a sobreentrenamiento y lesiones.
 
 #### 10 Herramientas de entrenamiento
 
-TRAINING TOOLS
+Consultar este capítulo si quiero crear mi propio programa de entrenamiento
 
-consultar capiulo si quiero crear mi propio programa de entrenamiento
+- Ladders (escaleras): haz una repetición de cualquier ejercicio, descansa, luego dos
+repeticiones, descanso un poco más largo,... hasta que no puedas hacer más repeticiones.
+Después, uno a uno baja hasta que se haga una sola repetición
+- Stappers: elige un número de ejercicios y repeticiones, y repite cuantos ciclos puedas
+en 20 minutos. Normalmente, 3 o 4 ejercicios. Asegúrate de mantener las repeticiones lo
+suficientemente bajas como para no llegar a *fallo*. Intenta mantener los descansos
+bajo mínimos
+- Supersets: realiza un ejercicio inmediatamente después del otro. Se suele hacer con
+ejercicios para el mismo grupo muscular
+- Tabatas: 20 seg de ejercicio, 10 seg de descanso, 8 rondas
 
-e r s: Perform one rep of any exercise, rest, perform two reps, rest, perform three reps…
+#### 11 Los ejercicios
 
-e r s: Perform one rep of any exercise, rest, perform two reps, rest, perform three reps…
+Recuerda que cada ejericicio no es simplemente tirar o empujar tu cuerpo lo más fuerte y
+rápido posible. Los movimientos *negativos*, controlados y lentos son tan igualmente
+importantes para desarrollar el músculo
 
-… Keep increasing your reps until going any higher would cause you to hit muscle failure on subsequent sets. Once you’ve reached that point, come back down without repeating the highest number. The rest intervals are the time it just took you to perform your reps. So you’ll have more rest as the numbers get higher, and less rest as the numbers get lower on the way back down to one. Try doing them for ten minutes with a single exercise. If you’ve reached the bottom of your Ladder (1 rep) and the set time hasn’t expired, simply start another ladder. It’s a great, high-volume, low-intensity method to build movement proficiency of any exercise. Train yourself to perform the exercises correctly. If you reach muscle failure at any point during your ladder workout, you went too high before coming back down. It’s okay to perform a ladder workout in the low rep range—possibly even using repeated single reps towards the end of the workout, in order to avoid hitting failure. Exercises where you alternate sides are done by performing the designated number of reps on both sides before resting. P u s h-P u l l L a d d e r: Perform a pushing movement immediately following a pulling movement using the Ladder format, without rest between sets. Using Pull Ups and Push Ups is a favorite in the Combat Control community. S t a p p e r s: Choose any number of exercises and repetitions, and repeat as many cycles as possible in 20 minutes. Usually three or four different exercises is best. Be sure to keep your reps low enough not to hit failure during the first couple of rounds of sets. It’s okay to take short breaks because of muscle failure, but try to keep rest to a minimum. This one can be a real butt kicker. S u p e r s e t s: Perform one exercise immediately after another. This is best done with different exercises that emphasize the same muscle group. For example, doing a set of Let Me 50 YOU ARE YOUR OWN GYM
+Exhala cuando tus músculos se contraen, inhala cuando tus músculos se estiran
 
-L a d d e r s: Perform one rep of any exercise, rest, perform two reps, rest, perform three reps… Keep
+#### 12 El programa
 
-come back down without repeating the highest number
+Durante el progreso, es normal tener valles y bajadas ocasionales por distintas razones,
+así que no dejes que esto te desanime
 
-u s h-P u l l L a d
+6 principios para cualquier programa de entrenamiento exitoso:
 
-P u s h-P u l l L a d d e r
+1. Consistencia
+2. Recuperación
+3. Regularidad
+4. Variedad: se debe variar la intensidad, el volumen y el descanso entre sets
+5. Progresión
+6. Sobrecarga
 
-t a p p e r s
+**La ciencia detrás del programa**
 
-S t a p p e r
+Personaliza el programa según tu cuerpo vaya cambiando y adaptándose. El ingrediente clave
+del programa es la **periodización**.
 
-S t a p p e r
+**Periodización**: fluctuación estructurada de la intensidad y el volumen del entrenamiento.
 
-p e r s e t s: Perform one exercise immediately after another. This is best done with different exercises that emphasize the same muscle group. For example, doing a set of Let Me 50 YOU ARE YOUR OWN GYM
+**Volumen de entrenamiento**: número de sets multiplicado por el número de repeticiones
 
-S u p e r s e t s
+Es bueno ir cambiando de entrenamientos de alto volumen, baja intensidad a entrenamientos
+de bajo volumen, alta intensidad. Es decir, un programa debería ir de un montón de
+ejercicios fáciles a unos poquitos ejercicios difíciles.
 
-b a t a s: 20 seconds of exercise followed by 10 seconds of rest, for 8 rounds
+La resistencia muscular se entrena durante los bloques (semanas) de alto volumen y baja 
+intensidad (HVLI, high-volume/low-intensity). Aquí es donde el programa utiliza *ladders*
+en lugar de un número rígido de sets y repeticiones.
 
-a b a t a s: 20 seconds of exercise followed by 10 seconds of rest, for 8 rounds
+La fuerza se entrena durante los bloques de volumen e intensidad medios, con bloques
+con sets de 6 a 12 repeticiones.
 
-T a b a t a s: 20 seconds of exercise followed by 10 seconds of rest, for 8 rounds
+La potencia se entrena con bloques de bajo volumen y alta intensidad 
+(LVHI, low-volume/high-intensity), con sets de 1 a 5 repeticiones.
 
-#### 11 The Exercises
-THE EXERCISES
-
-
-
-Please remember that each exercise is not simply about pushing or pulling yourself up as hard and fast as possible. Slow, controlled, negative movements are just as important in developing muscle.
-
-exhale as your muscles contract, and inhale as your muscles stretch
-
-#### 12 The Program
-
-THE PROGRAM
-
-It’s normal for our progress to have occasional dips and valleys for various reasons, so don’t let it discourage you. Three steps forward, one step back; four steps forward, two steps back
-
-download log sheets at MarkLauren.com
-
-Household Equipment
-
-The 6 Necessary Training Principles behind Any Successful Program
-
-CONSISTENCY
-
-RECOVERY
-
-REGULARITY
-
-VARIETY
-
-What needs to vary is the intensity, volume, and rest between sets
-
-PROGRESSION
-
-OVERLOAD
-
-The Science behind the Program
-
-customize the program as your body changes and adapts. The key ingredient to my program is periodization
-
-periodization: Structured fluctuation of training volume and intensity. Training Volume: Number of sets multiplied by number of reps. Training Intensity
-
-switching from high-volume, low-intensity training to low-volume, high-intensity training. Simply put, a program should transition from a lot of relatively easy work to a smaller amount of more difficult work
-
-program should transition from a lot of relatively easy work to a smaller amount of more difficult work
-
-endurance, strength, and power—are emphasized for set periods of time called “blocks. ” Typically, muscular endurance is trained during the high-volume/low-intensity (HVLI) block, which is where my program uses “ladders” instead of rigid numbers of sets and reps. Strength is trained during a medium-volume/mediumintensity block with sets in the 6 - 12 rep range.Finally, power is trained during the lowvolume/high-intensity (LVHI) block with sets in the 1 - 5 rep range. The blocks progress from HVLI to LVHI by decreasing the number of reps and/or sets (volume) while increasing the amount of resistance or the difficulty of movements (intensity)
-
-muscular endurance is trained during the high-volume/low-intensity (HVLI) block, which is where my program uses “ladders” instead of rigid numbers of sets and reps. Strength is trained during a medium-volume/mediumintensity block with sets in the 6 - 12 rep range.Finally, power is trained during the lowvolume/high-intensity (LVHI) block with sets in the 1 - 5 rep range. The blocks progress from HVLI to LVHI by decreasing the number of reps and/or sets (volume) while increasing the amount of resistance or the difficulty of movements (intensity)
+Los bloques progresan de HVLI a LVHI reduciendo el número de repeticioes y/o sets
+a la vez que incrementa la cantidad de resistencia o la dificultad de los movimientos
+(intensidad).
