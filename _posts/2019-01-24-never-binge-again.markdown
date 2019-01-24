@@ -9,27 +9,28 @@ categories:
 
 ## Notas tomadas
 
-Chapter 1: The Outrageous Promise
+### Capítulo 1: la indignante promesa
 
-lifelong control which represents true peace with food.
+Un control que te ponga en paz con la comida para el resto de tu vida.
 
-esta es la pro.esa
+Lo que tú has estado llamando un problema de peso (o dificultad para
+mantener tus mejores hábitos de comidas) en realidad es un instinto
+de supervivencia que no funciona del todo bien.
 
+Este libro va de afianzar tu habilidad para adherirte al Plan de Comida
+que tú elijas.
 
+¿Cómo manejamos los errores al seguir nuestro plan? Nos tratamos a
+nosotros mismos como trataríamos a un niño que trata de verdad de
+alcanzar un objetivo muy importante. Es la mentalidad de la gente que
+consigue dejar de atracarse. La mentalidad de un niño al que le
+ocultamos la dficultad para que no sea un obstáculo y sea capaz de
+intentarlo con todas sus fuerzas.
 
-what you’ve been calling a weight problem — or difficulty sticking with your best thinking about what to eat — is in reality a survival drive gone wrong.
+Es casi imposible pegarse un atracón si nos negamos a gritarnos a
+nosotros mismos.
 
-This book is about cementing your ability to stick with the Food Plan of your choice.
-
-
-
-how we’ll handle mistakes in the Never Binge Again way of thinking. In short, we just treat ourselves the same way we’d treat a child who’s genuinely trying to accomplish something important.
-
-In my experience this is the mindset of people who stop bingeing.
-
-el mindset del niño al que le ocultamos la dificultad psra que no sea un obdstaculo y bsea cspaz de intebtarlo con todas sus fuerzas
-
-It’s almost impossible to Binge if you refuse to yell at yourself.
+<!-- you left translation here -->
 
 the act of recovering from Bingeing, serious overeating, and/or simply learning to stick to a diet is NOT like nurturing a wounded animal back to health. It’s more like capturing and caging an aggressive Doberman Pincher. This dog must respect and obey you—or it will have its way every time!
 
