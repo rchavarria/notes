@@ -30,25 +30,25 @@ intentarlo con todas sus fuerzas.
 Es casi imposible pegarse un atracón si nos negamos a gritarnos a
 nosotros mismos.
 
+El acto de recuperarse de un atracón, de una gran comilona, o simplemente
+de aprender a seguir una dieta **NO** es como cuidar y alimentar un
+animal herido hasta que se cura. Es más como capturar y encarcelar a
+un mega perro agresivo. El perro debe respetarte y obedecerte. O encontrará
+la forma de escapar cada vez que lo atrapes.
+
+Interrumpir y adueñarte de los pensamientos que sustentan las ganas de
+pegarte un atracón no son un juego de broma, es un juego de control y
+dominación inquebrantable.
+
+**¿Qué es el Cerdo?** Es lo que el autor llama, su *yo, gordo*. Es la
+parte del cerebro que desea que comas con ansia. El Cerdo vive solamente
+para atracarse. No se preocupa de las consecuencias para tu salud,
+cuerpo, bienestar o felicidad.
+
+Tú eres el único que puede alimentarle. Si entiendes esto ya has recorrido
+medio camino para controlar tu peso para siempre.
+
 <!-- you left translation here -->
-
-the act of recovering from Bingeing, serious overeating, and/or simply learning to stick to a diet is NOT like nurturing a wounded animal back to health. It’s more like capturing and caging an aggressive Doberman Pincher. This dog must respect and obey you—or it will have its way every time!
-
-Interrupting and disempowering the thoughts which sustain your bingeing and overeating is not a game of mercy, it’s a game of unbreakable control and domination.
-
-WHAT IS ’THE PIG’?
-
-
-
-call my fat thinking self ‘The Pig’,
-
-es la parte del cerebro que desea que comas con ansia
-
-You have dreams and aspirations, but the Pig lives only to Binge.
-
-The Pig doesn’t care about the consequences to your health, body, well-being, or happiness
-
-YOU are the only one who can feed it. Understand this and you’re half way to controlling your weight forever.
 
 The other half is learning to cold-heartedly ignore its Squeals. When it comes down to it, either you or the Pig is going to suffer, and it’s NOT going to be you!
 
