@@ -48,95 +48,58 @@ cuerpo, bienestar o felicidad.
 Tú eres el único que puede alimentarle. Si entiendes esto ya has recorrido
 medio camino para controlar tu peso para siempre.
 
+El otro medio es aprender a ignorar de verdad los Gritos del Cerdo. Cuando
+eso pasa, el Cerdo o tú va a sufrir, y NO vas a ser tú.
+
+Nos vamos a separar del Cerdo voluntaria y agresivamente en nuestro espacio
+mental. El Cerdo NO eres tú, y NO merece ningún tipo de respeto.
+
+¿Por qué tenemos que ser disciplinados en lugar de amar a nuestro
+demonio interior sobre la comida? Nuestros cerebros han evolucionado
+en tres partes: 
+
+1. Cerebro de lagarto: los instintos
+2. Cerebro de mamífero: las emociones, lo social, lo que nos ata
+a los demás
+3. Cerebro lógico: amor, identidad personal, espiritualismo, música,
+arte,... 
+
+El #2 puede anular el #1, y el #3 puede anular el #2 y el #1
+
+¿Cómo escuchar los Gritos del Cerdo? Para dominar de verdad al
+Cerdo debemos distinguir sus Gritos de nuestra sensación de
+hambre racional: simplemente... debes crear tu Plan de Comida
+
+Para ello, crea 4 listas:
+
+1. Nunca
+2. Siempre
+3. Sin restricciones
+4. Condicionales
+
+**Cómo no volver a hacer algo nunca más**
+
+El *Siempre* y el *Nunca* son votos sagrados. Deben ser algo
+que el Cerdo no pueda asaltar. Los motivos detrás de un Grito
+del Cerdo sugiriendo una excepción con ellos deben ser
+reconocidos inmediatemente.
+
+Un ejemplo:
+
+> Siempre beber 2 litros de agua
+
+No discutas con el Cerdo. No trates de ganar de forma racional.
+Para prevalecer, solamente debes tomarte esas excepciones como
+Gritos del Cerdo. Solamente debes ignorarlas, porque para cada
+regla que te pongas, el Cerdo tendrá una queja.
+
+Para las reglas *Condicionales*, deben de ser simples. Es
+difícil recordar reglas complejas cuando uno está hambriento. Mejor
+cuanto más simples.
+
+### Capítulo 2: cómo gestionar el ansia
+
 <!-- you left translation here -->
-
-The other half is learning to cold-heartedly ignore its Squeals. When it comes down to it, either you or the Pig is going to suffer, and it’s NOT going to be you!
-
-we’re going to voluntarily and aggressively separate ourselves from the Pig in our own mental space, and
-
-The Pig is NOT you, and deserves NO respect.
-
-AM I A RAVING LUNATIC?
-
-ALTERNATIVE NAMES FOR YOUR PIG
-
-
-
-WHY WE MUST DISCIPLINE AND CONTROL VS. LOVE OUR INNER FOOD DEMON
-
-our brains evolved in three distinct parts
-
-The Lizard Brain (Brain Stem) is the oldest part. When it sees something in the environment it says to itself “Do I eat it, do I mate with it, or do I kill it!?”
-
-The Mammalian Brain
-
-This is the seat of emotion which bonds and binds you to others in the world.
-
-por el bien de la familia
-
-And the Neocortex or “Logical Brain”
-
-love, self-identify, spirituality, music, art,
-
-The Mammalian brain can inhibit the Lizard Brain… And the Logical Brain (Neocortex) can inhibit both the Lizard and the Mammalian Brain…
-
-HOW TO HEAR THE PIG’S SQUEALS
-
-To truly dominate the Pig we need to distinguish its Squeals from our own rational hunger.
-
-You simply must… Create your own Food Plan
-
-
-
-A Simple Set of Guidelines for Constructing a Food Plan
-
-NEVERS:
-
-ALWAYS:
-
-UNRESTRICTED:
-
-CONDITIONALS:
-
-HOW TO NEVER DO SOMETHING (ANYTHING) AGAIN
-
-ALWAYS
-
-
-
-just remember “always” and “never” are sacred vows. They become something the Pig can’t assail,
-
-because the motives behind any Squeal suggesting an exception will be recognized immediately.
-
-always drink 16 ounces of purified water
-
-este podria ser un always para mi o parecido
-
-Don’t argue with the Pig.
-
-Don’t try to win a rational debate.
-
-To prevail, you need only dismiss this as Pig Squeal.
-
-All that’s necessary is to ignore it.
-
-porque a cada regla. the pig tendra una queja 
-
-Pig Squeal may seem rational on its surface, but it never
-
-Pig Squeal may seem rational on its surface, but it never is. (Never —as
-
-UNRESTRICTED
-
-CONDITIONAL
-
-It’s very difficult to remember complex rules when you’re hungry, so the simpler the better.
-
-Fewer, clearer rules tend to work best.
-
-Chapter 2: How to ‘Deal’ with Cravings
-
-
 
 You do not have cravings – your pig does! So when you feel one coming on, just say: “I WILL NEVER EAT PIG SLOP AGAIN!”
 
