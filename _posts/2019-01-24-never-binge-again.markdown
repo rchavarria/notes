@@ -99,27 +99,27 @@ cuanto más simples.
 
 ### Capítulo 2: cómo gestionar el ansia
 
+Tú no tienes ansia, es el Cerdo quien la tiene. Así que, cuando la
+sientas venir, dite a ti mismo: 
+
+> No voy a comer esa basura de Cerdo nunca más
+
+Toda ansia no es más que un deseo del Cerdo de comer su Basura
+
+Puedes mantener a raya las ansias manteniéndote calentito, hidratado
+y consumiendo comidas sanas de forma consistente y regular
+
+Cuando un drogadicto recae, está haciendo una elección de actuar en
+contra de las normas y la presión social. Por contra, la sociedad de
+hoy en día incentiva a comer mal. El que come mal se siente respaldado
+por la sociedad consumista.
+
+Tu Cerdo tiene ansia, tú no. Mata el ansia, no te *pongas* con la comida
+(como si fuera una droga).
+
+### Capítulo 3: qué pasa si te metes un atracón?
+
 <!-- you left translation here -->
-
-You do not have cravings – your pig does! So when you feel one coming on, just say: “I WILL NEVER EAT PIG SLOP AGAIN!”
-
-every craving is nothing more than a desire for Pig Slop
-
-
-
-You can keep the discomfort associated with cravings to a minimum by staying relatively warm and hydrated, and consuming regular, consistent, healthy meals.
-
-When a substance abuser indulges, they’re making a choice to act against societal pressures and norms.
-
-Food abusers are actually supported by our culture to continue eating poorly.
-
-Your Pig has Cravings… you don’t. And you will NEVER eat Pig Slop again.
-
-Kill Cravings, don’t get high with food. End of story.
-
-
-
-Chapter 3: What if You DO Binge?
 
 Bingeing is ALL the Pig ever wants, and there’s NEVER a reason to listen to it before, during, or after a mistake.
 
