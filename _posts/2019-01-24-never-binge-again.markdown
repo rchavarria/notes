@@ -119,27 +119,33 @@ Tu Cerdo tiene ansia, tú no. Mata el ansia, no te *pongas* con la comida
 
 ### Capítulo 3: qué pasa si te metes un atracón?
 
+Atracarse es lo único que el Cerdo quiere, y nunca hay una razón para
+escucharle antes, durante o después de un error por tu parte.
+
+¿Qué pasa si te metes un atracón? Analiza lo que pasó, ajusta tu Plan
+de Comida (si es necesario) y nunca vuelvas a meterte un atracón otra vez.
+
+Lo primero que haces después de un atracón es examinar qué pasó. Revisa
+tu Plan de Comida mirando si cada regla de comida del plan es realmente
+lo que quieres en ese momento.
+
+Normalmente, los atracones ocurren porque no has detectado un Grito del
+Cerdo, no porque haya algún problema con el Plan de Comida en sí mismo.
+Esto se llama *Ataque Sencillo del Cerdo* (Simple Pig Attack), y no
+requiere cambios en tu Plan.
+
+### Capítulo 4: ¿Se considera Atracón saltarse el plan por un bocado?
+
+Un simple bocadito fuera de un Plan de Comida definido cuidadosamente
+**sí** es un Atracón. Pero en el momento en que te das cuenta de ello,
+simplemente paras y vuelves a ceñirte al Plan. *Me he saltado el plan,
+voy a meterme un atracón de verdad para saltármelo de verdad* es justo
+lo que el Cerdo quiere para sobrevivir, y lo mejor que hay que hacer
+es ignorarlo
+
+### Capítulo 5: Cambiar tu Plan de Comida
+
 <!-- you left translation here -->
-
-Bingeing is ALL the Pig ever wants, and there’s NEVER a reason to listen to it before, during, or after a mistake.
-
-What if you DO Binge? What then??? Simple: Analyze what happened, adjust your sails, and then NEVER Binge again.
-
-aajusta tu plan de comida
-
-the first thing to do after a Binge is to examine what happened. Review your Food Plan with an eye towards determining whether you believe each Food Rule within it is still in your best interest.
-
-More often than not, Binges occur simply because you failed to hear the Pig’s Squeal, NOT because of a problem with the Food Plan itself.
-
-This is called a “Simple Pig Attack” and requires NO changes to your Plan.
-
-Chapter 4: Is Just One Bite Off Your Food Plan REALLY a Binge?
-
-One bite off of your carefully defined Food Plan IS a Binge… But the moment you realize you’ve done it you just stop and get right back on track. “We’re off the Plan so let’s have a Binging Party” is pure Pig Squeal to be ignored…
-
-Chapter 5: Changing Your Food Plan
-
-
 
 But because the Pig will always do everything in its power to convince us Bingeing is perfectly rational, we must apply a simple procedure to ensure the changes are not Pig driven.
 
