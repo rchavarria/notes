@@ -143,33 +143,35 @@ voy a meterme un atracón de verdad para saltármelo de verdad* es justo
 lo que el Cerdo quiere para sobrevivir, y lo mejor que hay que hacer
 es ignorarlo
 
-### Capítulo 5: Cambiar tu Plan de Comida
+### Capítulo 5: cambiar tu Plan de Comida
 
-<!-- you left translation here -->
+El Cerdo va a hacer siempre cualquier cosa que esté en su poder para
+convencernos de que Atracarse es perfectamente racional. Para protegernos
+de ello tenemos que aplicar algún procedimiento para asegurarnos de que
+los cambios al Plan de Comida no han sido influenciados por el Cerdo.
 
-But because the Pig will always do everything in its power to convince us Bingeing is perfectly rational, we must apply a simple procedure to ensure the changes are not Pig driven.
+Debes tomar especial cuidado y tomar decisiones de forma segura e
+intelectual después de un Atracón.
 
-You must take particular care to make intellectually sound food choices after a Binge.
+### Capítulo 6: la trampa de la cuenta atrás
 
-Chapter 6: The Time Counting Trap
+Así como no hay ninguna razón para hacer pública la última vez que te
+saltaste un semáforo en rojo, tampoco hay ninguna razón para hacer público
+el número de días desde el último Atracón.
 
-Just like there’s no reason to publicly declare how long it’s been since you last ran a red light, there’s NO reason to publicly declare the number of days since you last Binged.
+Cometer un fallo no invalida la ley. Tu Plan de Comida es la ley 
+(y continúa siéndolo) en cualquier momento, da absolutamente igual el 
+cuando o el qué haya pasado.
 
-Making a mistake doesn’t invalidate the law. Your Food Plan remains law at every possible moment in
+Las únicas causas de ansiedad ante un Atracón:
 
-Making a mistake doesn’t invalidate the law. Your Food Plan remains law at every possible moment in time, no matter what no matter what no matter what.
-
-THE ONLY CAUSES OF BINGE ANXIETY
-
-
-
-
-
-Pig Squeal misidentified as your own thoughts.
-
-Grey areas your Pig has snuck into your Food Plan.
+1. Identificar erróneamente los Gritos del Cerdo como tus propios
+pensamientos
+2. Áreas grises que el Cerdo ha conseguido colar en tu Plan de Comida
 
 Chapter 7: Overcoming the Deprivation Trap
+
+<!-- you left translation here -->
 
 TWO types of deprivation: (1) What you deprive yourself of by NOT having something and; (2) what you deprive yourself of by having it.
 
