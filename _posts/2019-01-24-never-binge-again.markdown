@@ -169,23 +169,27 @@ Las únicas causas de ansiedad ante un Atracón:
 pensamientos
 2. Áreas grises que el Cerdo ha conseguido colar en tu Plan de Comida
 
-Chapter 7: Overcoming the Deprivation Trap
+### Capítulo 7: superando la trampa de la privación
 
-<!-- you left translation here -->
+Hay dos tipos de privaciones:
 
-TWO types of deprivation: (1) What you deprive yourself of by NOT having something and; (2) what you deprive yourself of by having it.
+1. Lo que te quitas a ti mismo por **no** hacer o tomar algo
+2. Lo que te quitas a ti mismo por **sí** hacer o tomar algo
 
-Chapter 8: Defeating the Food Industry
+### Capítulo 8: venciendo a la industria alimenticia
 
-THE SIMPLEST WAY TO THINK ABOUT HEALTHY FOOD
+La forma más sencilla de pensar en comida saludable: la comida orgánica,
+sin procesar, integral,.. son los únicos nutrientes para humanos genuinamente
+saludables. Todo lo demás es un refinamiento artifical hecho por
+el hombre para el sabor, la comodidad o el disfrute. Todo.
 
-Whole, unprocessed, organic foods are the only genuinely healthy nourishment for humans.
-
-Everything else is a man-made refinement for taste, convenience, or enjoyment. Everything.
-
-One last thing on this point which your Pig will hate: There’s overwhelming evidence which suggests raw, organic, leafy greens are to nutrition what oxygen is to your lungs.
+Un último punto que tu Cerdo va a odiar mucho: hay una evidencia
+abrumadora que sugiere que la comida verde de hoja, orgánica e integral
+es a la nutrición lo que el oxígeno es a tus pulmones.
 
 Chapter 9: “Hell is Other People5
+
+<!-- you left translation here -->
 
 If you’d really like to bolster your defense against the food industry’s Pig-feeding tricks, please download my free audio (and word for word transcript): “The Five Most Common Food Industry Lies and How to Defeat Them!” from www.NeverBingeAgain.com
 
