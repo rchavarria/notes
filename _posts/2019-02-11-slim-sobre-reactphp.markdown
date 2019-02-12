@@ -18,7 +18,7 @@ Necesito acceder al sistema a través de un API REST, para poder hacer
 peticiones al sistema y extraer así cierta información: monitorización,
 configuración,...
 
-**TBD**: gráfica con la arquitectura general del sistema
+![Sistema de Notificaciones](/notes/assets/images/2019/sistema-notificaciones.jpg)
 
 <!-- more -->
 
@@ -33,7 +33,7 @@ alguna forma con los subsistemas dentro de mi Sistema de Notificaciones,
 y sobretodo con el Servidor.
 
 Para comunicar estos subsistemas, utilizo mensajes distribuidos, ayudado
-de la librería [ZeroMQ]. Esta librería me permite implementar diversos
+de la librería [ZeroMQ][3]. Esta librería me permite implementar diversos
 patrones para comunicar aplicaciones y funciona realmente bien.
 
 Así que, mi API debería poder comunicarse con el resto de subsistemas,
@@ -76,23 +76,71 @@ funcionalidad. Bastante prometedora
 
 Al final, la integración ha resultado ser más sencilla de lo esperado.
 
-La aplicación crea un servidor HTTP implementado con ReactPHP (**enlace
-a algún ejemplo**). Convierte la petición ReactPHP en una petición
+La aplicación crea un servidor HTTP implementado con ReactPHP 
+([ejemplo en la documentación oficial][1]). 
+Convierte la petición ReactPHP en una petición
 Slim. Procesa la petición Slim, como cualquier otra API REST hecha
-con dicha librería (**enlace a algún ejemplo por ahí, de la docu
-oficial debería vales). La respuesta Slim, la traduce a una respuesta
+con dicha librería ([ejemplo en la documentación oficial][2]).
+La respuesta Slim, la traduce a una respuesta
 ReactPHP. Y es esa respuesta la que devuelve al cliente.
 
 El código final es tan sencillo como lo siguiente:
 
 ```
-// código final
+<?php
+require '../vendor/autoload.php';
 
-// copiar/pegar transformaciones de las request/responses
+use ...
+
+$slimApp = (new RestApiBuilder())->build();
+$middleware = new SlimBridgeMiddleware($slimApp);
+
+$loop = React\EventLoop\Factory::create();
+$socketServer = new React\Socket\Server(1337, $loop);
+$httpServer = new \React\Http\Server($middleware);
+$httpServer->listen($socketServer);
+
+$loop->run();
+
+// file: SlimBridgeMiddleware.php
+class SlimBridgeMiddleware {
+  //...
+
+public function __invoke(ServerRequestInterface $request) {
+    $slimRequest = $this->toSlimRequest($request);
+    $response = $this->slimApp->process($slimRequest, new \Slim\Http\Response());
+    return $this->toReactResponse($response);
+  }
+
+  protected function toSlimRequest(ServerRequestInterface $request) {
+    return new \Slim\Http\Request(
+      $request->getMethod(),
+      $request->getUri(),
+      new \Slim\Http\Headers($request->getHeaders()),
+      \Slim\Http\Cookies::parseHeader($request->getHeader('Cookie')),
+      [],
+      $request->getBody(),
+      []
+    );
+  }
+
+  protected function toReactResponse(\Slim\Http\Response $response) {
+    $statusCode = $response->getStatusCode();
+    $headers = $response->getHeaders();
+    $response->getBody()->rewind();
+
+    return new \React\Http\Response(
+      $statusCode,
+      $headers,
+      $response->getBody()->getContents()
+    );
+  }
+}
+
 ```
 
-`Blah Blah Slim` es una aplicación Slim cualquiera, como se puede ver
-en cualquier ejemplo de la documentación oficial
+`RestApiBuilder` construye una aplicación Slim cualquiera, como se puede ver
+en cualquier ejemplo de la documentación oficial.
 
 # Posibles puntos de mejora
 
@@ -105,8 +153,15 @@ algunas peticiones POST
 
 ## Referencias
 
-- [ZeroMQ], enlazar al mover el post de `notes` al `blog`
+- [Mis inicios con ZeroMQ][3]
+- [Ejemplo de servidor HTTP implementado con ReactPHP][1]
+- [Ejemplo de un API REST implementado con Slim][2]
 
-[ZeroMQ]: https://rchavarria.github.io/notes/proyectos/aprendizaje/2018/04/24/zeromq-101.html
+[WebSocket]: https://es.wikipedia.org/wiki/WebSocket
+[Slim]: http://www.slimframework.com
+[ReactPHP]: https://reactphp.org
 [reactphp-slim]: https://github.com/mbarquin/reactphp-slim
 [reactive-slim]: https://github.com/NigelGreenway/reactive-slim/issues
+[1]: https://reactphp.org/http/
+[2]: http://www.slimframework.com/docs/v3/tutorial/first-app.html
+[3]: https://rchavarria.github.io/notes/proyectos/aprendizaje/2018/04/24/zeromq-101.html
