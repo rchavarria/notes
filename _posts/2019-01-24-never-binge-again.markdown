@@ -187,29 +187,33 @@ Un último punto que tu Cerdo va a odiar mucho: hay una evidencia
 abrumadora que sugiere que la comida verde de hoja, orgánica e integral
 es a la nutrición lo que el oxígeno es a tus pulmones.
 
-Chapter 9: “Hell is Other People5
+### Capítulo 9: el infierno es el resto de la gente
 
-<!-- you left translation here -->
+Ninguno de nosotros sabemos quiénes somos hasta que no nos vemos reflejados
+en los ojos de los demás.
 
-If you’d really like to bolster your defense against the food industry’s Pig-feeding tricks, please download my free audio (and word for word transcript): “The Five Most Common Food Industry Lies and How to Defeat Them!” from www.NeverBingeAgain.com
+Tu Plan de Comida es un asunto privado y personal, no tienes que debatirlo,
+justificarlo o explicárselo a nadie. Por extensión, los Planes de otras
+personas no son asunto tuyo. Decirle a alguien que está comiendo Bazofia
+de Cerdo es una buena manera de romper una amistad.
 
-echa un vistazo
+La gente tiene problemas sobre la comida con la gente de su círculo social
+porque, inconscientemente, permiten a sus respectivos Cerdos que vayan por
+ahí buscando aprovación.
 
-
-
-None of us seem to know who we are until we see it reflected in someone else’s eyes.
-
-Your Food Plan is a very private and personal matter. You don’t need to debate, justify, and/or explain it to another soul in the universe.
-
-By extension, other people’s Food Plans are also none of your business. Telling someone else they’re eating Pig Slop is a great way to ruin a good relationship…
+Enseñar a los demás a reconocer sus propios Cerdos: antes de que uno
+descubra su Cerdo, uno se encuentra en un estado indeterminado. Eso es que
+no se han separado de sus propios pensamientos de gordo. Antes de comprender
+el concepto de *Never binge again*, esos pensamientos son todavía una parte
+integral de quienes son ellos mismos. Así pues, la idea de separarse de 
+esta molesta parte de ellos mismos es una vivido como una crítica dolorosa
+de su propia personalidad.
 
 People have food trouble with others in their social environment because they unknowingly allow their Pigs to go around seeking approval.
 
-teaching other people to see their own Pigs: Before deciding to call a Pig into existence, people are in an undifferentiated state. They haven’t yet separated from their own fat thinking thoughts. Before understanding the Never Binge Again concept, those thoughts are still an integral part of who they are and what they value as a human being. Therefore, the idea of separating from this bothersome part of themselves is at first experienced as a very harsh criticism of their own personhood
-
 Chapter 10: The Pig is Powerless, Not You
 
-
+<!-- you left translation here -->
 
 People say—and our culture willingly accepts—there are diseases which make some of us powerless over alcohol, drugs, gambling, infidelity, sexual perversions, and pretty much anything else that feels good8.
 
