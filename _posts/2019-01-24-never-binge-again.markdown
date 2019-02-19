@@ -209,27 +209,25 @@ integral de quienes son ellos mismos. Así pues, la idea de separarse de
 esta molesta parte de ellos mismos es una vivido como una crítica dolorosa
 de su propia personalidad.
 
-People have food trouble with others in their social environment because they unknowingly allow their Pigs to go around seeking approval.
+### Capítulo 10: el Cerdo está indefenso, tú no
 
-Chapter 10: The Pig is Powerless, Not You
+Hay gente que dice (y nuestra cultura lo acepta sin rechistar) que hay 
+enfermedades que nos dejan sin defensas contra el alcohol, drogas, apuestas,
+inifidelidades, perversiones sexuales, y casi cualquier otra cosa que nos da
+placer.
 
-<!-- you left translation here -->
+La recaída es una parte inseparable de la recuperación (Pero qué me estás
+contando).
 
-People say—and our culture willingly accepts—there are diseases which make some of us powerless over alcohol, drugs, gambling, infidelity, sexual perversions, and pretty much anything else that feels good8.
+Los seres humanos son perfectamente capaces de abstenerse de placeres tóxicos.
+Los Cerdos están indefensos frente a la gente, no a la inversa.
 
-relapse is an inevitable part of recovery” Poppycock.
-
-la recaida es inseparable de la recuperacion? ni de coña!
-
-Human beings are perfectly capable of abstaining from toxic pleasure. Pigs are powerless over people, NOT the other way around.
-
-the Pig CAN’T feed itself,
-
-porheso intenta comerte la cabeza
+El Cerdo no puede alimentarse a sí mismo. Por eso intenta comerte la cabeza,
+para que flojees.
 
 Chapter 11: Hard to Recognize Pig Squeals!
 
-
+<!-- you left translation here -->
 
 The Pig will always do its best to turn “just one bite” into a week-long Food Orgy.
 
