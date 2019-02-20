@@ -225,37 +225,43 @@ Los Cerdos están indefensos frente a la gente, no a la inversa.
 El Cerdo no puede alimentarse a sí mismo. Por eso intenta comerte la cabeza,
 para que flojees.
 
-Chapter 11: Hard to Recognize Pig Squeals!
+### Capítulo 11: Gritos del Cerdo difíciles de identificar
+
+El Cerdo siempre intentará por todos los medios que un *sólo un bocadito*
+se convierta en una orgía de comida de una semana.
+
+**Grito #2**: un seguimiento del 90% es suficiente
+
+Darle al Cerdo ese 10% es abrirle la puerta para que lo coja y luego pida un
+poquito más, y luego más, y luego más, y luego...
+
+**Grito #3**: el número de veces que te has saltado la dieta en ocasiones
+anteriores a pesar de tus promesas y compromisos
+
+Incluso si has recaído repetidamente durante años, la perseverancia de seguir
+adelante y de seguir intentándolo es una fortaleza, no una debilidad
+
+**Grito #4**: la estrategia de *Atracón Controlado*. El Cerdo te dice que un
+atracón planeado y controlado de vez en cuando no hace daño a nadie
+
+No hay ninguna necesidad de un día de descanso (cheat day) o de un atracón
+controlado. Tu Plan de Comida lo has pensado a conciencia y nadie te fuerza
+a seguirlo. Si no te gusta, da un paso para atrás y cámbialo de acuerdo a
+cómo hemos visto anteriormente.
+
+**Grito #5**: tú sabes que realmente no hay un Cerdo dentro de tí
+
+**Grito #6**: lo único que tenemos que hacer es estar agradecidos
+
+De lo único que está agradecido el Cerdo es de su Bazofia (la comida
+que él desea, no tú).
+
+Todo esto de la gratitud es muy bonito, pero el Cerdo quiere centrarte
+en esto nada más. Si lo consigue, te olvidarás de tu motivación para perseguir
+objetivos a largo plazo con la diligencia y disciplina que es necesaria para
+conseguirlos
 
 <!-- you left translation here -->
-
-The Pig will always do its best to turn “just one bite” into a week-long Food Orgy.
-
-HARD TO RECOGNIZE SQUEAL #2 “90% compliance is good enough.
-
-Giving the Pig 10% leeway only creates the opportunity for it to take more, and more, and more.
-
-HARD TO RECOGNIZE SQUEAL #3 “The sheer number of times you’ve previously Binged despite your most sacred promises and commitments—even
-
-Even if you’ve repeatedly fallen down for years, continuing to get up until you succeed is a mark of strength, not weakness!
-
-HARD TO RECOGNIZE SQUEAL #4 (The "Controlled Bingeing" Strategy) The Pig says: “A planned and controlled Binge once in a while isn't so bad.
-
-There’s absolutely NO need for “Cheat Days” and/or “Controlled Binges” on a well-considered Food Plan which nobody forced you to adopt in the first place.
-
-If you’re unhappy with it, go back and change it according to the procedure we’ve already discussed.
-
-If you’re unhappy with it, go back and change it according to the procedure we’ve already discussed.
-
-HARD TO RECOGNIZE SQUEAL #5 ("I Don’t Really Exist") "You know there’s not really a Pig inside you.
-
-HARD TO RECOGNIZE SQUEAL #6 (The "We Can Only Be Grateful Squeal")
-
-there’s ONE super-duper-wonderful thing we can always be grateful for…Pig Slop!
-
-It’s all well and good to be grateful and shun negativity, but the Pig would have you focus on this exclusively. If it succeeds, it will remove your motivation to pursue longer terms goals with
-
-It’s all well and good to be grateful and shun negativity, but the Pig would have you focus on this exclusively. If it succeeds, it will remove your motivation to pursue longer terms goals with the diligence and discipline it takes to achieve them.
 
 HARD TO RECOGNIZE SQUEAL #7 "You just Binged. Shame on you!
 
