@@ -261,51 +261,49 @@ en esto nada más. Si lo consigue, te olvidarás de tu motivación para persegui
 objetivos a largo plazo con la diligencia y disciplina que es necesaria para
 conseguirlos
 
+**Grito #7**: acabas de pegarte un atracón, es tu culpa!
+
+Las personas buenas sienten culpa y vergüenza cuando se decepcionan a sí
+mismos o a otros. Lo ven como una señal para examinar su comportamiento y
+encontrar caminos para mejorar. Quedarse anclado en la culpa es a lo que
+le Cerdo juega contigo.
+
+En tu mundo, no hay un precio que pagar por el atracón.
+
+**Grito #8**: puedes perder las calorías a través de ejercicio
+
+**Grito #9**: debes comer algo fuera del plan de vez en cuando, si no, morirás
+de hambre
+
+**Grito #10**:
+
+Tú usas la inteligencia para alcanzar objetivos y aspiraciones valiosos. El Cerdo
+solo la usa para propósitos destructivos.
+
+**Grito #11**: ya estás lo suficientemente delgado y saludable para terminar con
+un hiper-mega-atracón
+
+**Grito #12**: todo esto va de fuerza de voluntad, y todo el mundo sabe que no se
+puede hacer dieta con la fuerza de voluntad
+
+**Grito #13**: solo esta última vez
+
+**Grito #14**: serás torturado con ansias de comer para siempre
+
+Si sustituyes algo malo con un alimento saludable para alimentar tus necesidades
+nutricionales genuinas, tu cerebro se adaptará y comenzará a echar de menos las
+cosas saludables en lugar de la Bazofia que se supone ansía comer ahora
+
+**Grito #15**: no puedo contigo ahora, pero ya podré contigo más adelante
+
+El Cerdo no tiene una máquina del tiempo, y el único momento en el que puedes darte
+un atracón es ahora. No te preocupes por el después.
+
+**Grito #16**: siempre ha sido así, y tiene que seguir siendo así para siempre
+
 <!-- you left translation here -->
 
-HARD TO RECOGNIZE SQUEAL #7 "You just Binged. Shame on you!
-
-A well person feels guilt and shame when they let themselves or others down. They see it as a signal to examine their behavior and find significant ways to improve. But thereafter holding onto guilt is a Pig’s game.
-
-In your world there’s NO price worth paying for a Binge.
-
-HARD TO RECOGNIZE SQUEAL #8 ("You Can Exercise Off the Calories")
-
-HARD TO RECOGNIZE SQUEAL #9 "You really must eat something off your plan every once in a while or you’ll starve!”
-
-HARD TO RECOGNIZE SQUEAL #10
-
-I’m just as likely to be right as you are.
-
-YOU use intelligence to accomplish worthy goals and aspirations. The Pig uses it for destructive purposes only.
-
-HARD TO RECOGNIZE SQUEAL #11
-
-you’re finally thin and healthy enough to get away with a GREAT BIG GIANT HAIRY BINGE!!!
-
-HARD TO RECOGNIZE SQUEAL #12 "Hold on just a minute now, Bubba! This is about willpower, and everyone knows you can’t diet on willpower alone.
-
-HARD TO HEAR PIG SQUEAL #13 “Just This One Last Time”
-
-HARD TO HEAR PIG SQUEAL #14 “You Will Be Tortured with Cravings Forever!”
-
-
-
-
-
-the brain will neurologically re-wire itself to crave the healthier thing instead.
-
-if you substitute something healthier to feed your body’s genuine nutritional needs—the brain will neurologically re-wire itself to crave the healthier thing instead.
-
-HARD TO HEAR PIG SQUEAL #15 “I Can’t Get You Now But I Will Definitely Get You Later!”
-
-your Pig does NOT have a time machine, and the ONLY time you can ever Binge is right now.
-
-HARD TO HEAR PIG SQUEAL #16 “It’s Always Been This Way So It Must Always BE This Way in the Future”
-
-
-
-Chapter 12: Discipline vs. Regret
+### Capítulo 12: Disciplina Vs. Arrepentimiento
 
 Chapter 13: The Psychology of Bingeing, Not Bingeing, and Thinking Too Much About Food
 
@@ -330,10 +328,6 @@ we consciously decided not to think about what we were doing during a Binge. We 
 Remember, you can and should let go of the guilt and shame associated with Bingeing once you’ve analyzed the Squeals, corrected your Food Plan (if necessary,) and re-committed 100%…
 
 Chapter 16 –Your New Best Friend
-
-
-
-
 
 Chapter 17 – Your Personal Pig Squeal Journal
 
