@@ -134,7 +134,7 @@ Cerdo, no porque haya algún problema con el Plan de Comida en sí mismo.
 Esto se llama *Ataque Sencillo del Cerdo* (Simple Pig Attack), y no
 requiere cambios en tu Plan.
 
-### Capítulo 4: ¿Se considera Atracón saltarse el plan por un bocado?
+### Capítulo 4: ¿se considera Atracón saltarse el plan por un bocado?
 
 Un simple bocadito fuera de un Plan de Comida definido cuidadosamente
 **sí** es un Atracón. Pero en el momento en que te das cuenta de ello,
@@ -301,35 +301,44 @@ un atracón es ahora. No te preocupes por el después.
 
 **Grito #16**: siempre ha sido así, y tiene que seguir siendo así para siempre
 
+### Capítulo 12: disciplina Vs. arrepentimiento
+
+### Capítulo 13: la psicología de atracarse, no atracarse, y pensar demasiado sobre
+comida
+
+Un Plan de Comida disciplinado no limita tu libertad, si no que la mejora 100
+veces. En realidad, es el Cerdo quien busca limitar tu libertad.
+
+No necesitas saber por qué te metes un atracón. Solo tienes que parar de hacerlo,
+nada más.
+
+La noción de que estar mal emocionalmente hace que te metas un atracón es bastante
+perjudicial, porque da al Cerdo licencia para seguir atracándose hasta que eso que
+te molesta haya pasado.
+
+### Capítulo 14: una visión radical sobre la culpa y la vergüenza
+
+Una vez que has hecho un plan 100% firme para no pegarte un atracón nunca más, no
+hay ningún propósito en aferrarse a la culpa o la vergüenza.
+
+Aferrarse a la culpa o vergüenza por un fallo bien analizado y corregido es la forma
+en que el Cerdo de hacer penitencia de antemano para conseguir atracarse otra vez.
+
+### Capítulo 15: atracones inconscientes
+
+Conscientemente decidimos no pensar sobre lo que estábamos haciendo mientras nos
+pegábamos un atracón. Miramos hacia otro lado para que el Cerdo pudiera tener un poco
+de su Bazofia. No estábamos en coma mientras el Cerdo lo hacía.
+
+Recuerda, puedes y debes dejar marchar la culpa y vergüeza asociada a pegarse un
+atracón una vez que has analizado los Gritos, corregido tu Plan de Comida (solo si
+es necesario) y volver a comprometerte al 100%
+
+### Capítulo 16: tu nuevo mejor amigo
+
+### Capítulo 17: tu diario personal de Gritos del Cerdo
+
 <!-- you left translation here -->
-
-### Capítulo 12: Disciplina Vs. Arrepentimiento
-
-Chapter 13: The Psychology of Bingeing, Not Bingeing, and Thinking Too Much About Food
-
-disciplined Food Plan doesn’t restrict your freedom, it enhances it 100 fold. In actuality it is the Pig which seeks to restrict your freedom.
-
-Chapter 13: The Psychology of Bingeing, Not Bingeing, and Thinking Too Much About Food
-
-You do NOT need to know why you Binge. You just need to stop.
-
-The notion that emotional upset causes Binges is actually harmful, because it gives the Pig license to keep Bingeing until the upset is over and/or fully understood.
-
-Chapter 14 – A Radical View on Guilt and Shame
-
-once you’ve made a 100% firm plan to never Binge again, there’s absolutely NO purpose to holding onto your guilt or shame.
-
-Holding onto guilt and shame for a well-analyzed and corrected mistake is the Pig’s way of doing penance in advance for its plan to Binge again.
-
-Chapter 15 – “Unconscious” Bingeing
-
-we consciously decided not to think about what we were doing during a Binge. We turned a blind eye so the Pig could have its Slop. We did NOT go into a temporary coma while the Pig did its thing!
-
-Remember, you can and should let go of the guilt and shame associated with Bingeing once you’ve analyzed the Squeals, corrected your Food Plan (if necessary,) and re-committed 100%…
-
-Chapter 16 –Your New Best Friend
-
-Chapter 17 – Your Personal Pig Squeal Journal
 
 And—especially in the beginning—the Pig will be busy dreaming up NEW ways to disguise its Squeals.
 
