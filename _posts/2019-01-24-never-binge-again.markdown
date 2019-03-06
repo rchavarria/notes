@@ -338,37 +338,31 @@ es necesario) y volver a comprometerte al 100%
 
 ### Capítulo 17: tu diario personal de Gritos del Cerdo
 
-<!-- you left translation here -->
+Sobre todo al principio, el Cerdo va a estar bastante ocupado soñando e ideando
+nuevas formas de disfrazar sus Gritos.
 
-And—especially in the beginning—the Pig will be busy dreaming up NEW ways to disguise its Squeals.
+Una vez que están escritos sobre papel los Gritos del Cerdo, cuesta menos reconocerlos
+e ignorarlos.
 
-Once the Pig’s Squeals are in black and white it takes less energy to recognize and ignore them.
+### Capítulo 18 - ansiedad de atracarse
 
-una vez estan escritods los pensamientos del Pig...
+Lo que hay por debajo de un pensamiento como "Me temo que quizá me meta un atracón" es
+solamente el Cerdo diciendo "De verdad que me gustaría meterme un atracón". Pero no
+eres tú, es el Cerdo.
 
-Chapter 18 – Binge Anxiety
+Cualquier duda sobre tu capacidad de no volver a atracarte nunca más es solamente
+un Grito del Cerdo.
 
-What’s underneath “I’m afraid I might Binge” is just the Pig saying “I really, really want to Binge!”
+### Capítulo 19 - qué hacer cuando no funciona
 
-no eres tu. es el Pig
+### Capítulo 20 - alcohol, drogas y otros Cerdos a dominar
 
-Any and all doubt in your ability to Never Binge Again is Pig Squeal.
+### Capítulo 21 - el Plan de Comida personal del autor
 
-Chapter 19 – What to Do When It’s Not Working
+### Capítulo 22 - el curso práctico que todo el mundo hace
 
-Chapter 20 – Alcohol Pigs, Drug Pigs, and Other Pigs Worth Dominating
+Si te levanas cada vez que fallas, sólo puedes ir mejorando.
 
-Chapter 21 – My Personal Food
+No hay ninguna forma de fallar, sólo puedes pegar tropezones.
 
-Chapter 21 – My Personal Food Plan
-
-Chapter 22 – The Practical Course Most People Take
-
-And if you DO keep getting up, your aim MUST improve!
-
-si te levantas de csda fallo solo puedes ir mejorsando
-
-there is literally NO way to ‘fail’… you can only STUMBLE…
-
-Chapter 23 – Taking the Next Step
-
+### Capítulo 23 - siguiente paso a tomar
