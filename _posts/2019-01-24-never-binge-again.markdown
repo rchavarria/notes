@@ -5,7 +5,23 @@ categories:
 - Personal
 ---
 
+##### de Glenn Livingston
+
+### Por qué lo he leído
+
 <!-- more -->
+
+### De qué trata el libro
+
+### Conclusiones y valoración
+
+### Qué he aprendido
+
+### Frases que me gustaría recordar
+
+### Recursos relacionados
+
+- [Never binge again](https://amzn.to/2C6ivwL), de Glenn Livingston
 
 ## Notas tomadas
 
