@@ -9,15 +9,60 @@ categories:
 
 ### Por qué lo he leído
 
+El título lo dice claro, ¿no? *No te metas un atracón nunca más* (bueno, más o
+menos, esta es mi traducción particular).
+
+Tengo tendencia a incrementar mi masa. No creo que sea por nada malo en particular,
+simplemente, me gusta comer, disfruto comiendo, y los dulces me encantan. Así
+que cualquier excusa es buena para pasarme de la cuenta comiendo.
+
+Vi por twitter que alguien lo recomendaba, que tenía buenos consejos para
+*corregir* cierto vicios, en especial los de la comida, y ahí que fui.
+
 <!-- more -->
 
 ### De qué trata el libro
 
+Se trata de un libro de auto-ayuda, podría decir. La idea general del libro es
+la de separarte a tí de algo que llama *Cerdo* (la idea es usar un nombre lo
+suficientemente desagradable para que te ayude a separarte de ello). A ese
+Cerdo le asigna todo lo malo relacionado con no poder seguir un plan.
+
+El libro intenta convencerte de que para vencer tus ganas de saltarte la dieta,
+de saltarte tu plan, en realidad tienes que vencer al Cerdo, tienes que 
+encarcelar al Cerdo, separarte de él, de lo malo. Ahí es donde veo la parte
+de auto-ayuda.
+
+Todo el libro gira en torno al Cerdo, y de atribuirle toda clase de defectos y
+deseos malignos.
+
+También, el libro está lleno de mensajes alentadores y motivacionales. Éstos
+van dirigidos a tí, a la persona, para que consigas separarte del Cerdo.
+
 ### Conclusiones y valoración
+
+El libro expone una idea que me parece muy buena, la creación de un Plan de
+Comida, creado a conciencia (no con el corazón ni con el estómago), y seguirlo
+a muerte.
+
+El libro está lleno de buenos consejos sobre no sentirte culpable si tropiezas
+en el seguimiento del plan. Nada es culpa tuya, toda la culpa es del Cerdo.
+Me parecen mensajes demasiado *buen rollistas*.
+
+Todo se reduce a separarte del tal Cerdo. Y pasarle todo lo malo a él. Pero
+no estoy convencido al 100% de este *truco*. Me suena haberlo escuchado en
+algún otro sitio, para conseguir algo similar, pero ahora no recuerdo dónde.
 
 ### Qué he aprendido
 
+Debo repasar al confección del Plan de Comida.
+
 ### Frases que me gustaría recordar
+
+> Si cada vez que te levantas de una caída, te estás haciendo cada vez
+más fuerte
+
+<!-- -->
 
 ### Recursos relacionados
 
@@ -120,10 +165,10 @@ sientas venir, dite a ti mismo:
 
 > No voy a comer esa basura de Cerdo nunca más
 
-Toda ansia no es más que un deseo del Cerdo de comer su Basura
+Toda ansia no es más que un deseo del Cerdo de comer su Basura.
 
 Puedes mantener a raya las ansias manteniéndote calentito, hidratado
-y consumiendo comidas sanas de forma consistente y regular
+y consumiendo comidas sanas de forma consistente y regular.
 
 Cuando un drogadicto recae, está haciendo una elección de actuar en
 contra de las normas y la presión social. Por contra, la sociedad de
