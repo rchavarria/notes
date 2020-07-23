@@ -38,3 +38,33 @@ trivial y extremadamente rápido. Veremos cuan rápido es cambiar entre adaptado
 ¿Y si transformamos nuestra aplicación entera para que trabaje con eventos de
 dominio? ¿Cuánto creéis que podrá mejorar? Este capítulo, literalmente,
 te fascinará.
+
+# La agenda que hemos llevado
+
+## Día 1
+
+Problemas de PHP tradicional, bloquear el hilo, beneficios de la programación
+asíncrona, ReactPHP, DriftPHP.
+
+Limitaciones de los frameworks actuales: Symfony, Laravel,...
+
+## Día 2
+
+CQRS y nuestro primer caso de uso: get-user, buscar un usuario por su UID
+
+## Día 3
+
+Revisamos el caso de uso para buscar un usuario.
+
+Continuamos por nuestra cuenta con el segunod caso de uso: crear un usuario
+
+Gestión de errores con promesas, `otherwise`
+
+Diferencias entre POST, PUT y PATCH, verbos HTTP
+
+Comunicación desde el Framework o la Infraestructura con nuestro Dominio. El
+Dominio no depende de nada.
+
+## Día 4
+
+
