@@ -25,5 +25,11 @@ esencial del curso.
 
 ## Deberes
 
+- Añadir una ruta para añadir usuarios, me van a decir el uid y el nombre del
+usuario desde fuera
+- Cómo tiene que ser la petición `curl` para mandar datos como el nombre
+mediante un PUT
+
 ## Referencias
 
+- [Servicios en Symfony](https://symfony.com/doc/current/service_container.html)
