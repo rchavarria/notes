@@ -125,3 +125,8 @@ Entiendo que en DriftPHP no, porque si no, no habría mejora con respecto a
 Symfony
 - En un tick del event loop, ¿sólo se procesa una promesa? ¿Es un round robin?
 - ¿Qué es eso del DBal?
+
+## Recursos
+
+- [API Search](https://apisearch.io)
+- [DriftPHP](https://driftphp.io)

@@ -127,6 +127,9 @@ El uid se lo paso en la URL, `curl -s -X PUT localhost:8000/users/<uid>`
 
 ¿Y el nombre?
 
+## Referencias
+
+- [Servicios en Symfony](https://symfony.com/doc/current/service_container.html)
 
 
 

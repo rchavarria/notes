@@ -1,6 +1,6 @@
 # Agenda
 
-## [Estructura del proyecto](01-estructura-proyecto.md)
+## Estructura del proyecto
 
 Principios básicos de DriftPHP, el framework PHP para trabajar con los
 componentes de ReactPHP y de Symfony.
@@ -26,7 +26,7 @@ del framework así como sus posibles usos.
 - Soporte en servidor por parte de DriftPHP. Server + Watcher
 - Un poco de benchmarking con AB
 
-## [Básicos de Docker](02-basicos-docker.md)
+## Básicos de Docker
 
 Aprenderemos todo lo que necesitamos saber de docker para deployar nuestras
 aplicationes. Este curso asume que ya sabes lo que es docker y para qué sirve.
@@ -47,7 +47,7 @@ pull requests
 - Docker composer para testing
 - Crear un Dockerfile base
 
-## [Fundamentos de ReactPHP](03-fundamentos-reactphp.md)
+## Fundamentos de ReactPHP
 
 Para entender correctamente cómo funciona la programación asíncrona en PHP,
 antes necesitamos aprender cómo funciona ReactPHP internamente.
@@ -69,7 +69,7 @@ esencial del curso.
 - ¿Qué es una promesa?
 - ¿Qué es un stream?
 
-## [Definición del dominio](04-definicion-dominio.md)
+## Definición del dominio
 
 Con un proyecto simple, pero completo, delante nuestro, empezaremos a pensar
 en nuestro modelo. En esta parte no vamos a cargar ninguna dependencia externa
@@ -105,7 +105,7 @@ siendo útil de ninguna de las formas, oye, es un primer paso.
 - Interfaces de repositorios e implementación en memoria
 - Tests completos de nuestras necesidades, tanto unitarios como funcionales
 
-## [Dependencias I/O](05-dependencias-io.md)
+## Dependencias I/O
 
 Una vez nuestro proyecto ya está funcionando correctamente, vamos a trabajar la
 capa de persistencia, como Redis o Mysql. Veremos que testear esta capa es
@@ -126,7 +126,7 @@ Después de este bloque, nuestra aplicación pasará a ser usable.
 - Adaptador Mysql para la capa de persistencia
 - Tests unitarios para los nuevos adaptadores
 
-## [Eventos de dominio](06-eventos-dominio.md)
+## Eventos de dominio
 
 ¿Y si transformamos nuestra aplicación entera para que trabaje con eventos de
 dominio? ¿Cuánto creéis que podrá mejorar? Este capítulo, literalmente,

@@ -73,11 +73,6 @@ que son muy intensos en uso de CPU, podemos estar fastidiando a otros casos de
 uso, pero con CQRS podemos hacer que estos casos de uso sean asíncronos, que se
 ejecuten a parte
 
-## Preguntas
-
-- `tactician` ¿para qué se usa? tactician-bundle,... parece que permite crear
-buses, command-bus, query-bus,...
-
 ## Práctica: añadir una ruta para buscar un usuario por su UID
 
 Vamos a necesitar command y query bus en nuestro proyecto. Añadimos la dependencia
@@ -206,3 +201,18 @@ $ curl -s localhost:8000/users/my-uid
 $ curl -s localhost:8000/users/ruben
 {"uid":"ruben"}
 ```
+
+## Preguntas
+
+- `tactician` ¿para qué se usa? tactician-bundle,... parece que permite crear
+buses, command-bus, query-bus,...
+
+## Recursos
+
+- Teoría similar a la de hoy: https://www.youtube.com/watch?v=3o9bOuJt56k
+- Lista de vídeos sobre ReactPHP: https://www.youtube.com/playlist?list=PLKIEFFgNQYpVmUAKUjT_BRYYOdMHwGt0v
+- [Fowler y CQRS](https://martinfowler.com/bliki/CQRS.html)
+- [Mis problemas ejecutando DriftPHP en Windows](https://github.com/rchavarria/driftphp-skeleton/blob/master/docs/running-project-on-windows.md)
+- [Cómo usar QueryBus en DriftPHP](https://driftphp.io/#/?id=query-bus)
+- [Código de mi práctica](https://github.com/rchavarria/driftphp-skeleton/tree/get-user)
+- [Proyecto skeleton de DriftPHP](https://github.com/driftphp/skeleton)
