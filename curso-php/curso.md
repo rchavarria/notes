@@ -67,4 +67,14 @@ Dominio no depende de nada.
 
 ## Día 4
 
+Terminamos el siguiente caso de uso, put-user, que crea un nuevo usuario en
+nuestro sistema
+
+Aprendemos sobre los middlewares de query/command bus. Crearlos, configurarlos
+y cómo funcionan. Son como los middlewars de Slim, pero con promesas, claro.
+
+Comenzamos con el concepto de Repositorio. La interfaz es parte del Modelo, parte
+del Dominio, y estará junto al modelo de User: entidad, excepciones,...
+
+Las implementaciones de los repositorios... para el siguiente día
 
