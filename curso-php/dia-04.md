@@ -172,3 +172,9 @@ para que la usen, aunque todavía no funcionará porque no tenemos implementaci�
 
 - Hacer el caso de uso de borrar usuario, utilizando el Repositorio. No funcionará
 todavía, pero en conceptualmente sabes hacerlo
+
+## Preguntas
+
+## Referencias
+
+- [DriftPHP middlewares](https://driftphp.io/#/?id=middleware)
