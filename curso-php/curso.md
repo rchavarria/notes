@@ -46,6 +46,10 @@ Las implementaciones de los repositorios... para el siguiente día
 
 ## [Día 5](dia-05.md)
 
+Testear interfaces
+
+Implementamos y testeamos un User Repository, in memory user repository
+
 ## [Día 6](dia-06.md)
 
 ## [Día 7](dia-07.md)
