@@ -3,6 +3,11 @@
 Vemos el uso de la herramienta `ab`, Apache Benchmark, para ver el rendimiento
 de lo que estamos creando.
 
+Vemos cómo lanzar Eventos de Dominio, primero en un bus interno, pero al menos
+es algo asíncrono
+
+También discutimos qué beneficios nos traen los Eventos de Dominio
+
 ## Notas tomadas
 
 Punto de partida:
@@ -82,7 +87,7 @@ adaptador de AMQP**
 
 ### Eventos de Dominio
 
-¿Qué es un evento de dominio? Es algo que ha ocurrido (ha ocurrido) en tu dominio,
+¿Qué es un Evento de Dominio? Es algo que ha ocurrido (ha ocurrido) en tu dominio,
 en el pasado
 
 Un comando/query es una acción que hay que hacer, viene de fuera y entra al
@@ -102,7 +107,7 @@ que hemos hecho ha sido guardarlo para más adelante
 
 ¿Dónde crear las clases? 
 
-- `Domain\Model\User`: podría ser, pero no todos los eventos de Dominio van a 
+- `Domain\Model\User`: podría ser, pero no todos los Eventos de Dominio van a 
 ser del modelo, no todos van a estar relacionados con una entidad
 - `Domain\Event`: estaría bien
 
@@ -151,12 +156,12 @@ Hay que recordar hacer `return $this->eventBus->dispatch()` para que la cadena
 de promesas funcione correctamente (tanto de promesas resolved, como rejected), es
 importante tanto para devolver resultados como para gestionar los errores
 
-¿Alguna utilidad para los eventos de dominio?
+¿Alguna utilidad para los Eventos de Dominio?
 
 - Monitorizar y trazar de lo que pasa en el server
 - Como en PHP todo es síncrono, tú no puedes dejar ciertas tareas para después,
 como lanzar un correo, anotar esto en el log, guardar el estado para luego,...
-**los eventos de Dominio nos dejan hacer estas tareas de forma asíncrona**
+**los Eventos de Dominio nos dejan hacer estas tareas de forma asíncrona**
 (este es un beneficio muy importante de los eventos, la capacidad de dejar
 ciertas tareas para después, mientras termino de procesar la petición tan
 rápido como me sea posible)
@@ -166,14 +171,14 @@ RabbitMQ (adaptador AMQP), pero al menos, algo interno, tenemos un event bus,
 para poder enviar eventos de forma asíncrona
 
 RabbitMQ nos servirá para cuando tengamos que escalar horizontalmente, para comunicar
-los distintos servidores. Un server mandará a RabbitMQ un evento de Dominio, y
+los distintos servidores. Un server mandará a RabbitMQ un Evento de Dominio, y
 todos los servers lo escucharán (incluso él mismo). Luego, cada server decidirá
 si tiene que hacer algo con ellos o no
 
-Otra utilidad de los eventos de dominio, que ha descubierto Marc, y que le ha
+Otra utilidad de los Eventos de Dominio, que ha descubierto Marc, y que le ha
 molado más de sus últimos 5 años de developer
 
-Dos servers, escuchando eventos de Dominio, y cuando escucho un evento
+Dos servers, escuchando Eventos de Dominio, y cuando escucho un evento
 `UserWasCreated`, mi repositorio hace un `findAll` y se hace una copia de todos
 los usuarios en memoria. Esto está bien en ciertos casos:
 
