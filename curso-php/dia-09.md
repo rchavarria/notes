@@ -12,18 +12,18 @@ Para Websockets, hay un bundle específico
 Hasta ahora, pensábamos que en el mismo server se podría estar escuchando un
 puerto HTTP y un puerto de Websockets, pero no es así
 
-El server de Websockets no va a ser el mismo server, vamos a tener un server de
+El servidor de Websockets no va a ser el mismo server, vamos a tener un server de
 HTTP y otro de WBS, se comunicarán entre ellos a través de Eventos de Dominio
 enviados a través del event bus (que irá a través de RabbitMQ)
 
-Añadir la dependencia al bundel en `composer.json`: `drift/websocket-bundle`
+Añadir la dependencia al bundle en `composer.json`: `drift/websocket-bundle`
 
 Activarlo en `bundles.php`
 
-Los datos que vengan por WBS van a ser Eventos de Dominio
+Los datos que vengan por Websockets van a ser Eventos de Dominio
 
 También va a haber rutas, porque es muy parecido a un server HTTP. El protocolo
-WBS va sobre HTTP
+Websockets va sobre HTTP
 
 Cada ruta es una conexión, y nosotros podemos inyectar esa conexión
 
@@ -39,7 +39,7 @@ websocket:
       path: /tms
 ```
 
-¿Qué eventos tenemos en WBS?
+¿Qué eventos tenemos en Websockets?
 
 - Conexión abierta
 - Conexión con error
@@ -47,7 +47,7 @@ websocket:
 - Ha llegado un mensaje
 - Broadcast de mensajes
 
-Vamos a lanzar un evento por el WBS cada vez que se guarda un usuario
+Vamos a lanzar un evento por el Websocket cada vez que se guarda un usuario
 
 Los eventos que no heredan de Event, se meten en DomainEventEnvelope
 
@@ -69,17 +69,17 @@ puedan ser inyectados en caso de ser necesario
 Comprobar que todo funciona, que al hacer PUT de un usuario, los broadcasters
 pillan el evento `UserWasCreated`
 
-Ahora, hay que levantar un nuevo server, que escuche puerto de WBS. Esto se
+Ahora, hay que levantar un nuevo server, que escuche puerto de Websockets. Esto se
 hace con la consola de Symfony
 
 ```
 php bin/console websocket:run 0.0.0.0:1234 --route=events --exchange=my_events
 ```
 
-Si todo funciona bien, al hacer un PUT, el servidor de WBS lo consumirá,
+Si todo funciona bien, al hacer un PUT, el servidor de Websockets lo consumirá,
 porque consume eventos del event bus (parámetro `--exchange` al arrancarlo)
 
-Nos podemos conectar con el cliente WBS del browser
+Nos podemos conectar con el cliente Websockets del browser
 
 Abrimos un `index.html`, solamente para estar conectado al server y el browser
 no se queje
@@ -88,12 +88,12 @@ no se queje
 const conn = new WebSocket('ws://localhost:1234/events');
 ```
 
-Y hasta aquí llegué. Yo no fui capaz de conectar un cliente al servidor de WBS
+Y hasta aquí llegué. Yo no fui capaz de conectar un cliente al servidor de Websockets
 
 ## Deberes
 
 Debemos hacer un server con todo lo visto hasta ahora, y además, una página web
-sencilla, que se conecte al servidor de WBS y tenga dos columnas: 
+sencilla, que se conecte al servidor de Websockets y tenga dos columnas: 
 
 - Izquierda: vista en tiempo real del estado de la base de datos. Al recibir un evento de
 usuario guardado, añade una fila a la tabla. Si el usuario se borra, se borra
@@ -106,5 +106,5 @@ nuestro caso de uso de por qué creemos que nos ha venido bien el curso,...
 
 ## Referencias
 
-- [Página con un cliente muy sencillo de WBS](http://www.websocket.org/echo.html),
-suficiente para testear que podemos conectarnos a nuestro servidor de WBS
+- [Página con un cliente muy sencillo de Websockets](http://www.websocket.org/echo.html),
+suficiente para testear que podemos conectarnos a nuestro servidor de Websockets

@@ -52,6 +52,30 @@ Implementamos y testeamos un User Repository, in memory user repository
 
 ## [Día 6](dia-06.md)
 
+Hoy trabajamos con bases de datos, DBAL y diferentes implementaciones de un
+repositorio.
+
 ## [Día 7](dia-07.md)
 
+Vemos el uso de la herramienta `ab`, Apache Benchmark, para ver el rendimiento
+de lo que estamos creando.
+
+Vemos cómo lanzar Eventos de Dominio, primero en un bus interno, pero al menos
+es algo asíncrono
+
+También discutimos qué beneficios nos traen los Eventos de Dominio
+
 ## [Día 8](dia-08.md)
+
+Ponemos en marcha RabbitMQ como event bus, y a escuchar Eventos de Dominio
+en varios servers
+
+Creamos una optimización para tablas con pocas escrituras (save o delete) y muchas
+lecturas, de forma que con cada Evento de Dominio, se actualice el contenido de
+la tabla en memoria
+
+Por cierto, hoy hemos ido a toda pastilla
+
+## [Día 9](dia-09.md)
+
+Websockets
