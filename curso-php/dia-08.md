@@ -7,6 +7,8 @@ Creamos una optimización para tablas con pocas escrituras (save o delete) y muc
 lecturas, de forma que con cada Evento de Dominio, se actualice el contenido de
 la tabla en memoria
 
+Por cierto, hoy hemos ido a toda pastilla
+
 ## Notas tomadas
 
 Para que un event bus sea asíncrono, algunas arquitecturas como Symfony, lo que
