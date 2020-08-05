@@ -1,6 +1,13 @@
-# Día 9
+---
+title: "Curso DriftPHP: día 9"
+categories:
+- Cursos
+- PHP
+---
 
 Websockets
+
+<!-- more ->
 
 ## Notas tomadas
 

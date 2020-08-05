@@ -1,6 +1,13 @@
-# Día 2
+---
+title: "Curso DriftPHP: día 2"
+categories:
+- Cursos
+- PHP
+---
 
 CQRS y nuestro primer caso de uso: get-user, buscar un usuario por su UID
+
+<!-- more ->
 
 ## Notas tomadas
 

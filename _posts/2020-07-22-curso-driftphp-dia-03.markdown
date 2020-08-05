@@ -1,4 +1,9 @@
-# Día 3
+---
+title: "Curso DriftPHP: día 3"
+categories:
+- Cursos
+- PHP
+---
 
 Revisamos el caso de uso para buscar un usuario.
 
@@ -10,6 +15,8 @@ Diferencias entre POST, PUT y PATCH, verbos HTTP
 
 Comunicación desde el Framework o la Infraestructura con nuestro Dominio. El
 Dominio no depende de nada.
+
+<!-- more ->
 
 ## Notas tomadas
 
@@ -130,12 +137,3 @@ El uid se lo paso en la URL, `curl -s -X PUT localhost:8000/users/<uid>`
 ## Referencias
 
 - [Servicios en Symfony](https://symfony.com/doc/current/service_container.html)
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,9 @@
-# Día 4
+---
+title: "Curso DriftPHP: día 4"
+categories:
+- Cursos
+- PHP
+---
 
 Terminamos el siguiente caso de uso, put-user, que crea un nuevo usuario en
 nuestro sistema
@@ -10,6 +15,8 @@ Comenzamos con el concepto de Repositorio. La interfaz es parte del Modelo, part
 del Dominio, y estará junto al modelo de User: entidad, excepciones,...
 
 Las implementaciones de los repositorios... para el siguiente día
+
+<!-- more ->
 
 ## Notas tomadas
 

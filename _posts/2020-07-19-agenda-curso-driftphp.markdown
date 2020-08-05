@@ -1,4 +1,15 @@
-# Agenda
+---
+title: "Agenda oficial del curso de DriftPHP"
+categories:
+- Cursos
+- PHP
+---
+
+Agenda oficial del [curso](https://php.coach) impartido por
+[Mar Morera](https://mmoreram.com) sobre ReactPHP, CQRS y 
+Even-Driven/Eventos de Dominio.
+
+<!-- more ->
 
 ## Estructura del proyecto
 

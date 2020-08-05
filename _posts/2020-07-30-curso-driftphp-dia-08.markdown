@@ -1,4 +1,9 @@
-# Día 8
+---
+title: "Curso DriftPHP: día 8"
+categories:
+- Cursos
+- PHP
+---
 
 Ponemos en marcha RabbitMQ como event bus, y a escuchar Eventos de Dominio
 en varios servers
@@ -8,6 +13,8 @@ lecturas, de forma que con cada Evento de Dominio, se actualice el contenido de
 la tabla en memoria
 
 Por cierto, hoy hemos ido a toda pastilla
+
+<!-- more ->
 
 ## Notas tomadas
 

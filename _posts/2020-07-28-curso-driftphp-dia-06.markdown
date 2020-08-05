@@ -1,7 +1,14 @@
-# Día 6
+---
+title: "Curso DriftPHP: día 61"
+categories:
+- Cursos
+- PHP
+---
 
 Hoy trabajamos con bases de datos, DBAL y diferentes implementaciones de un
 repositorio.
+
+<!-- more ->
 
 ## Notas tomadas
 

@@ -1,4 +1,9 @@
-# Día 7
+1---
+title: "Curso DriftPHP: día 7"
+categories:
+- Cursos
+- PHP
+---
 
 Vemos el uso de la herramienta `ab`, Apache Benchmark, para ver el rendimiento
 de lo que estamos creando.
@@ -7,6 +12,8 @@ Vemos cómo lanzar Eventos de Dominio, primero en un bus interno, pero al menos
 es algo asíncrono
 
 También discutimos qué beneficios nos traen los Eventos de Dominio
+
+<!-- more ->
 
 ## Notas tomadas
 

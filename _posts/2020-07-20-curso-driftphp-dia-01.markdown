@@ -1,4 +1,18 @@
-# Día 1
+---
+title: "Curso DriftPHP: día 1"
+categories:
+- Cursos
+- PHP
+---
+
+Problemas de PHP tradicional, bloquear el hilo, beneficios de la programación
+asíncrona, ReactPHP, DriftPHP.
+
+Limitaciones de los frameworks actuales: Symfony, Laravel,...
+
+<!-- more ->
+
+## Notas tomadas
 
 Marc creador de [API Search](https://apisearch.io), como idea para separar las
 queries lentas de las rápidas, para que no te bloqueen las lentas

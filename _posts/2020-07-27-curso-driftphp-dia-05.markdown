@@ -1,8 +1,15 @@
-# Día 5
+---
+title: "Curso DriftPHP: día 5"
+categories:
+- Cursos
+- PHP
+---
 
 Testear interfaces
 
 Implementamos y testeamos un User Repository, in memory user repository
+
+<!-- more ->
 
 ## Notas tomadas
 
