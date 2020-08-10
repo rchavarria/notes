@@ -82,7 +82,7 @@ es la conexión DBAL
 Hay que crear la conexión, y crear las tablas:
 [`DBALUserRepositoryTest`](https://github.com/rchavarria/driftphp-skeleton/blob/master/test/DBAL/Model/User/DBALUserRepositoryTest.php)
 
-En `DBALUserRepositoryTest`, tenemos un `User`, con lo que habría que transformar de
+En `DBALUserRepository`, tenemos un `User`, con lo que habría que transformar de
 `User` a otra estructura que no dependiera del Dominio. Por ahora, lo haremos
 en el repositorio, porque solo tenemos una trasformación. Si tuviéramos varios
 repositorios, varias transformaciones, lo extraeríamos a un Transformer,

@@ -19,7 +19,7 @@ Comenzamos clonando el proyecto [skeleton](https://github.com/driftphp/skeleton)
 O también podemos comenzar creándolo con `composer`
 
 ```
-composer create-project drfitphp/skeleton -sdev
+composer create-project drift/skeleton -sdev
 ```
 
 Ese comando clona el proyecto e instala las dependencias. Aquí ya he comenzado

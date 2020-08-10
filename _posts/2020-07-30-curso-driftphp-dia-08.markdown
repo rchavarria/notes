@@ -119,7 +119,7 @@ return $this
     ->then(function (array $users) {
         $this
             ->memory
-            ->loadFroArray($users);
+            ->loadFromArray($users);
         });
 ```
 

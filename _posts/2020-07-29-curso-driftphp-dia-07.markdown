@@ -203,6 +203,8 @@ HTTP y una cola RabbitMQ, cosa que con Symfony no puedes
 
 ## Deberes
 
+Enviar un evento cuando se borra un usuario
+
 ## Referencias
 
 **Faltaría documentación sobre cómo configurar el event bus asíncrono con el
